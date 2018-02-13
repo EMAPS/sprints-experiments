@@ -1,0 +1,450 @@
+source;purpose
+undp_alm;disease
+undp_alm;drought/water scarcity
+undp_alm;extreme weather events
+undp_alm;flood
+undp_alm;land degradation and deforestation
+undp_alm;public health
+undp_alm;sea level rise
+undp_alm;wildfire
+cigrasp;drought
+cigrasp;hydrological drought
+cigrasp;meterological drought
+cigrasp;precipitation change
+cigrasp;sea-level rise
+cigrasp;temperature change
+climatewise;disease
+climatewise;drought/water scarcity
+climatewise;earthquake
+climatewise;extreme weather events
+climatewise;flood
+climatewise;land degradation and deforestation
+climatewise;public health
+climatewise;sea level rise
+climatewise;wildfire
+oecd_riomarkers;administrative costs (non-sector allocable)
+oecd_riomarkers;advanced tech. & managerial training
+oecd_riomarkers;agrarian reform
+oecd_riomarkers;agricultural alternative development
+oecd_riomarkers;agricultural co-operatives
+oecd_riomarkers;agricultural development
+oecd_riomarkers;agricultural education/training
+oecd_riomarkers;agricultural extension
+oecd_riomarkers;agricultural financial services
+oecd_riomarkers;agricultural inputs
+oecd_riomarkers;agricultural land resources
+oecd_riomarkers;agricultural policy & admin. mgmt
+oecd_riomarkers;agricultural research
+oecd_riomarkers;agricultural services
+oecd_riomarkers;agricultural water resources
+oecd_riomarkers;agro-industries
+oecd_riomarkers;anti-corruption organisations and institutions
+oecd_riomarkers;basic drinking water supply
+oecd_riomarkers;basic drinking water supply and basic sanitation
+oecd_riomarkers;basic health infrastructure
+oecd_riomarkers;basic life skills for youth & adults
+oecd_riomarkers;basic nutrition
+oecd_riomarkers;bio-diversity
+oecd_riomarkers;biomass
+oecd_riomarkers;biosphere protection
+oecd_riomarkers;civilian peace-building, conflict prevention and resolution
+oecd_riomarkers;culture and recreation
+oecd_riomarkers;decentralisation and support to subnational govt.
+oecd_riomarkers;democratic participation and civil society
+oecd_riomarkers;disaster prevention and preparedness
+oecd_riomarkers;educ./trng:water supply & sanitation
+oecd_riomarkers;education facilities and training
+oecd_riomarkers;education policy & admin. management
+oecd_riomarkers;elections
+oecd_riomarkers;electrical transmission/distribution
+oecd_riomarkers;emergency food aid
+oecd_riomarkers;energy education/training
+oecd_riomarkers;energy policy and admin. management
+oecd_riomarkers;energy research
+oecd_riomarkers;environmental education/training
+oecd_riomarkers;environmental policy and admin. mgmt
+oecd_riomarkers;environmental research
+oecd_riomarkers;financial policy & admin. management
+oecd_riomarkers;fishery development
+oecd_riomarkers;fishery education/training
+oecd_riomarkers;fishery research
+oecd_riomarkers;fishing policy and admin. management
+oecd_riomarkers;flood prevention/control
+oecd_riomarkers;food aid/food security programmes
+oecd_riomarkers;food crop production
+oecd_riomarkers;forestry development
+oecd_riomarkers;forestry education/training
+oecd_riomarkers;forestry policy & admin. management
+oecd_riomarkers;forestry research
+oecd_riomarkers;formal sector financ. intermediaries
+oecd_riomarkers;fuelwood/charcoal
+oecd_riomarkers;general budget support-related aid
+oecd_riomarkers;geothermal energy
+oecd_riomarkers;health education
+oecd_riomarkers;health personnel development
+oecd_riomarkers;health policy & admin. management
+oecd_riomarkers;higher education
+oecd_riomarkers;housing policy and admin. management
+oecd_riomarkers;human rights
+oecd_riomarkers;hydro-electric power plants
+oecd_riomarkers;industrial crops/export crops
+oecd_riomarkers;infectious disease control
+oecd_riomarkers;informal/semi-formal fin. intermed.
+oecd_riomarkers;legal and judicial development
+oecd_riomarkers;legislatures and political parties
+oecd_riomarkers;livestock
+oecd_riomarkers;low-cost housing
+oecd_riomarkers;material relief assistance and services
+oecd_riomarkers;media and free flow of information
+oecd_riomarkers;medical research
+oecd_riomarkers;multisector aid
+oecd_riomarkers;multisector aid for basic soc. serv.
+oecd_riomarkers;multisector education/training
+oecd_riomarkers;ocean power
+oecd_riomarkers;participation in international peacekeeping operations
+oecd_riomarkers;personnel dvpt: pop. & repro health
+oecd_riomarkers;plant and post-harvest protection and pest control
+oecd_riomarkers;power generat./non-renewable sources
+oecd_riomarkers;power generation/renewable sources
+oecd_riomarkers;promotion of development awareness  (non-sector allocable)
+oecd_riomarkers;public finance management
+oecd_riomarkers;public sector policy and adm. management
+oecd_riomarkers;radio/television/print media
+oecd_riomarkers;reconstruction relief and rehabilitation
+oecd_riomarkers;relief co-ordination; protection and support services
+oecd_riomarkers;reproductive health care
+oecd_riomarkers;research/scientific institutions
+oecd_riomarkers;river basins development
+oecd_riomarkers;road transport
+oecd_riomarkers;rural development
+oecd_riomarkers;sanitation - large systems
+oecd_riomarkers;sectors not specified
+oecd_riomarkers;security system management and reform
+oecd_riomarkers;site preservation
+oecd_riomarkers;small and medium-sized enterprises (sme) development
+oecd_riomarkers;social mitigation of hiv/aids
+oecd_riomarkers;social/welfare services
+oecd_riomarkers;solar energy
+oecd_riomarkers;statistical capacity building
+oecd_riomarkers;teacher training
+oecd_riomarkers;technological research & development
+oecd_riomarkers;trade facilitation
+oecd_riomarkers;trade policy and admin. management
+oecd_riomarkers;transport policy & admin. management
+oecd_riomarkers;urban development and management
+oecd_riomarkers;vocational training
+oecd_riomarkers;waste management/disposal
+oecd_riomarkers;water resources policy/admin. mgmt
+oecd_riomarkers;water resources protection
+oecd_riomarkers;water supply & sanit. - large systems
+oecd_riomarkers;water supply - large systems
+oecd_riomarkers;wind power
+oecd_riomarkers;women's equality organisations and institutions
+climatefundsupdate;agriculture
+climatefundsupdate;agroforestry
+climatefundsupdate;biodiversity
+climatefundsupdate;capacity building
+climatefundsupdate;coastal ecosystem
+climatefundsupdate;coastal ecosystems
+climatefundsupdate;coastal zone
+climatefundsupdate;coastal zone management
+climatefundsupdate;coastal zones
+climatefundsupdate;conservation
+climatefundsupdate;control of water pollution
+climatefundsupdate;development of information system
+climatefundsupdate;disaster management
+climatefundsupdate;disater management
+climatefundsupdate;dykes
+climatefundsupdate;early warning and climate monitoring
+climatefundsupdate;early warning system
+climatefundsupdate;early warning systems
+climatefundsupdate;ecosystem management
+climatefundsupdate;education
+climatefundsupdate;energy
+climatefundsupdate;erosion control
+climatefundsupdate;fisheries
+climatefundsupdate;food security
+climatefundsupdate;forest ecosystem
+climatefundsupdate;forest ecosystems
+climatefundsupdate;forestry
+climatefundsupdate;health
+climatefundsupdate;infrastructure
+climatefundsupdate;institutional capacity building
+climatefundsupdate;insurance
+climatefundsupdate;irrigation
+climatefundsupdate;land management
+climatefundsupdate;land rehabilitation
+climatefundsupdate;land rehabilitation and protection
+climatefundsupdate;livelihood diversification
+climatefundsupdate;livestock
+climatefundsupdate;local capacity building
+climatefundsupdate;mainstreaming
+climatefundsupdate;mainstreaming and  policy  implementation
+climatefundsupdate;marine ecosystems
+climatefundsupdate;meteorological services
+climatefundsupdate;natural resources management
+climatefundsupdate;policy  implementation
+climatefundsupdate;policy adaptation
+climatefundsupdate;policy development
+climatefundsupdate;policy implementation
+climatefundsupdate;prevention
+climatefundsupdate;protection of ecosystem
+climatefundsupdate;public awareness
+climatefundsupdate;public health
+climatefundsupdate;reforestation
+climatefundsupdate;restoration and protection of coastal ecosystem
+climatefundsupdate;restoration of vegetation cover
+climatefundsupdate;river basin
+climatefundsupdate;sanitation
+climatefundsupdate;surface water
+climatefundsupdate;sustainable livelihoods
+climatefundsupdate;sustainable tourism
+climatefundsupdate;technical support
+climatefundsupdate;terrestrial biodiversity conservation
+climatefundsupdate;tourism
+climatefundsupdate;water harvesting
+climatefundsupdate;water management
+climatefundsupdate;water quality
+climatefundsupdate;water resource development
+climatefundsupdate;water resources
+climatefundsupdate;water supply
+climatefundsupdate;water supply infrastructure
+climatefundsupdate;weather/climate information
+climatefundsupdate;wetland ecosystem
+climatefundsupdate;wetland rehabilitation
+climatefundsupdate;women and children
+napa;
+napa;action to change behavior
+napa;agriculture
+napa;agriculture and food security
+napa;agriculture and land management
+napa;agriculture and livelihood diversification
+napa;agriculture and livestock
+napa;agriculture land resources
+napa;agriculture/ livestock
+napa;agriculturecapacity building
+napa;agriculturecapacity building disaster management
+napa;agriculturecapacity building land management
+napa;agricultureland resources and management
+napa;agroforestry
+napa;agroforestry and land rehabilitation
+napa;amelioration of ecological conditions
+napa;and livestock
+napa;arid terrestrial ecosystem
+napa;awareness raising and capacity building
+napa;awareness raisingwater resources
+napa;biodiversity
+napa;biodiversity conservation
+napa;biopesticides
+napa;breeding
+napa;briquetting and carbonization
+napa;building design
+napa;capacity building
+napa;capacity building -education and public awareness
+napa;capacity building -public awareness
+napa;capacity building and agriculture
+napa;capacity building and alternative energy
+napa;capacity building and public awareness
+napa;capacity building and water management
+napa;capacity building for health system
+napa;capacity buildingwater resources
+napa;capacity-building
+napa;carbonization of wood byproducts
+napa;children and pregnant women health
+napa;climate change institutional framework
+napa;climate change-related diseases
+napa;climate proofing sanitation
+napa;climate-related diseases
+napa;coastal ecosystem
+napa;coastal ecosystems
+napa;coastal infrastructure
+napa;coastal protection infrastructure
+napa;coastal zone management
+napa;coastal zonemanagement
+napa;coastal zones
+napa;coastal zones and public awareness
+napa;coastal zones/ecosystems
+napa;communication infrastructure
+napa;community water
+napa;construction materials
+napa;control of water and sanitation
+napa;control of water pollution
+napa;dam rehabilitation
+napa;dams and dykes
+napa;data collection and analysis training and capacity building
+napa;development of information system
+napa;disaster management
+napa;disaster management and capacity building
+napa;disaster preparedness
+napa;disastermanagement
+napa;drilling of water
+napa;dykes
+napa;early warning
+napa;early warning and capacity building
+napa;early warning and climate monitoring
+napa;early warning disaster management
+napa;early warning system
+napa;early warning system and agriculture
+napa;ecosystem management
+napa;ecotourism
+napa;education
+napa;education / public awareness
+napa;education and awareness
+napa;education and capacity building water resources
+napa;education and public awareness
+napa;education andawareness raising on health
+napa;emergency needs
+napa;energy
+napa;energy promotion
+napa;energy saving equipment
+napa;environmental and health mitigation and water management
+napa;epidemic diseases
+napa;erosion control
+napa;eye care
+napa;fisheries
+napa;fisheriesmarine resources
+napa;fishing
+napa;food processing
+napa;food security
+napa;forecasting system
+napa;forest and biodiversity
+napa;forest ecosystem
+napa;forest ecosystems
+napa;forest protection
+napa;forestry
+napa;forestry and biodiversity
+napa;forestry ecosystem
+napa;forrest management capacity building
+napa;fresh
+napa;fuel production from biomass
+napa;fuel wood
+napa;groundwater
+napa;health
+napa;health care
+napa;health education
+napa;health-related information system
+napa;healthcare centers
+napa;hiv/aids
+napa;human institution
+napa;hydraulic infrastructure
+napa;hydropower
+napa;iec infrastructure
+napa;improvement of design and construction
+napa;information-sharing
+napa;infrastructure
+napa;infrastructure and early warning system
+napa;infrastructure design and principles
+napa;infrastructure development
+napa;infrastructure for agricultural tourism
+napa;infrastructure for meteorological stations
+napa;infrastructure legislation and regulations
+napa;infrastructure of protection
+napa;infrastructure protection
+napa;institutional arrangements
+napa;institutional capacity and education
+napa;institutional capacity building
+napa;institutional strengthening
+napa;insurance program
+napa;insurance to cope with climatic disasters
+napa;international representation and institutional capacity building
+napa;irrigation
+napa;land and wetland rehabilitation
+napa;land management
+napa;land protection and preservation
+napa;land rehabilitation
+napa;land rehabilitation and agroforestry
+napa;land rehabilitation and capacity building
+napa;land rehabilitation and management
+napa;land rehabilitation and protection
+napa;land rehabilitation and vegetation restoration
+napa;land rehabilitation/ erosion control
+napa;livelihood diversification
+napa;livestock
+napa;livestockproduction
+napa;local capacity building
+napa;mainstreaming
+napa;mainstreaming and capacity building
+napa;mainstreaming and policy adaptation
+napa;mainstreaming and policy implementation
+napa;malaria
+napa;malaria control
+napa;malaria program
+napa;mangrove ecosystems
+napa;marine ecosystems
+napa;market gardening
+napa;meteorological information system
+napa;meteorological services
+napa;mini hydropower
+napa;natural resources management and capacity building
+napa;natural sites
+napa;new energy technology
+napa;outreach activities
+napa;pests and diseases
+napa;policy development and implementation
+napa;policy implementation
+napa;policy: integration of climate change issues
+napa;prevention
+napa;prevention and control of disease vectors
+napa;prevention and control of vector-borne diseases
+napa;project on climate-related health
+napa;protection of ecosystem
+napa;public awareness
+napa;public awareness and capacity building
+napa;public awareness and education
+napa;public health
+napa;rain water
+napa;reforestation
+napa;rehabilitation of canals
+napa;relocation infrastructure
+napa;renewable energy
+napa;research and development infrastructure
+napa;reservoir
+napa;reservoir rehabilitation
+napa;restoration and protection of coastal ecosystem
+napa;restoration of coral reefs and mangrove vegetation
+napa;restoration of vegetation cover
+napa;river basin
+napa;river dynamics
+napa;runoff water
+napa;solar energy
+napa;strategic and emergency plans on health
+napa;surface water
+napa;sustainable livelihoods
+napa;sustainable tourism
+napa;technical support and agriculture
+napa;terrestrial biodiversity
+napa;terrestrial biodiversity  conservation
+napa;terrestrial ecosystems
+napa;tourism
+napa;underground water
+napa;urban growth
+napa;urban infrastructure and
+napa;vector-borne and climate related diseases
+napa;vectors
+napa;vulnerability mitigation
+napa;water
+napa;water adaptation
+napa;water and energy
+napa;water and sanitation
+napa;water availability
+napa;water gates and water culverts
+napa;water harvesting and  disaster management
+napa;water harvesting and reforestation
+napa;water management
+napa;water quality
+napa;water quality and sanitation
+napa;water resource development
+napa;water resources
+napa;water resources and infrastructure
+napa;water resourcesagriculture
+napa;water supply
+napa;water supply infrastructure
+napa;water supply system
+napa;water way rehabilitation
+napa;wateragriculture
+napa;weather/climate information
+napa;wells
+napa;wetland
+napa;wetland ecosystem
+napa;wetland rehabilitation
+napa;wetlands

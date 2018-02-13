@@ -1,0 +1,4216 @@
+[
+	{
+		"year": 1996,
+		"values": {
+			"nodes": [
+				{
+					"label": "IPCC",
+					"node": "IPCC-1990"
+				},
+				{
+					"label": "in",
+					"node": "in-1990"
+				},
+				{
+					"label": "out",
+					"node": "out-1996"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-1996"
+				}
+			],
+			"links": [
+				{
+					"name": "Veerabhadran_Ramanathan",
+					"source": 0,
+					"value": 7,
+					"target": 2
+				},
+				{
+					"name": "Tuiloma_Neroni_Slade",
+					"source": 1,
+					"value": 2,
+					"target": 3
+				}
+			]
+		}
+	},
+	{
+		"year": 1997,
+		"values": {
+			"nodes": [
+				{
+					"label": "in",
+					"node": "in-1996"
+				},
+				{
+					"label": "out",
+					"node": "out-1996"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-1996"
+				},
+				{
+					"label": "IPCC",
+					"node": "IPCC-1997"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-1997"
+				},
+				{
+					"label": "out",
+					"node": "out-1997"
+				}
+			],
+			"links": [
+				{
+					"name": "Michael_Prather",
+					"source": 0,
+					"value": 8,
+					"target": 3
+				},
+				{
+					"name": "Bert_Bolin",
+					"source": 0,
+					"value": 1,
+					"target": 4
+				},
+				{
+					"name": "Ronald_J._Stouffer",
+					"source": 1,
+					"value": 5,
+					"target": 3
+				},
+				{
+					"name": "Tuiloma_Neroni_Slade",
+					"source": 2,
+					"value": 2,
+					"target": 5
+				}
+			]
+		}
+	},
+	{
+		"year": 1998,
+		"values": {
+			"nodes": [
+				{
+					"label": "IPCC",
+					"node": "IPCC-1997"
+				},
+				{
+					"label": "in",
+					"node": "in-1997"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-1997"
+				},
+				{
+					"label": "out",
+					"node": "out-1997"
+				},
+				{
+					"label": "out",
+					"node": "out-1998"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-1998"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-1998"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-1998"
+				},
+				{
+					"label": "in",
+					"node": "in-1998"
+				}
+			],
+			"links": [
+				{
+					"name": "Michael_Prather",
+					"source": 0,
+					"value": 13,
+					"target": 4
+				},
+				{
+					"name": "Espen_Ronneberg",
+					"source": 1,
+					"value": 3,
+					"target": 5
+				},
+				{
+					"name": "Andrej_Kranjc",
+					"source": 1,
+					"value": 7,
+					"target": 6
+				},
+				{
+					"name": "Harald_Dovland",
+					"source": 1,
+					"value": 3,
+					"target": 7
+				},
+				{
+					"name": "Bert_Bolin",
+					"source": 2,
+					"value": 1,
+					"target": 4
+				},
+				{
+					"name": "Tuiloma_Neroni_Slade",
+					"source": 3,
+					"value": 1,
+					"target": 8
+				}
+			]
+		}
+	},
+	{
+		"year": 1999,
+		"values": {
+			"nodes": [
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-1998"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-1998"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-1998"
+				},
+				{
+					"label": "in",
+					"node": "in-1998"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-1999"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-1999"
+				},
+				{
+					"label": "out",
+					"node": "out-1999"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-1999"
+				}
+			],
+			"links": [
+				{
+					"name": "Espen_Ronneberg",
+					"source": 0,
+					"value": 2,
+					"target": 4
+				},
+				{
+					"name": "Gylvan_Meira_Filho",
+					"source": 0,
+					"value": 1,
+					"target": 6
+				},
+				{
+					"name": "Andrej_Kranjc",
+					"source": 1,
+					"value": 5,
+					"target": 5
+				},
+				{
+					"name": "Renate_Christ",
+					"source": 1,
+					"value": 2,
+					"target": 6
+				},
+				{
+					"name": "Harald_Dovland",
+					"source": 2,
+					"value": 1,
+					"target": 4
+				},
+				{
+					"name": "Mohammad_Reza_Salamat",
+					"source": 2,
+					"value": 1,
+					"target": 5
+				},
+				{
+					"name": "Klaus_Radunsky",
+					"source": 2,
+					"value": 1,
+					"target": 7
+				},
+				{
+					"name": "Jim_Penman",
+					"source": 3,
+					"value": 3,
+					"target": 4
+				},
+				{
+					"name": "Halldor_Thorgeirsson",
+					"source": 3,
+					"value": 3,
+					"target": 5
+				}
+			]
+		}
+	},
+	{
+		"year": 2000,
+		"values": {
+			"nodes": [
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-1999"
+				},
+				{
+					"label": "in",
+					"node": "in-1999"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-1999"
+				},
+				{
+					"label": "out",
+					"node": "out-1999"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-1999"
+				},
+				{
+					"label": "out",
+					"node": "out-2000"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2000"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2000"
+				},
+				{
+					"label": "in",
+					"node": "in-2000"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2000"
+				}
+			],
+			"links": [
+				{
+					"name": "Espen_Ronneberg",
+					"source": 0,
+					"value": 4,
+					"target": 5
+				},
+				{
+					"name": "Harald_Dovland",
+					"source": 0,
+					"value": 2,
+					"target": 6
+				},
+				{
+					"name": "Michael_Zammit_Cutajar",
+					"source": 1,
+					"value": 3,
+					"target": 6
+				},
+				{
+					"name": "Newton_Paciornik",
+					"source": 1,
+					"value": 1,
+					"target": 7
+				},
+				{
+					"name": "Ming_Ma",
+					"source": 1,
+					"value": 1,
+					"target": 9
+				},
+				{
+					"name": "Andrej_Kranjc",
+					"source": 2,
+					"value": 4,
+					"target": 5
+				},
+				{
+					"name": "Mohammad_Reza_Salamat",
+					"source": 2,
+					"value": 3,
+					"target": 6
+				},
+				{
+					"name": "Halldor_Thorgeirsson",
+					"source": 2,
+					"value": 2,
+					"target": 7
+				},
+				{
+					"name": "Gylvan_Meira_Filho",
+					"source": 3,
+					"value": 1,
+					"target": 8
+				},
+				{
+					"name": "Klaus_Radunsky",
+					"source": 4,
+					"value": 1,
+					"target": 5
+				}
+			]
+		}
+	},
+	{
+		"year": 2001,
+		"values": {
+			"nodes": [
+				{
+					"label": "in",
+					"node": "in-2000"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2000"
+				},
+				{
+					"label": "out",
+					"node": "out-2000"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2000"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2000"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2001"
+				},
+				{
+					"label": "IPCC",
+					"node": "IPCC-2001"
+				},
+				{
+					"label": "out",
+					"node": "out-2001"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2001"
+				},
+				{
+					"label": "in",
+					"node": "in-2001"
+				}
+			],
+			"links": [
+				{
+					"name": "Sibusiso_Gamede",
+					"source": 0,
+					"value": 3,
+					"target": 5
+				},
+				{
+					"name": "Michael_Prather",
+					"source": 0,
+					"value": 33,
+					"target": 6
+				},
+				{
+					"name": "Ed_Cooper",
+					"source": 0,
+					"value": 23,
+					"target": 8
+				},
+				{
+					"name": "Michael_Zammit_Cutajar",
+					"source": 1,
+					"value": 5,
+					"target": 7
+				},
+				{
+					"name": "Harald_Dovland",
+					"source": 1,
+					"value": 3,
+					"target": 8
+				},
+				{
+					"name": "Jim_Penman",
+					"source": 2,
+					"value": 1,
+					"target": 9
+				},
+				{
+					"name": "Lambert_Gnapelet",
+					"source": 2,
+					"value": 1,
+					"target": 8
+				},
+				{
+					"name": "Klaus_Radunsky",
+					"source": 2,
+					"value": 1,
+					"target": 5
+				},
+				{
+					"name": "Halldor_Thorgeirsson",
+					"source": 3,
+					"value": 1,
+					"target": 8
+				},
+				{
+					"name": "Helen_Plume",
+					"source": 3,
+					"value": 2,
+					"target": 7
+				},
+				{
+					"name": "Ming_Ma",
+					"source": 4,
+					"value": 1,
+					"target": 7
+				}
+			]
+		}
+	},
+	{
+		"year": 2002,
+		"values": {
+			"nodes": [
+				{
+					"label": "SBI",
+					"node": "SBI-2001"
+				},
+				{
+					"label": "IPCC",
+					"node": "IPCC-2001"
+				},
+				{
+					"label": "in",
+					"node": "in-2001"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2001"
+				},
+				{
+					"label": "out",
+					"node": "out-2001"
+				},
+				{
+					"label": "out",
+					"node": "out-2002"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2002"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2002"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2002"
+				},
+				{
+					"label": "in",
+					"node": "in-2002"
+				}
+			],
+			"links": [
+				{
+					"name": "Sibusiso_Gamede",
+					"source": 0,
+					"value": 2,
+					"target": 5
+				},
+				{
+					"name": "Emily_Ojoo-massawa",
+					"source": 0,
+					"value": 1,
+					"target": 7
+				},
+				{
+					"name": "Karsten_Sach",
+					"source": 0,
+					"value": 1,
+					"target": 6
+				},
+				{
+					"name": "Michael_Prather",
+					"source": 1,
+					"value": 33,
+					"target": 5
+				},
+				{
+					"name": "S._K._Srivastava",
+					"source": 2,
+					"value": 7,
+					"target": 6
+				},
+				{
+					"name": "Jim_Penman",
+					"source": 2,
+					"value": 1,
+					"target": 8
+				},
+				{
+					"name": "Enele_Sopoaga",
+					"source": 2,
+					"value": 5,
+					"target": 7
+				},
+				{
+					"name": "Ed_Cooper",
+					"source": 3,
+					"value": 21,
+					"target": 5
+				},
+				{
+					"name": "Tatyana_Ososkova",
+					"source": 3,
+					"value": 6,
+					"target": 6
+				},
+				{
+					"name": "Rawleston_Moore",
+					"source": 3,
+					"value": 1,
+					"target": 7
+				},
+				{
+					"name": "Helen_Plume",
+					"source": 4,
+					"value": 1,
+					"target": 6
+				},
+				{
+					"name": "Newton_Paciornik",
+					"source": 4,
+					"value": 1,
+					"target": 9
+				}
+			]
+		}
+	},
+	{
+		"year": 2003,
+		"values": {
+			"nodes": [
+				{
+					"label": "in",
+					"node": "in-2002"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2002"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2002"
+				},
+				{
+					"label": "out",
+					"node": "out-2002"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2002"
+				},
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2003"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2003"
+				},
+				{
+					"label": "out",
+					"node": "out-2003"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2003"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2003"
+				},
+				{
+					"label": "Consultative group of experts|SBI|SBSTA",
+					"node": "Consultative group of experts|SBI|SBSTA-2003"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2003"
+				},
+				{
+					"label": "Consultative group of experts|SBI",
+					"node": "Consultative group of experts|SBI-2003"
+				},
+				{
+					"label": "Consultative group of experts",
+					"node": "Consultative group of experts-2003"
+				},
+				{
+					"label": "Officer of the COP|SBI|SBSTA",
+					"node": "Officer of the COP|SBI|SBSTA-2003"
+				},
+				{
+					"label": "Officer of the COP|SBSTA",
+					"node": "Officer of the COP|SBSTA-2003"
+				},
+				{
+					"label": "Officer of the COP|SBI",
+					"node": "Officer of the COP|SBI-2003"
+				}
+			],
+			"links": [
+				{
+					"name": "Sudhir_Sharma",
+					"source": 0,
+					"value": 54,
+					"target": 5
+				},
+				{
+					"name": "Margaret_E._Martin",
+					"source": 0,
+					"value": 9,
+					"target": 6
+				},
+				{
+					"name": "Tahar_Hadj-sadok",
+					"source": 0,
+					"value": 13,
+					"target": 8
+				},
+				{
+					"name": "Brian_Challenger",
+					"source": 0,
+					"value": 1,
+					"target": 10
+				},
+				{
+					"name": "Ali_Khan",
+					"source": 0,
+					"value": 2,
+					"target": 11
+				},
+				{
+					"name": "Klaus_Broersma",
+					"source": 0,
+					"value": 2,
+					"target": 12
+				},
+				{
+					"name": "Christopher_Mitchell",
+					"source": 0,
+					"value": 3,
+					"target": 13
+				},
+				{
+					"name": "Taka_Hiraishi",
+					"source": 0,
+					"value": 1,
+					"target": 9
+				},
+				{
+					"name": "Daniela_Stoycheva",
+					"source": 0,
+					"value": 1,
+					"target": 14
+				},
+				{
+					"name": "Mamadou_Honadia",
+					"source": 0,
+					"value": 1,
+					"target": 16
+				},
+				{
+					"name": "S._K._Srivastava",
+					"source": 1,
+					"value": 4,
+					"target": 7
+				},
+				{
+					"name": "Tatyana_Ososkova",
+					"source": 1,
+					"value": 2,
+					"target": 9
+				},
+				{
+					"name": "Arthur_Rolle",
+					"source": 1,
+					"value": 1,
+					"target": 10
+				},
+				{
+					"name": "Harald_Dovland",
+					"source": 1,
+					"value": 7,
+					"target": 6
+				},
+				{
+					"name": "Helen_Plume",
+					"source": 1,
+					"value": 1,
+					"target": 15
+				},
+				{
+					"name": "Emily_Ojoo-massawa",
+					"source": 2,
+					"value": 3,
+					"target": 8
+				},
+				{
+					"name": "Enele_Sopoaga",
+					"source": 2,
+					"value": 1,
+					"target": 11
+				},
+				{
+					"name": "Rawleston_Moore",
+					"source": 2,
+					"value": 1,
+					"target": 9
+				},
+				{
+					"name": "Isabelle_Niang",
+					"source": 2,
+					"value": 1,
+					"target": 7
+				},
+				{
+					"name": "Mahendra_Kumar",
+					"source": 2,
+					"value": 1,
+					"target": 12
+				},
+				{
+					"name": "Ed_Cooper",
+					"source": 3,
+					"value": 12,
+					"target": 6
+				},
+				{
+					"name": "Vute_Wangwacharakul",
+					"source": 3,
+					"value": 1,
+					"target": 10
+				},
+				{
+					"name": "Jim_Penman",
+					"source": 4,
+					"value": 1,
+					"target": 9
+				}
+			]
+		}
+	},
+	{
+		"year": 2004,
+		"values": {
+			"nodes": [
+				{
+					"label": "in",
+					"node": "in-2003"
+				},
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2003"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2003"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2003"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2003"
+				},
+				{
+					"label": "Consultative group of experts|SBI|SBSTA",
+					"node": "Consultative group of experts|SBI|SBSTA-2003"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2003"
+				},
+				{
+					"label": "Consultative group of experts|SBI",
+					"node": "Consultative group of experts|SBI-2003"
+				},
+				{
+					"label": "Consultative group of experts",
+					"node": "Consultative group of experts-2003"
+				},
+				{
+					"label": "Officer of the COP|SBI|SBSTA",
+					"node": "Officer of the COP|SBI|SBSTA-2003"
+				},
+				{
+					"label": "Officer of the COP|SBSTA",
+					"node": "Officer of the COP|SBSTA-2003"
+				},
+				{
+					"label": "Officer of the COP|SBI",
+					"node": "Officer of the COP|SBI-2003"
+				},
+				{
+					"label": "out",
+					"node": "out-2003"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2004"
+				},
+				{
+					"label": "out",
+					"node": "out-2004"
+				},
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2004"
+				},
+				{
+					"label": "Consultative group of experts",
+					"node": "Consultative group of experts-2004"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2004"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2004"
+				},
+				{
+					"label": "Consultative group of experts|SBSTA",
+					"node": "Consultative group of experts|SBSTA-2004"
+				},
+				{
+					"label": "Consultative group of experts|SBI",
+					"node": "Consultative group of experts|SBI-2004"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2004"
+				},
+				{
+					"label": "Cop Side Event|SBI|SBSTA",
+					"node": "Cop Side Event|SBI|SBSTA-2004"
+				}
+			],
+			"links": [
+				{
+					"name": "Ibrahim_Bin_Ahmed_Al-ajmi",
+					"source": 0,
+					"value": 12,
+					"target": 13
+				},
+				{
+					"name": "Hoku_Saito",
+					"source": 0,
+					"value": 73,
+					"target": 15
+				},
+				{
+					"name": "Mohamed_Mahmoud_Ould_El_Ghaouth",
+					"source": 0,
+					"value": 13,
+					"target": 17
+				},
+				{
+					"name": "Anders_Turesson",
+					"source": 0,
+					"value": 2,
+					"target": 18
+				},
+				{
+					"name": "Bruno_T._Sekoli",
+					"source": 0,
+					"value": 4,
+					"target": 21
+				},
+				{
+					"name": "Alexander_Pisarenko",
+					"source": 0,
+					"value": 2,
+					"target": 20
+				},
+				{
+					"name": "Sudhir_Sharma",
+					"source": 1,
+					"value": 46,
+					"target": 14
+				},
+				{
+					"name": "Barbara_Black",
+					"source": 1,
+					"value": 8,
+					"target": 15
+				},
+				{
+					"name": "Margaret_E._Martin",
+					"source": 2,
+					"value": 17,
+					"target": 13
+				},
+				{
+					"name": "Leonidas_Osvaldo_Girardin",
+					"source": 2,
+					"value": 10,
+					"target": 14
+				},
+				{
+					"name": "Harald_Dovland",
+					"source": 2,
+					"value": 1,
+					"target": 17
+				},
+				{
+					"name": "Tahar_Hadj-sadok",
+					"source": 3,
+					"value": 9,
+					"target": 14
+				},
+				{
+					"name": "Bo_Lim",
+					"source": 3,
+					"value": 4,
+					"target": 16
+				},
+				{
+					"name": "Fadhel_Lari",
+					"source": 3,
+					"value": 3,
+					"target": 17
+				},
+				{
+					"name": "Tatyana_Ososkova",
+					"source": 4,
+					"value": 1,
+					"target": 16
+				},
+				{
+					"name": "Jim_Penman",
+					"source": 4,
+					"value": 1,
+					"target": 18
+				},
+				{
+					"name": "Karsten_Sach",
+					"source": 4,
+					"value": 1,
+					"target": 17
+				},
+				{
+					"name": "Rawleston_Moore",
+					"source": 4,
+					"value": 1,
+					"target": 22
+				},
+				{
+					"name": "Taka_Hiraishi",
+					"source": 4,
+					"value": 1,
+					"target": 13
+				},
+				{
+					"name": "Arthur_Rolle",
+					"source": 5,
+					"value": 2,
+					"target": 19
+				},
+				{
+					"name": "Brian_Challenger",
+					"source": 5,
+					"value": 1,
+					"target": 20
+				},
+				{
+					"name": "Ali_Khan",
+					"source": 6,
+					"value": 2,
+					"target": 21
+				},
+				{
+					"name": "Enele_Sopoaga",
+					"source": 6,
+					"value": 1,
+					"target": 14
+				},
+				{
+					"name": "Klaus_Broersma",
+					"source": 7,
+					"value": 2,
+					"target": 16
+				},
+				{
+					"name": "Lambert_Schneider",
+					"source": 7,
+					"value": 1,
+					"target": 17
+				},
+				{
+					"name": "Christopher_Mitchell",
+					"source": 8,
+					"value": 2,
+					"target": 14
+				},
+				{
+					"name": "Emily_Massawa",
+					"source": 8,
+					"value": 1,
+					"target": 16
+				},
+				{
+					"name": "Daniela_Stoycheva",
+					"source": 9,
+					"value": 1,
+					"target": 17
+				},
+				{
+					"name": "Helen_Plume",
+					"source": 10,
+					"value": 1,
+					"target": 13
+				},
+				{
+					"name": "Mamadou_Honadia",
+					"source": 11,
+					"value": 1,
+					"target": 17
+				},
+				{
+					"name": "Jukka_Uosukainen",
+					"source": 12,
+					"value": 2,
+					"target": 17
+				}
+			]
+		}
+	},
+	{
+		"year": 2005,
+		"values": {
+			"nodes": [
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2004"
+				},
+				{
+					"label": "in",
+					"node": "in-2004"
+				},
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2004"
+				},
+				{
+					"label": "Consultative group of experts",
+					"node": "Consultative group of experts-2004"
+				},
+				{
+					"label": "out",
+					"node": "out-2004"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2004"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2004"
+				},
+				{
+					"label": "Consultative group of experts|SBSTA",
+					"node": "Consultative group of experts|SBSTA-2004"
+				},
+				{
+					"label": "Consultative group of experts|SBI",
+					"node": "Consultative group of experts|SBI-2004"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2004"
+				},
+				{
+					"label": "Cop Side Event|SBI|SBSTA",
+					"node": "Cop Side Event|SBI|SBSTA-2004"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2005"
+				},
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2005"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2005"
+				},
+				{
+					"label": "out",
+					"node": "out-2005"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2005"
+				},
+				{
+					"label": "in",
+					"node": "in-2005"
+				},
+				{
+					"label": "Consultative group of experts|SBI",
+					"node": "Consultative group of experts|SBI-2005"
+				},
+				{
+					"label": "Consultative group of experts|SBI|SBSTA",
+					"node": "Consultative group of experts|SBI|SBSTA-2005"
+				},
+				{
+					"label": "Consultative group of experts",
+					"node": "Consultative group of experts-2005"
+				},
+				{
+					"label": "Officer of the COP|SBSTA",
+					"node": "Officer of the COP|SBSTA-2005"
+				},
+				{
+					"label": "Officer of the COP|SBI",
+					"node": "Officer of the COP|SBI-2005"
+				},
+				{
+					"label": "LEG|SBI",
+					"node": "LEG|SBI-2005"
+				}
+			],
+			"links": [
+				{
+					"name": "Ibrahim_Bin_Ahmed_Al-ajmi",
+					"source": 0,
+					"value": 16,
+					"target": 11
+				},
+				{
+					"name": "Alessandro_Lanza",
+					"source": 0,
+					"value": 12,
+					"target": 14
+				},
+				{
+					"name": "Kishan_Kumarsingh",
+					"source": 0,
+					"value": 1,
+					"target": 20
+				},
+				{
+					"name": "Taka_Hiraishi",
+					"source": 0,
+					"value": 1,
+					"target": 18
+				},
+				{
+					"name": "William_Kojo_Agyemang-bonsu",
+					"source": 0,
+					"value": 1,
+					"target": 13
+				},
+				{
+					"name": "Miriam_Munnich",
+					"source": 1,
+					"value": 110,
+					"target": 12
+				},
+				{
+					"name": "Atilio_Savino",
+					"source": 1,
+					"value": 4,
+					"target": 13
+				},
+				{
+					"name": "Andrej_Kranjc",
+					"source": 1,
+					"value": 5,
+					"target": 11
+				},
+				{
+					"name": "Martha_Perdomo",
+					"source": 1,
+					"value": 1,
+					"target": 17
+				},
+				{
+					"name": "John_W._Ashe",
+					"source": 1,
+					"value": 3,
+					"target": 15
+				},
+				{
+					"name": "Thomas_Becker",
+					"source": 1,
+					"value": 1,
+					"target": 21
+				},
+				{
+					"name": "Paul_Desanker",
+					"source": 1,
+					"value": 1,
+					"target": 22
+				},
+				{
+					"name": "Hoku_Saito",
+					"source": 2,
+					"value": 28,
+					"target": 12
+				},
+				{
+					"name": "Patrick_Mccully",
+					"source": 2,
+					"value": 53,
+					"target": 14
+				},
+				{
+					"name": "Bo_Lim",
+					"source": 3,
+					"value": 3,
+					"target": 14
+				},
+				{
+					"name": "Tatyana_Ososkova",
+					"source": 3,
+					"value": 1,
+					"target": 11
+				},
+				{
+					"name": "Subodh_Kumar_Sharma",
+					"source": 3,
+					"value": 2,
+					"target": 19
+				},
+				{
+					"name": "Mahendra_Kumar",
+					"source": 3,
+					"value": 1,
+					"target": 12
+				},
+				{
+					"name": "Jack_Fitzgerald",
+					"source": 3,
+					"value": 1,
+					"target": 17
+				},
+				{
+					"name": "Emily_Ojoo-massawa",
+					"source": 4,
+					"value": 1,
+					"target": 15
+				},
+				{
+					"name": "Lorenz_Koch",
+					"source": 4,
+					"value": 9,
+					"target": 16
+				},
+				{
+					"name": "Enele_Sopoaga",
+					"source": 4,
+					"value": 1,
+					"target": 13
+				},
+				{
+					"name": "Bernhard_Schlamadinger",
+					"source": 4,
+					"value": 5,
+					"target": 12
+				},
+				{
+					"name": "Newton_Paciornik",
+					"source": 4,
+					"value": 1,
+					"target": 11
+				},
+				{
+					"name": "Mohamed_Mahmoud_Ould_El_Ghaouth",
+					"source": 5,
+					"value": 12,
+					"target": 14
+				},
+				{
+					"name": "Ricardo_Moita",
+					"source": 5,
+					"value": 7,
+					"target": 15
+				},
+				{
+					"name": "Carlos_Fuller",
+					"source": 5,
+					"value": 1,
+					"target": 18
+				},
+				{
+					"name": "Riitta_Pipatti",
+					"source": 5,
+					"value": 1,
+					"target": 19
+				},
+				{
+					"name": "Lilian_Portillo",
+					"source": 5,
+					"value": 1,
+					"target": 17
+				},
+				{
+					"name": "Heorhiy_Veremiychyk",
+					"source": 5,
+					"value": 1,
+					"target": 21
+				},
+				{
+					"name": "Anders_Turesson",
+					"source": 6,
+					"value": 3,
+					"target": 15
+				},
+				{
+					"name": "Arthur_Rolle",
+					"source": 7,
+					"value": 1,
+					"target": 17
+				},
+				{
+					"name": "Vute_Wangwacharakul",
+					"source": 7,
+					"value": 1,
+					"target": 14
+				},
+				{
+					"name": "Brian_Challenger",
+					"source": 8,
+					"value": 1,
+					"target": 14
+				},
+				{
+					"name": "Alexander_Pisarenko",
+					"source": 8,
+					"value": 2,
+					"target": 17
+				},
+				{
+					"name": "Bruno_T._Sekoli",
+					"source": 9,
+					"value": 1,
+					"target": 13
+				},
+				{
+					"name": "Ali_Khan",
+					"source": 9,
+					"value": 2,
+					"target": 11
+				},
+				{
+					"name": "Alexander_Pankin",
+					"source": 9,
+					"value": 2,
+					"target": 14
+				},
+				{
+					"name": "Masao_Nakayama",
+					"source": 9,
+					"value": 1,
+					"target": 15
+				},
+				{
+					"name": "Rawleston_Moore",
+					"source": 10,
+					"value": 1,
+					"target": 15
+				}
+			]
+		}
+	},
+	{
+		"year": 2006,
+		"values": {
+			"nodes": [
+				{
+					"label": "in",
+					"node": "in-2005"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2005"
+				},
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2005"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2005"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2005"
+				},
+				{
+					"label": "Consultative group of experts|SBI",
+					"node": "Consultative group of experts|SBI-2005"
+				},
+				{
+					"label": "Consultative group of experts|SBI|SBSTA",
+					"node": "Consultative group of experts|SBI|SBSTA-2005"
+				},
+				{
+					"label": "Consultative group of experts",
+					"node": "Consultative group of experts-2005"
+				},
+				{
+					"label": "out",
+					"node": "out-2005"
+				},
+				{
+					"label": "Officer of the COP|SBSTA",
+					"node": "Officer of the COP|SBSTA-2005"
+				},
+				{
+					"label": "Officer of the COP|SBI",
+					"node": "Officer of the COP|SBI-2005"
+				},
+				{
+					"label": "LEG|SBI",
+					"node": "LEG|SBI-2005"
+				},
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2006"
+				},
+				{
+					"label": "out",
+					"node": "out-2006"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2006"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2006"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2006"
+				},
+				{
+					"label": "Consultative group of experts|SBI",
+					"node": "Consultative group of experts|SBI-2006"
+				},
+				{
+					"label": "LEG|SBI",
+					"node": "LEG|SBI-2006"
+				},
+				{
+					"label": "Consultative group of experts|SBI|SBSTA",
+					"node": "Consultative group of experts|SBI|SBSTA-2006"
+				},
+				{
+					"label": "Consultative group of experts",
+					"node": "Consultative group of experts-2006"
+				},
+				{
+					"label": "Officer of the COP|SBSTA",
+					"node": "Officer of the COP|SBSTA-2006"
+				},
+				{
+					"label": "in",
+					"node": "in-2006"
+				},
+				{
+					"label": "Consultative group of experts|SBSTA",
+					"node": "Consultative group of experts|SBSTA-2006"
+				},
+				{
+					"label": "Officer of the COP|SBI",
+					"node": "Officer of the COP|SBI-2006"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2006"
+				},
+				{
+					"label": "LEG",
+					"node": "LEG-2006"
+				}
+			],
+			"links": [
+				{
+					"name": "Frede_Cappelen",
+					"source": 0,
+					"value": 72,
+					"target": 12
+				},
+				{
+					"name": "Bagher_Asadi",
+					"source": 0,
+					"value": 5,
+					"target": 14
+				},
+				{
+					"name": "Phetolo_Phage",
+					"source": 0,
+					"value": 8,
+					"target": 15
+				},
+				{
+					"name": "Caroline_Dickson",
+					"source": 0,
+					"value": 2,
+					"target": 17
+				},
+				{
+					"name": "Kunihiko_Shimada",
+					"source": 0,
+					"value": 3,
+					"target": 16
+				},
+				{
+					"name": "Ahmed_Jameel",
+					"source": 0,
+					"value": 4,
+					"target": 18
+				},
+				{
+					"name": "Sigmar_Gabriel",
+					"source": 0,
+					"value": 1,
+					"target": 25
+				},
+				{
+					"name": "Mariette_Maillet",
+					"source": 0,
+					"value": 1,
+					"target": 26
+				},
+				{
+					"name": "Ibrahim_Bin_Ahmed_Al-ajmi",
+					"source": 1,
+					"value": 18,
+					"target": 13
+				},
+				{
+					"name": "Ed_Cooper",
+					"source": 1,
+					"value": 7,
+					"target": 16
+				},
+				{
+					"name": "Miriam_Munnich",
+					"source": 2,
+					"value": 104,
+					"target": 13
+				},
+				{
+					"name": "Claude_Desjarlais",
+					"source": 2,
+					"value": 40,
+					"target": 12
+				},
+				{
+					"name": "Atilio_Savino",
+					"source": 3,
+					"value": 4,
+					"target": 13
+				},
+				{
+					"name": "Ibrahim_Ahmed_Ali_Al-ajmi",
+					"source": 3,
+					"value": 1,
+					"target": 14
+				},
+				{
+					"name": "William_Kojo_Agyemang-bonsu",
+					"source": 3,
+					"value": 1,
+					"target": 24
+				},
+				{
+					"name": "Marcia_Levaggi",
+					"source": 3,
+					"value": 1,
+					"target": 15
+				},
+				{
+					"name": "Emily_Ojoo-massawa",
+					"source": 4,
+					"value": 7,
+					"target": 15
+				},
+				{
+					"name": "Ricardo_Moita",
+					"source": 4,
+					"value": 8,
+					"target": 13
+				},
+				{
+					"name": "Rawleston_Moore",
+					"source": 4,
+					"value": 1,
+					"target": 16
+				},
+				{
+					"name": "Arthur_Rolle",
+					"source": 5,
+					"value": 4,
+					"target": 17
+				},
+				{
+					"name": "Alexander_Pisarenko",
+					"source": 5,
+					"value": 1,
+					"target": 20
+				},
+				{
+					"name": "Satender_Singh",
+					"source": 5,
+					"value": 1,
+					"target": 13
+				},
+				{
+					"name": "Carlos_Fuller",
+					"source": 6,
+					"value": 1,
+					"target": 19
+				},
+				{
+					"name": "Taka_Hiraishi",
+					"source": 6,
+					"value": 1,
+					"target": 17
+				},
+				{
+					"name": "Subodh_Kumar_Sharma",
+					"source": 7,
+					"value": 1,
+					"target": 13
+				},
+				{
+					"name": "Riitta_Pipatti",
+					"source": 7,
+					"value": 1,
+					"target": 23
+				},
+				{
+					"name": "Emily_Massawa",
+					"source": 7,
+					"value": 1,
+					"target": 20
+				},
+				{
+					"name": "Vute_Wangwacharakul",
+					"source": 8,
+					"value": 1,
+					"target": 20
+				},
+				{
+					"name": "Kerstin_Heikenfeldt",
+					"source": 8,
+					"value": 4,
+					"target": 22
+				},
+				{
+					"name": "Paul_Watkinson",
+					"source": 8,
+					"value": 3,
+					"target": 15
+				},
+				{
+					"name": "Faizal_Parish",
+					"source": 8,
+					"value": 1,
+					"target": 12
+				},
+				{
+					"name": "Marcela_Main",
+					"source": 8,
+					"value": 2,
+					"target": 16
+				},
+				{
+					"name": "Alexander_Pankin",
+					"source": 8,
+					"value": 1,
+					"target": 14
+				},
+				{
+					"name": "Kishan_Kumarsingh",
+					"source": 9,
+					"value": 1,
+					"target": 21
+				},
+				{
+					"name": "Thomas_Becker",
+					"source": 10,
+					"value": 1,
+					"target": 15
+				},
+				{
+					"name": "Heorhiy_Veremiychyk",
+					"source": 10,
+					"value": 1,
+					"target": 24
+				},
+				{
+					"name": "Paul_Desanker",
+					"source": 11,
+					"value": 1,
+					"target": 12
+				}
+			]
+		}
+	},
+	{
+		"year": 2007,
+		"values": {
+			"nodes": [
+				{
+					"label": "in",
+					"node": "in-2006"
+				},
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2006"
+				},
+				{
+					"label": "out",
+					"node": "out-2006"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2006"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2006"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2006"
+				},
+				{
+					"label": "Consultative group of experts|SBI",
+					"node": "Consultative group of experts|SBI-2006"
+				},
+				{
+					"label": "LEG|SBI",
+					"node": "LEG|SBI-2006"
+				},
+				{
+					"label": "Consultative group of experts|SBI|SBSTA",
+					"node": "Consultative group of experts|SBI|SBSTA-2006"
+				},
+				{
+					"label": "Consultative group of experts",
+					"node": "Consultative group of experts-2006"
+				},
+				{
+					"label": "Officer of the COP|SBSTA",
+					"node": "Officer of the COP|SBSTA-2006"
+				},
+				{
+					"label": "Consultative group of experts|SBSTA",
+					"node": "Consultative group of experts|SBSTA-2006"
+				},
+				{
+					"label": "Officer of the COP|SBI",
+					"node": "Officer of the COP|SBI-2006"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2006"
+				},
+				{
+					"label": "LEG",
+					"node": "LEG-2006"
+				},
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2007"
+				},
+				{
+					"label": "out",
+					"node": "out-2007"
+				},
+				{
+					"label": "IPCC",
+					"node": "IPCC-2007"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2007"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2007"
+				},
+				{
+					"label": "Officer of the COP|SBI",
+					"node": "Officer of the COP|SBI-2007"
+				},
+				{
+					"label": "Consultative group of experts",
+					"node": "Consultative group of experts-2007"
+				},
+				{
+					"label": "LEG",
+					"node": "LEG-2007"
+				},
+				{
+					"label": "in",
+					"node": "in-2007"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2007"
+				},
+				{
+					"label": "Consultative group of experts|SBI",
+					"node": "Consultative group of experts|SBI-2007"
+				},
+				{
+					"label": "Consultative group of experts|SBSTA",
+					"node": "Consultative group of experts|SBSTA-2007"
+				},
+				{
+					"label": "Consultative group of experts|LEG|SBI",
+					"node": "Consultative group of experts|LEG|SBI-2007"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2007"
+				},
+				{
+					"label": "Officer of the COP|SBSTA",
+					"node": "Officer of the COP|SBSTA-2007"
+				},
+				{
+					"label": "IPCC|LEG",
+					"node": "IPCC|LEG-2007"
+				},
+				{
+					"label": "Cop Side Event|SBSTA",
+					"node": "Cop Side Event|SBSTA-2007"
+				}
+			],
+			"links": [
+				{
+					"name": "Stephanie_Meakin",
+					"source": 0,
+					"value": 154,
+					"target": 15
+				},
+				{
+					"name": "Adrian_Simmons",
+					"source": 0,
+					"value": 68,
+					"target": 17
+				},
+				{
+					"name": "Marina_Shvangiradze",
+					"source": 0,
+					"value": 4,
+					"target": 18
+				},
+				{
+					"name": "Vlad_Trusca",
+					"source": 0,
+					"value": 11,
+					"target": 19
+				},
+				{
+					"name": "Yamil_Bonduki",
+					"source": 0,
+					"value": 1,
+					"target": 21
+				},
+				{
+					"name": "Benjamin_S._Karmorh",
+					"source": 0,
+					"value": 2,
+					"target": 22
+				},
+				{
+					"name": "Ermira_Fida",
+					"source": 0,
+					"value": 6,
+					"target": 24
+				},
+				{
+					"name": "Anke_Herold",
+					"source": 0,
+					"value": 2,
+					"target": 28
+				},
+				{
+					"name": "Frede_Cappelen",
+					"source": 1,
+					"value": 70,
+					"target": 16
+				},
+				{
+					"name": "Jo-ellen_Parry",
+					"source": 1,
+					"value": 44,
+					"target": 15
+				},
+				{
+					"name": "Michel_Den_Elzen",
+					"source": 2,
+					"value": 15,
+					"target": 15
+				},
+				{
+					"name": "Ricardo_Moita",
+					"source": 2,
+					"value": 11,
+					"target": 23
+				},
+				{
+					"name": "Elmer_Holt",
+					"source": 2,
+					"value": 2,
+					"target": 24
+				},
+				{
+					"name": "Bagher_Asadi",
+					"source": 3,
+					"value": 1,
+					"target": 20
+				},
+				{
+					"name": "Ibrahim_Ahmed_Ali_Al-ajmi",
+					"source": 3,
+					"value": 5,
+					"target": 16
+				},
+				{
+					"name": "Alexander_Pankin",
+					"source": 3,
+					"value": 1,
+					"target": 18
+				},
+				{
+					"name": "Emily_Ojoo-massawa",
+					"source": 4,
+					"value": 12,
+					"target": 16
+				},
+				{
+					"name": "Margaret_Sangarwe",
+					"source": 4,
+					"value": 5,
+					"target": 19
+				},
+				{
+					"name": "Mohammed_Mendekar",
+					"source": 4,
+					"value": 2,
+					"target": 21
+				},
+				{
+					"name": "Eva_Jensen",
+					"source": 4,
+					"value": 1,
+					"target": 15
+				},
+				{
+					"name": "Ed_Cooper",
+					"source": 5,
+					"value": 1,
+					"target": 22
+				},
+				{
+					"name": "Kunihiko_Shimada",
+					"source": 5,
+					"value": 6,
+					"target": 24
+				},
+				{
+					"name": "Bernard_Mazijn",
+					"source": 5,
+					"value": 3,
+					"target": 16
+				},
+				{
+					"name": "Helen_Plume",
+					"source": 5,
+					"value": 1,
+					"target": 29
+				},
+				{
+					"name": "Amjad_Abdulla",
+					"source": 5,
+					"value": 1,
+					"target": 19
+				},
+				{
+					"name": "Thelma_Krug",
+					"source": 5,
+					"value": 1,
+					"target": 31
+				},
+				{
+					"name": "Caroline_Dickson",
+					"source": 6,
+					"value": 2,
+					"target": 21
+				},
+				{
+					"name": "Arthur_Rolle",
+					"source": 6,
+					"value": 2,
+					"target": 25
+				},
+				{
+					"name": "Martha_Perdomo",
+					"source": 6,
+					"value": 2,
+					"target": 16
+				},
+				{
+					"name": "Michelle_Campbell",
+					"source": 6,
+					"value": 1,
+					"target": 27
+				},
+				{
+					"name": "Ahmed_Jameel",
+					"source": 7,
+					"value": 3,
+					"target": 22
+				},
+				{
+					"name": "Bubu_Pateh_Jallow",
+					"source": 7,
+					"value": 1,
+					"target": 30
+				},
+				{
+					"name": "Carlos_Fuller",
+					"source": 8,
+					"value": 1,
+					"target": 26
+				},
+				{
+					"name": "Vute_Wangwacharakul",
+					"source": 9,
+					"value": 2,
+					"target": 21
+				},
+				{
+					"name": "Alexander_Pisarenko",
+					"source": 9,
+					"value": 1,
+					"target": 16
+				},
+				{
+					"name": "Kishan_Kumarsingh",
+					"source": 10,
+					"value": 1,
+					"target": 28
+				},
+				{
+					"name": "Riitta_Pipatti",
+					"source": 11,
+					"value": 1,
+					"target": 26
+				},
+				{
+					"name": "William_Kojo_Agyemang-bonsu",
+					"source": 12,
+					"value": 1,
+					"target": 16
+				},
+				{
+					"name": "Heorhiy_Veremiychyk",
+					"source": 12,
+					"value": 1,
+					"target": 15
+				},
+				{
+					"name": "Sigmar_Gabriel",
+					"source": 13,
+					"value": 1,
+					"target": 16
+				},
+				{
+					"name": "Mariette_Maillet",
+					"source": 14,
+					"value": 1,
+					"target": 16
+				}
+			]
+		}
+	},
+	{
+		"year": 2008,
+		"values": {
+			"nodes": [
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2007"
+				},
+				{
+					"label": "in",
+					"node": "in-2007"
+				},
+				{
+					"label": "IPCC",
+					"node": "IPCC-2007"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2007"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2007"
+				},
+				{
+					"label": "Officer of the COP|SBI",
+					"node": "Officer of the COP|SBI-2007"
+				},
+				{
+					"label": "out",
+					"node": "out-2007"
+				},
+				{
+					"label": "Consultative group of experts",
+					"node": "Consultative group of experts-2007"
+				},
+				{
+					"label": "LEG",
+					"node": "LEG-2007"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2007"
+				},
+				{
+					"label": "Consultative group of experts|SBI",
+					"node": "Consultative group of experts|SBI-2007"
+				},
+				{
+					"label": "Consultative group of experts|SBSTA",
+					"node": "Consultative group of experts|SBSTA-2007"
+				},
+				{
+					"label": "Consultative group of experts|LEG|SBI",
+					"node": "Consultative group of experts|LEG|SBI-2007"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2007"
+				},
+				{
+					"label": "Officer of the COP|SBSTA",
+					"node": "Officer of the COP|SBSTA-2007"
+				},
+				{
+					"label": "IPCC|LEG",
+					"node": "IPCC|LEG-2007"
+				},
+				{
+					"label": "Cop Side Event|SBSTA",
+					"node": "Cop Side Event|SBSTA-2007"
+				},
+				{
+					"label": "out",
+					"node": "out-2008"
+				},
+				{
+					"label": "LEG",
+					"node": "LEG-2008"
+				},
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2008"
+				},
+				{
+					"label": "Cop Side Event|Officer of the COP",
+					"node": "Cop Side Event|Officer of the COP-2008"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2008"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2008"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2008"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2008"
+				},
+				{
+					"label": "LEG|SBI",
+					"node": "LEG|SBI-2008"
+				},
+				{
+					"label": "Officer of the COP|SBSTA",
+					"node": "Officer of the COP|SBSTA-2008"
+				},
+				{
+					"label": "Cop Side Event|LEG",
+					"node": "Cop Side Event|LEG-2008"
+				},
+				{
+					"label": "Officer of the COP|SBI|SBSTA",
+					"node": "Officer of the COP|SBI|SBSTA-2008"
+				}
+			],
+			"links": [
+				{
+					"name": "Stephanie_Meakin",
+					"source": 0,
+					"value": 155,
+					"target": 17
+				},
+				{
+					"name": "Alexandre_Grebenkov",
+					"source": 0,
+					"value": 60,
+					"target": 19
+				},
+				{
+					"name": "Batu_Krishna_Uprety",
+					"source": 1,
+					"value": 7,
+					"target": 18
+				},
+				{
+					"name": "Aubrey_Meyer",
+					"source": 1,
+					"value": 152,
+					"target": 19
+				},
+				{
+					"name": "Wenhang_Huang",
+					"source": 1,
+					"value": 9,
+					"target": 21
+				},
+				{
+					"name": "Maciej_Nowicki",
+					"source": 1,
+					"value": 3,
+					"target": 24
+				},
+				{
+					"name": "Purushottam_Ghimire",
+					"source": 1,
+					"value": 5,
+					"target": 22
+				},
+				{
+					"name": "Dominique_Blain",
+					"source": 1,
+					"value": 3,
+					"target": 23
+				},
+				{
+					"name": "Ping_Fu",
+					"source": 1,
+					"value": 1,
+					"target": 27
+				},
+				{
+					"name": "Adrian_Simmons",
+					"source": 2,
+					"value": 68,
+					"target": 17
+				},
+				{
+					"name": "Marina_Shvangiradze",
+					"source": 3,
+					"value": 3,
+					"target": 17
+				},
+				{
+					"name": "Christiana_Figueres",
+					"source": 3,
+					"value": 1,
+					"target": 24
+				},
+				{
+					"name": "Gertraud_Wollansky",
+					"source": 3,
+					"value": 1,
+					"target": 28
+				},
+				{
+					"name": "Vlad_Trusca",
+					"source": 4,
+					"value": 1,
+					"target": 20
+				},
+				{
+					"name": "Ositadinma_Anaedu",
+					"source": 4,
+					"value": 9,
+					"target": 17
+				},
+				{
+					"name": "Margaret_Sangarwe",
+					"source": 4,
+					"value": 5,
+					"target": 21
+				},
+				{
+					"name": "Kristin_Tilley",
+					"source": 4,
+					"value": 2,
+					"target": 23
+				},
+				{
+					"name": "Bagher_Asadi",
+					"source": 5,
+					"value": 1,
+					"target": 21
+				},
+				{
+					"name": "Emily_Ojoo-massawa",
+					"source": 6,
+					"value": 3,
+					"target": 21
+				},
+				{
+					"name": "Steve_Sawyer",
+					"source": 6,
+					"value": 10,
+					"target": 19
+				},
+				{
+					"name": "Yamil_Bonduki",
+					"source": 7,
+					"value": 6,
+					"target": 17
+				},
+				{
+					"name": "Emily_Massawa",
+					"source": 7,
+					"value": 1,
+					"target": 19
+				},
+				{
+					"name": "Ed_Cooper",
+					"source": 8,
+					"value": 5,
+					"target": 17
+				},
+				{
+					"name": "Fred_Machulu_Onduri",
+					"source": 8,
+					"value": 1,
+					"target": 25
+				},
+				{
+					"name": "Kunihiko_Shimada",
+					"source": 9,
+					"value": 5,
+					"target": 22
+				},
+				{
+					"name": "Elmer_Holt",
+					"source": 9,
+					"value": 9,
+					"target": 17
+				},
+				{
+					"name": "Arthur_Rolle",
+					"source": 10,
+					"value": 1,
+					"target": 23
+				},
+				{
+					"name": "Lilian_Portillo",
+					"source": 10,
+					"value": 1,
+					"target": 22
+				},
+				{
+					"name": "Carlos_Fuller",
+					"source": 11,
+					"value": 1,
+					"target": 23
+				},
+				{
+					"name": "Riitta_Pipatti",
+					"source": 11,
+					"value": 1,
+					"target": 17
+				},
+				{
+					"name": "Michelle_Campbell",
+					"source": 12,
+					"value": 1,
+					"target": 21
+				},
+				{
+					"name": "Kishan_Kumarsingh",
+					"source": 13,
+					"value": 2,
+					"target": 22
+				},
+				{
+					"name": "Yvo_De_Boer",
+					"source": 13,
+					"value": 1,
+					"target": 17
+				},
+				{
+					"name": "Helen_Plume",
+					"source": 14,
+					"value": 1,
+					"target": 26
+				},
+				{
+					"name": "Bubu_Pateh_Jallow",
+					"source": 15,
+					"value": 1,
+					"target": 17
+				},
+				{
+					"name": "Thelma_Krug",
+					"source": 16,
+					"value": 1,
+					"target": 17
+				}
+			]
+		}
+	},
+	{
+		"year": 2009,
+		"values": {
+			"nodes": [
+				{
+					"label": "out",
+					"node": "out-2008"
+				},
+				{
+					"label": "in",
+					"node": "in-2008"
+				},
+				{
+					"label": "LEG",
+					"node": "LEG-2008"
+				},
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2008"
+				},
+				{
+					"label": "Cop Side Event|Officer of the COP",
+					"node": "Cop Side Event|Officer of the COP-2008"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2008"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2008"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2008"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2008"
+				},
+				{
+					"label": "LEG|SBI",
+					"node": "LEG|SBI-2008"
+				},
+				{
+					"label": "Officer of the COP|SBSTA",
+					"node": "Officer of the COP|SBSTA-2008"
+				},
+				{
+					"label": "Cop Side Event|LEG",
+					"node": "Cop Side Event|LEG-2008"
+				},
+				{
+					"label": "Officer of the COP|SBI|SBSTA",
+					"node": "Officer of the COP|SBI|SBSTA-2008"
+				},
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2009"
+				},
+				{
+					"label": "LEG",
+					"node": "LEG-2009"
+				},
+				{
+					"label": "out",
+					"node": "out-2009"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2009"
+				},
+				{
+					"label": "in",
+					"node": "in-2009"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2009"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2009"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2009"
+				},
+				{
+					"label": "LEG|SBI",
+					"node": "LEG|SBI-2009"
+				}
+			],
+			"links": [
+				{
+					"name": "Stephanie_Meakin",
+					"source": 0,
+					"value": 23,
+					"target": 13
+				},
+				{
+					"name": "Yamil_Bonduki",
+					"source": 0,
+					"value": 10,
+					"target": 17
+				},
+				{
+					"name": "Monique_Barbut",
+					"source": 0,
+					"value": 1,
+					"target": 16
+				},
+				{
+					"name": "Riitta_Pipatti",
+					"source": 0,
+					"value": 3,
+					"target": 18
+				},
+				{
+					"name": "Jeroen_Van_Bruggen",
+					"source": 1,
+					"value": 266,
+					"target": 13
+				},
+				{
+					"name": "Pa_Ousman_Jarju",
+					"source": 1,
+					"value": 3,
+					"target": 14
+				},
+				{
+					"name": "Mihir_Kanti_Majumder",
+					"source": 1,
+					"value": 4,
+					"target": 18
+				},
+				{
+					"name": "Oleg_Shamanov",
+					"source": 1,
+					"value": 7,
+					"target": 20
+				},
+				{
+					"name": "Quamrul_Islam_Chowdhury",
+					"source": 1,
+					"value": 10,
+					"target": 16
+				},
+				{
+					"name": "Bruce_Wilson",
+					"source": 1,
+					"value": 1,
+					"target": 19
+				},
+				{
+					"name": "Batu_Krishna_Uprety",
+					"source": 2,
+					"value": 4,
+					"target": 14
+				},
+				{
+					"name": "Abdul-rahman_Al-eryani",
+					"source": 2,
+					"value": 3,
+					"target": 15
+				},
+				{
+					"name": "Aubrey_Meyer",
+					"source": 3,
+					"value": 144,
+					"target": 15
+				},
+				{
+					"name": "Andrea_Johnson",
+					"source": 3,
+					"value": 78,
+					"target": 13
+				},
+				{
+					"name": "Andrej_Kranjc",
+					"source": 3,
+					"value": 1,
+					"target": 20
+				},
+				{
+					"name": "Vlad_Trusca",
+					"source": 4,
+					"value": 1,
+					"target": 15
+				},
+				{
+					"name": "Wenhang_Huang",
+					"source": 5,
+					"value": 15,
+					"target": 15
+				},
+				{
+					"name": "Kadio_Ahossane",
+					"source": 5,
+					"value": 3,
+					"target": 16
+				},
+				{
+					"name": "Ana_Maria_Kleymeyer",
+					"source": 5,
+					"value": 1,
+					"target": 13
+				},
+				{
+					"name": "Kunihiko_Shimada",
+					"source": 6,
+					"value": 6,
+					"target": 15
+				},
+				{
+					"name": "Purushottam_Ghimire",
+					"source": 6,
+					"value": 6,
+					"target": 18
+				},
+				{
+					"name": "Anke_Herold",
+					"source": 6,
+					"value": 1,
+					"target": 19
+				},
+				{
+					"name": "Arthur_Rolle",
+					"source": 7,
+					"value": 4,
+					"target": 19
+				},
+				{
+					"name": "Dominique_Blain",
+					"source": 7,
+					"value": 3,
+					"target": 15
+				},
+				{
+					"name": "Maciej_Nowicki",
+					"source": 8,
+					"value": 2,
+					"target": 15
+				},
+				{
+					"name": "Liana_Bratasida",
+					"source": 8,
+					"value": 1,
+					"target": 16
+				},
+				{
+					"name": "Collin_Beck",
+					"source": 8,
+					"value": 1,
+					"target": 20
+				},
+				{
+					"name": "Fred_Machulu_Onduri",
+					"source": 9,
+					"value": 1,
+					"target": 21
+				},
+				{
+					"name": "Helen_Plume",
+					"source": 10,
+					"value": 1,
+					"target": 18
+				},
+				{
+					"name": "Ping_Fu",
+					"source": 11,
+					"value": 1,
+					"target": 15
+				},
+				{
+					"name": "Gertraud_Wollansky",
+					"source": 12,
+					"value": 1,
+					"target": 15
+				}
+			]
+		}
+	},
+	{
+		"year": 2010,
+		"values": {
+			"nodes": [
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2009"
+				},
+				{
+					"label": "LEG",
+					"node": "LEG-2009"
+				},
+				{
+					"label": "in",
+					"node": "in-2009"
+				},
+				{
+					"label": "out",
+					"node": "out-2009"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2009"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2009"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2009"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2009"
+				},
+				{
+					"label": "LEG|SBI",
+					"node": "LEG|SBI-2009"
+				},
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2010"
+				},
+				{
+					"label": "out",
+					"node": "out-2010"
+				},
+				{
+					"label": "LEG",
+					"node": "LEG-2010"
+				},
+				{
+					"label": "Consultative group of experts|SBI",
+					"node": "Consultative group of experts|SBI-2010"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2010"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2010"
+				},
+				{
+					"label": "LEG|SBI",
+					"node": "LEG|SBI-2010"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2010"
+				},
+				{
+					"label": "in",
+					"node": "in-2010"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2010"
+				},
+				{
+					"label": "Cop Side Event|SBSTA",
+					"node": "Cop Side Event|SBSTA-2010"
+				},
+				{
+					"label": "Consultative group of experts",
+					"node": "Consultative group of experts-2010"
+				},
+				{
+					"label": "Cop Side Event|Officer of the COP",
+					"node": "Cop Side Event|Officer of the COP-2010"
+				},
+				{
+					"label": "Consultative group of experts|Cop Side Event|SBI",
+					"node": "Consultative group of experts|Cop Side Event|SBI-2010"
+				},
+				{
+					"label": "Officer of the COP|SBI",
+					"node": "Officer of the COP|SBI-2010"
+				}
+			],
+			"links": [
+				{
+					"name": "Stephanie_Meakin",
+					"source": 0,
+					"value": 92,
+					"target": 9
+				},
+				{
+					"name": "James_Hoggan",
+					"source": 0,
+					"value": 274,
+					"target": 10
+				},
+				{
+					"name": "Hugh_Sealy",
+					"source": 0,
+					"value": 1,
+					"target": 16
+				},
+				{
+					"name": "Yvo_De_Boer",
+					"source": 0,
+					"value": 1,
+					"target": 13
+				},
+				{
+					"name": "Batu_Krishna_Uprety",
+					"source": 1,
+					"value": 4,
+					"target": 11
+				},
+				{
+					"name": "Pa_Ousman_Jarju",
+					"source": 1,
+					"value": 3,
+					"target": 15
+				},
+				{
+					"name": "Cristina_Rivero",
+					"source": 2,
+					"value": 201,
+					"target": 9
+				},
+				{
+					"name": "Irina_Atamuradova",
+					"source": 2,
+					"value": 13,
+					"target": 12
+				},
+				{
+					"name": "Sung-hwan_Son",
+					"source": 2,
+					"value": 3,
+					"target": 14
+				},
+				{
+					"name": "Douglas_Yee",
+					"source": 2,
+					"value": 3,
+					"target": 11
+				},
+				{
+					"name": "Andrew_Ure",
+					"source": 2,
+					"value": 3,
+					"target": 18
+				},
+				{
+					"name": "Peer_Stiansen",
+					"source": 2,
+					"value": 3,
+					"target": 16
+				},
+				{
+					"name": "Vute_Wangwacharakul",
+					"source": 2,
+					"value": 11,
+					"target": 13
+				},
+				{
+					"name": "Taka_Hiraishi",
+					"source": 2,
+					"value": 2,
+					"target": 20
+				},
+				{
+					"name": "Carlos_Mansilla",
+					"source": 2,
+					"value": 1,
+					"target": 22
+				},
+				{
+					"name": "Jim_Watson",
+					"source": 3,
+					"value": 11,
+					"target": 9
+				},
+				{
+					"name": "Jennifer_Haverkamp",
+					"source": 3,
+					"value": 11,
+					"target": 17
+				},
+				{
+					"name": "Michelle_Campbell",
+					"source": 3,
+					"value": 1,
+					"target": 20
+				},
+				{
+					"name": "Artur_Runge-metzger",
+					"source": 3,
+					"value": 1,
+					"target": 21
+				},
+				{
+					"name": "Christiana_Figueres",
+					"source": 3,
+					"value": 2,
+					"target": 13
+				},
+				{
+					"name": "Kadio_Ahossane",
+					"source": 4,
+					"value": 6,
+					"target": 13
+				},
+				{
+					"name": "Quamrul_Islam_Chowdhury",
+					"source": 4,
+					"value": 9,
+					"target": 10
+				},
+				{
+					"name": "Mihir_Kanti_Majumder",
+					"source": 5,
+					"value": 4,
+					"target": 16
+				},
+				{
+					"name": "Michael_Gytarsky",
+					"source": 5,
+					"value": 6,
+					"target": 10
+				},
+				{
+					"name": "Purushottam_Ghimire",
+					"source": 5,
+					"value": 1,
+					"target": 19
+				},
+				{
+					"name": "Ting_Li",
+					"source": 5,
+					"value": 1,
+					"target": 13
+				},
+				{
+					"name": "Hongwei_Yang",
+					"source": 5,
+					"value": 2,
+					"target": 12
+				},
+				{
+					"name": "Arthur_Rolle",
+					"source": 6,
+					"value": 1,
+					"target": 16
+				},
+				{
+					"name": "Carlos_Fuller",
+					"source": 6,
+					"value": 2,
+					"target": 18
+				},
+				{
+					"name": "Holger_Liptow",
+					"source": 6,
+					"value": 2,
+					"target": 10
+				},
+				{
+					"name": "Anke_Herold",
+					"source": 6,
+					"value": 1,
+					"target": 13
+				},
+				{
+					"name": "Andrej_Kranjc",
+					"source": 7,
+					"value": 4,
+					"target": 14
+				},
+				{
+					"name": "Collin_Beck",
+					"source": 7,
+					"value": 4,
+					"target": 10
+				},
+				{
+					"name": "Robert_Owen-jones",
+					"source": 7,
+					"value": 1,
+					"target": 23
+				},
+				{
+					"name": "Fred_Machulu_Onduri",
+					"source": 8,
+					"value": 1,
+					"target": 15
+				}
+			]
+		}
+	},
+	{
+		"year": 2011,
+		"values": {
+			"nodes": [
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2010"
+				},
+				{
+					"label": "in",
+					"node": "in-2010"
+				},
+				{
+					"label": "LEG",
+					"node": "LEG-2010"
+				},
+				{
+					"label": "Consultative group of experts|SBI",
+					"node": "Consultative group of experts|SBI-2010"
+				},
+				{
+					"label": "out",
+					"node": "out-2010"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2010"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2010"
+				},
+				{
+					"label": "LEG|SBI",
+					"node": "LEG|SBI-2010"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2010"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2010"
+				},
+				{
+					"label": "Cop Side Event|SBSTA",
+					"node": "Cop Side Event|SBSTA-2010"
+				},
+				{
+					"label": "Consultative group of experts",
+					"node": "Consultative group of experts-2010"
+				},
+				{
+					"label": "Cop Side Event|Officer of the COP",
+					"node": "Cop Side Event|Officer of the COP-2010"
+				},
+				{
+					"label": "Consultative group of experts|Cop Side Event|SBI",
+					"node": "Consultative group of experts|Cop Side Event|SBI-2010"
+				},
+				{
+					"label": "Officer of the COP|SBI",
+					"node": "Officer of the COP|SBI-2010"
+				},
+				{
+					"label": "out",
+					"node": "out-2011"
+				},
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2011"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2011"
+				},
+				{
+					"label": "LEG",
+					"node": "LEG-2011"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2011"
+				},
+				{
+					"label": "Consultative group of experts",
+					"node": "Consultative group of experts-2011"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2011"
+				},
+				{
+					"label": "in",
+					"node": "in-2011"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2011"
+				},
+				{
+					"label": "Consultative group of experts|SBI",
+					"node": "Consultative group of experts|SBI-2011"
+				},
+				{
+					"label": "Consultative group of experts|SBSTA",
+					"node": "Consultative group of experts|SBSTA-2011"
+				}
+			],
+			"links": [
+				{
+					"name": "Stephanie_Meakin",
+					"source": 0,
+					"value": 199,
+					"target": 15
+				},
+				{
+					"name": "Cristina_Rivero",
+					"source": 0,
+					"value": 105,
+					"target": 16
+				},
+				{
+					"name": "Harmke_Immink",
+					"source": 1,
+					"value": 374,
+					"target": 16
+				},
+				{
+					"name": "Diann_Black_Layne",
+					"source": 1,
+					"value": 8,
+					"target": 17
+				},
+				{
+					"name": "Eline_Ex",
+					"source": 1,
+					"value": 6,
+					"target": 18
+				},
+				{
+					"name": "Patience_Damptey",
+					"source": 1,
+					"value": 1,
+					"target": 20
+				},
+				{
+					"name": "Jeffery_Spooner",
+					"source": 1,
+					"value": 6,
+					"target": 21
+				},
+				{
+					"name": "Maite_Nkoana-",
+					"source": 1,
+					"value": 4,
+					"target": 19
+				},
+				{
+					"name": "Zitouni_Ould-dada",
+					"source": 1,
+					"value": 2,
+					"target": 23
+				},
+				{
+					"name": "Batu_Krishna_Uprety",
+					"source": 2,
+					"value": 3,
+					"target": 18
+				},
+				{
+					"name": "Ali_Lishan",
+					"source": 2,
+					"value": 4,
+					"target": 15
+				},
+				{
+					"name": "Irina_Atamuradova",
+					"source": 3,
+					"value": 1,
+					"target": 15
+				},
+				{
+					"name": "Yamil_Bonduki",
+					"source": 3,
+					"value": 11,
+					"target": 20
+				},
+				{
+					"name": "Kiyoto_Tanabe",
+					"source": 3,
+					"value": 2,
+					"target": 24
+				},
+				{
+					"name": "Erasmia_Kitou",
+					"source": 3,
+					"value": 1,
+					"target": 25
+				},
+				{
+					"name": "Clarisse_Kehler_Siebert",
+					"source": 4,
+					"value": 45,
+					"target": 16
+				},
+				{
+					"name": "Michael_Gytarsky",
+					"source": 4,
+					"value": 3,
+					"target": 21
+				},
+				{
+					"name": "Vince_Reardon",
+					"source": 4,
+					"value": 11,
+					"target": 22
+				},
+				{
+					"name": "Helen_Plume",
+					"source": 4,
+					"value": 1,
+					"target": 17
+				},
+				{
+					"name": "Thinley_Namgyel",
+					"source": 4,
+					"value": 1,
+					"target": 18
+				},
+				{
+					"name": "Kadio_Ahossane",
+					"source": 5,
+					"value": 15,
+					"target": 15
+				},
+				{
+					"name": "Rence_Sore",
+					"source": 5,
+					"value": 6,
+					"target": 17
+				},
+				{
+					"name": "Christiana_Figueres",
+					"source": 5,
+					"value": 1,
+					"target": 16
+				},
+				{
+					"name": "Sung-hwan_Son",
+					"source": 6,
+					"value": 2,
+					"target": 19
+				},
+				{
+					"name": "Patricia_Espinosa",
+					"source": 6,
+					"value": 5,
+					"target": 15
+				},
+				{
+					"name": "Pa_Ousman_Jarju",
+					"source": 7,
+					"value": 3,
+					"target": 15
+				},
+				{
+					"name": "Beth_Lavender",
+					"source": 7,
+					"value": 1,
+					"target": 18
+				},
+				{
+					"name": "Mihir_Kanti_Majumder",
+					"source": 8,
+					"value": 6,
+					"target": 21
+				},
+				{
+					"name": "Arthur_Rolle",
+					"source": 8,
+					"value": 3,
+					"target": 15
+				},
+				{
+					"name": "Andrew_Ure",
+					"source": 9,
+					"value": 1,
+					"target": 17
+				},
+				{
+					"name": "Carlos_Fuller",
+					"source": 9,
+					"value": 1,
+					"target": 23
+				},
+				{
+					"name": "Bruce_Wilson",
+					"source": 9,
+					"value": 2,
+					"target": 15
+				},
+				{
+					"name": "Nagmeldin_Goutbi_Elhassan",
+					"source": 9,
+					"value": 1,
+					"target": 21
+				},
+				{
+					"name": "Purushottam_Ghimire",
+					"source": 10,
+					"value": 1,
+					"target": 21
+				},
+				{
+					"name": "Michelle_Campbell",
+					"source": 11,
+					"value": 3,
+					"target": 20
+				},
+				{
+					"name": "Artur_Runge-metzger",
+					"source": 12,
+					"value": 1,
+					"target": 19
+				},
+				{
+					"name": "Carlos_Mansilla",
+					"source": 13,
+					"value": 1,
+					"target": 20
+				},
+				{
+					"name": "Robert_Owen-jones",
+					"source": 14,
+					"value": 1,
+					"target": 23
+				}
+			]
+		}
+	},
+	{
+		"year": 2012,
+		"values": {
+			"nodes": [
+				{
+					"label": "in",
+					"node": "in-2011"
+				},
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2011"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2011"
+				},
+				{
+					"label": "LEG",
+					"node": "LEG-2011"
+				},
+				{
+					"label": "out",
+					"node": "out-2011"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2011"
+				},
+				{
+					"label": "Consultative group of experts",
+					"node": "Consultative group of experts-2011"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2011"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2011"
+				},
+				{
+					"label": "Consultative group of experts|SBI",
+					"node": "Consultative group of experts|SBI-2011"
+				},
+				{
+					"label": "Consultative group of experts|SBSTA",
+					"node": "Consultative group of experts|SBSTA-2011"
+				},
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2012"
+				},
+				{
+					"label": "out",
+					"node": "out-2012"
+				},
+				{
+					"label": "LEG",
+					"node": "LEG-2012"
+				},
+				{
+					"label": "Consultative group of experts",
+					"node": "Consultative group of experts-2012"
+				},
+				{
+					"label": "Adaption Committee",
+					"node": "Adaption Committee-2012"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2012"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2012"
+				},
+				{
+					"label": "Consultative group of experts|SBSTA",
+					"node": "Consultative group of experts|SBSTA-2012"
+				},
+				{
+					"label": "Adaption Committee|SBI|SBSTA",
+					"node": "Adaption Committee|SBI|SBSTA-2012"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2012"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2012"
+				},
+				{
+					"label": "in",
+					"node": "in-2012"
+				},
+				{
+					"label": "Adaption Committee|SBI",
+					"node": "Adaption Committee|SBI-2012"
+				},
+				{
+					"label": "Cop Side Event|SBSTA",
+					"node": "Cop Side Event|SBSTA-2012"
+				},
+				{
+					"label": "Consultative group of experts|SBI",
+					"node": "Consultative group of experts|SBI-2012"
+				},
+				{
+					"label": "Cop Side Event|SBI",
+					"node": "Cop Side Event|SBI-2012"
+				}
+			],
+			"links": [
+				{
+					"name": "Mohan_Munasinghe",
+					"source": 0,
+					"value": 330,
+					"target": 11
+				},
+				{
+					"name": "Kate_Larsen",
+					"source": 0,
+					"value": 5,
+					"target": 14
+				},
+				{
+					"name": "Sumaya_Ahmed_Zakieldeen",
+					"source": 0,
+					"value": 9,
+					"target": 15
+				},
+				{
+					"name": "Tony_Carritt",
+					"source": 0,
+					"value": 12,
+					"target": 16
+				},
+				{
+					"name": "Chris_Moseki",
+					"source": 0,
+					"value": 5,
+					"target": 17
+				},
+				{
+					"name": "Qiang_Liu",
+					"source": 0,
+					"value": 2,
+					"target": 18
+				},
+				{
+					"name": "Ugyen_Tshewang",
+					"source": 0,
+					"value": 1,
+					"target": 13
+				},
+				{
+					"name": "Christina_Chan",
+					"source": 0,
+					"value": 1,
+					"target": 19
+				},
+				{
+					"name": "Delano_Bart",
+					"source": 0,
+					"value": 2,
+					"target": 21
+				},
+				{
+					"name": "Amjad_Abdulla",
+					"source": 0,
+					"value": 1,
+					"target": 23
+				},
+				{
+					"name": "Christina_Voigt",
+					"source": 0,
+					"value": 1,
+					"target": 26
+				},
+				{
+					"name": "Harmke_Immink",
+					"source": 1,
+					"value": 371,
+					"target": 12
+				},
+				{
+					"name": "Balgis_Osman",
+					"source": 1,
+					"value": 153,
+					"target": 11
+				},
+				{
+					"name": "Richard_Merzian",
+					"source": 1,
+					"value": 1,
+					"target": 16
+				},
+				{
+					"name": "Diann_Black_Layne",
+					"source": 2,
+					"value": 9,
+					"target": 12
+				},
+				{
+					"name": "Yaw_Bediako_Osafo",
+					"source": 2,
+					"value": 5,
+					"target": 16
+				},
+				{
+					"name": "Helen_Plume",
+					"source": 2,
+					"value": 1,
+					"target": 17
+				},
+				{
+					"name": "Alexa_Kleysteuber",
+					"source": 2,
+					"value": 1,
+					"target": 11
+				},
+				{
+					"name": "Batu_Krishna_Uprety",
+					"source": 3,
+					"value": 9,
+					"target": 13
+				},
+				{
+					"name": "Eline_Ex",
+					"source": 3,
+					"value": 1,
+					"target": 12
+				},
+				{
+					"name": "Fredrick_Kossam",
+					"source": 3,
+					"value": 1,
+					"target": 15
+				},
+				{
+					"name": "Yuri_Okubo",
+					"source": 4,
+					"value": 27,
+					"target": 11
+				},
+				{
+					"name": "Amanda_Katili_Niode",
+					"source": 4,
+					"value": 3,
+					"target": 22
+				},
+				{
+					"name": "Ilhomjon_Rajabov",
+					"source": 4,
+					"value": 1,
+					"target": 16
+				},
+				{
+					"name": "Anke_Herold",
+					"source": 4,
+					"value": 1,
+					"target": 24
+				},
+				{
+					"name": "Ting_Li",
+					"source": 4,
+					"value": 1,
+					"target": 13
+				},
+				{
+					"name": "Juan_Pablo",
+					"source": 4,
+					"value": 1,
+					"target": 15
+				},
+				{
+					"name": "Sung-hwan_Son",
+					"source": 5,
+					"value": 3,
+					"target": 12
+				},
+				{
+					"name": "Maite_Nkoana-",
+					"source": 5,
+					"value": 2,
+					"target": 11
+				},
+				{
+					"name": "Gary_Cowan",
+					"source": 5,
+					"value": 1,
+					"target": 21
+				},
+				{
+					"name": "Tomasz_Chruszczow",
+					"source": 5,
+					"value": 1,
+					"target": 19
+				},
+				{
+					"name": "Yamil_Bonduki",
+					"source": 6,
+					"value": 11,
+					"target": 14
+				},
+				{
+					"name": "Jocelyn_Paul",
+					"source": 6,
+					"value": 2,
+					"target": 12
+				},
+				{
+					"name": "Matti_Nummelin",
+					"source": 6,
+					"value": 1,
+					"target": 13
+				},
+				{
+					"name": "Abias_Moma_Huongo",
+					"source": 6,
+					"value": 1,
+					"target": 18
+				},
+				{
+					"name": "Ruleta_Camacho",
+					"source": 6,
+					"value": 1,
+					"target": 25
+				},
+				{
+					"name": "Mihir_Kanti_Majumder",
+					"source": 7,
+					"value": 8,
+					"target": 12
+				},
+				{
+					"name": "Michael_Gytarsky",
+					"source": 7,
+					"value": 6,
+					"target": 17
+				},
+				{
+					"name": "Kishan_Kumarsingh",
+					"source": 7,
+					"value": 2,
+					"target": 20
+				},
+				{
+					"name": "Don_Lemmen",
+					"source": 7,
+					"value": 1,
+					"target": 16
+				},
+				{
+					"name": "Carlos_Fuller",
+					"source": 8,
+					"value": 2,
+					"target": 20
+				},
+				{
+					"name": "Anastasia_Theodorou",
+					"source": 8,
+					"value": 2,
+					"target": 12
+				},
+				{
+					"name": "Kiyoto_Tanabe",
+					"source": 9,
+					"value": 1,
+					"target": 25
+				},
+				{
+					"name": "Sangchan_Limjirakan",
+					"source": 9,
+					"value": 1,
+					"target": 14
+				},
+				{
+					"name": "Erasmia_Kitou",
+					"source": 10,
+					"value": 1,
+					"target": 12
+				}
+			]
+		}
+	},
+	{
+		"year": 2013,
+		"values": {
+			"nodes": [
+				{
+					"label": "Cop Side Event",
+					"node": "Cop Side Event-2012"
+				},
+				{
+					"label": "LEG",
+					"node": "LEG-2012"
+				},
+				{
+					"label": "in",
+					"node": "in-2012"
+				},
+				{
+					"label": "Consultative group of experts",
+					"node": "Consultative group of experts-2012"
+				},
+				{
+					"label": "Adaption Committee",
+					"node": "Adaption Committee-2012"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2012"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2012"
+				},
+				{
+					"label": "Consultative group of experts|SBSTA",
+					"node": "Consultative group of experts|SBSTA-2012"
+				},
+				{
+					"label": "Adaption Committee|SBI|SBSTA",
+					"node": "Adaption Committee|SBI|SBSTA-2012"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2012"
+				},
+				{
+					"label": "out",
+					"node": "out-2012"
+				},
+				{
+					"label": "Officer of the COP",
+					"node": "Officer of the COP-2012"
+				},
+				{
+					"label": "Adaption Committee|SBI",
+					"node": "Adaption Committee|SBI-2012"
+				},
+				{
+					"label": "Cop Side Event|SBSTA",
+					"node": "Cop Side Event|SBSTA-2012"
+				},
+				{
+					"label": "Consultative group of experts|SBI",
+					"node": "Consultative group of experts|SBI-2012"
+				},
+				{
+					"label": "Cop Side Event|SBI",
+					"node": "Cop Side Event|SBI-2012"
+				},
+				{
+					"label": "out",
+					"node": "out-2013"
+				},
+				{
+					"label": "LEG|SBI",
+					"node": "LEG|SBI-2013"
+				},
+				{
+					"label": "IPCC",
+					"node": "IPCC-2013"
+				},
+				{
+					"label": "Consultative group of experts",
+					"node": "Consultative group of experts-2013"
+				},
+				{
+					"label": "SBSTA",
+					"node": "SBSTA-2013"
+				},
+				{
+					"label": "SBI|SBSTA",
+					"node": "SBI|SBSTA-2013"
+				},
+				{
+					"label": "SBI",
+					"node": "SBI-2013"
+				},
+				{
+					"label": "LEG",
+					"node": "LEG-2013"
+				},
+				{
+					"label": "Consultative group of experts|SBSTA",
+					"node": "Consultative group of experts|SBSTA-2013"
+				},
+				{
+					"label": "IPCC|SBSTA",
+					"node": "IPCC|SBSTA-2013"
+				},
+				{
+					"label": "Consultative group of experts|SBI",
+					"node": "Consultative group of experts|SBI-2013"
+				},
+				{
+					"label": "LEG|SBI|SBSTA",
+					"node": "LEG|SBI|SBSTA-2013"
+				}
+			],
+			"links": [
+				{
+					"name": "Mohan_Munasinghe",
+					"source": 0,
+					"value": 507,
+					"target": 16
+				},
+				{
+					"name": "Drew_Shindell",
+					"source": 0,
+					"value": 2,
+					"target": 18
+				},
+				{
+					"name": "Martin_Cames",
+					"source": 0,
+					"value": 1,
+					"target": 20
+				},
+				{
+					"name": "Christiana_Figueres",
+					"source": 0,
+					"value": 1,
+					"target": 23
+				},
+				{
+					"name": "Keith_Anderson",
+					"source": 0,
+					"value": 2,
+					"target": 21
+				},
+				{
+					"name": "Batu_Krishna_Uprety",
+					"source": 1,
+					"value": 1,
+					"target": 17
+				},
+				{
+					"name": "Pepetua_Election_Latasi",
+					"source": 1,
+					"value": 9,
+					"target": 23
+				},
+				{
+					"name": "Ugyen_Tshewang",
+					"source": 1,
+					"value": 2,
+					"target": 16
+				},
+				{
+					"name": "Adrian_Simmons",
+					"source": 2,
+					"value": 68,
+					"target": 18
+				},
+				{
+					"name": "Anne_Nyatichi_Omambia",
+					"source": 2,
+					"value": 6,
+					"target": 19
+				},
+				{
+					"name": "Christiane_Textor",
+					"source": 2,
+					"value": 14,
+					"target": 20
+				},
+				{
+					"name": "Stig_Svenningsen",
+					"source": 2,
+					"value": 4,
+					"target": 21
+				},
+				{
+					"name": "Karsten_Karschunke",
+					"source": 2,
+					"value": 11,
+					"target": 22
+				},
+				{
+					"name": "Ping_Li",
+					"source": 2,
+					"value": 1,
+					"target": 25
+				},
+				{
+					"name": "Prakash_Mathema",
+					"source": 2,
+					"value": 1,
+					"target": 23
+				},
+				{
+					"name": "Kamel_Djemouai",
+					"source": 2,
+					"value": 1,
+					"target": 26
+				},
+				{
+					"name": "Kate_Larsen",
+					"source": 3,
+					"value": 9,
+					"target": 16
+				},
+				{
+					"name": "Yamil_Bonduki",
+					"source": 3,
+					"value": 8,
+					"target": 19
+				},
+				{
+					"name": "Sumaya_Ahmed_Zakieldeen",
+					"source": 4,
+					"value": 11,
+					"target": 16
+				},
+				{
+					"name": "Tony_Carritt",
+					"source": 5,
+					"value": 14,
+					"target": 16
+				},
+				{
+					"name": "Kunihiko_Shimada",
+					"source": 5,
+					"value": 1,
+					"target": 21
+				},
+				{
+					"name": "Suzanty_Sitorus",
+					"source": 5,
+					"value": 4,
+					"target": 22
+				},
+				{
+					"name": "Don_Lemmen",
+					"source": 5,
+					"value": 1,
+					"target": 20
+				},
+				{
+					"name": "Chris_Moseki",
+					"source": 6,
+					"value": 8,
+					"target": 20
+				},
+				{
+					"name": "Michael_Gytarsky",
+					"source": 6,
+					"value": 3,
+					"target": 16
+				},
+				{
+					"name": "Helen_Plume",
+					"source": 6,
+					"value": 1,
+					"target": 21
+				},
+				{
+					"name": "Qiang_Liu",
+					"source": 7,
+					"value": 2,
+					"target": 24
+				},
+				{
+					"name": "Abias_Moma_Huongo",
+					"source": 7,
+					"value": 1,
+					"target": 19
+				},
+				{
+					"name": "Christina_Chan",
+					"source": 8,
+					"value": 1,
+					"target": 21
+				},
+				{
+					"name": "Tomasz_Chruszczow",
+					"source": 8,
+					"value": 1,
+					"target": 27
+				},
+				{
+					"name": "Carlos_Fuller",
+					"source": 9,
+					"value": 2,
+					"target": 21
+				},
+				{
+					"name": "Kishan_Kumarsingh",
+					"source": 9,
+					"value": 2,
+					"target": 16
+				},
+				{
+					"name": "Jeffery_Spooner",
+					"source": 10,
+					"value": 2,
+					"target": 20
+				},
+				{
+					"name": "Edmo_Campos",
+					"source": 10,
+					"value": 1,
+					"target": 18
+				},
+				{
+					"name": "Marianne_Karlsen",
+					"source": 10,
+					"value": 1,
+					"target": 23
+				},
+				{
+					"name": "Delano_Bart",
+					"source": 11,
+					"value": 3,
+					"target": 16
+				},
+				{
+					"name": "Amjad_Abdulla",
+					"source": 12,
+					"value": 1,
+					"target": 22
+				},
+				{
+					"name": "Anke_Herold",
+					"source": 13,
+					"value": 1,
+					"target": 20
+				},
+				{
+					"name": "Kiyoto_Tanabe",
+					"source": 14,
+					"value": 1,
+					"target": 26
+				},
+				{
+					"name": "Ruleta_Camacho",
+					"source": 14,
+					"value": 1,
+					"target": 19
+				},
+				{
+					"name": "Christina_Voigt",
+					"source": 15,
+					"value": 1,
+					"target": 16
+				}
+			]
+		}
+	}
+] 

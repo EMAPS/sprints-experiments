@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Climate change adaptation data sets</title>
+        <style>
+
+            html {
+                min-width: 1040px;
+
+            }
+            body {
+                margin: 1em auto 1em auto;
+                width: 960px;
+            }
+            header,
+            footer {
+                font-size: small;
+            }
+
+            text.active {
+                fill: #B0CFCD;
+            }
+            text {
+                font-family: "Source Sans Pro";
+                font-size: 10px;
+            }
+            .mat-sel{
+              fill:#B0CFCD !important;
+            }
+
+        </style>
+        <!--<script src="http://d3js.org/d3.v2.min.js?2.8.1"></script>-->
+        <script src="d3.v2.min.js"></script>
+
+    </head>
+    <body>
+        <header>
+            <form name='form' id='form'>
+                <span id='select0'>
+                    Dataset:
+                    <select name="dataset" id="dataset">
+                        <option value="undp">UNDP Adaptation Learning Mechanism</option>
+                        <option value="psi">UNFCCC Private Sector Initiative</option>
+                        <option value="climatewise">ClimateWise on Insurance Industry</option>
+                        <option value="cigrasp">Ci-Grasp</option>
+                        <option value="oecd">OECD riomarkers</option>
+                        <option value="climatefundsupdate">Climate Funds Update (multi-lateral)</option>
+                        <option value="napa">National Adaptation Programs of Action</option>
+                    </select><br>
+                </span>
+                Sort: <input type='radio' name='sort' value='count' checked class='radio'>nr of projects <input type='radio' name='sort' value='alphabetical' class='radio'>alphabetical<br>
+                <span id='select1'>X axis: <select name="field1" id="field1"></select><br></span>
+                <span id='select2'>Y axis: <select name="field2" id="field2"></select><br></span>
+                Data: <input type='radio' name='whichdata' value='all' checked class='radiowhichdata'>all <input type='radio' name='whichdata' value='indiabangladesh' class='radiowhichdata'> Only India and Bangladesh<br/>
+                <!--<input type='submit' value='update chart' id='submit'/>-->
+            </form>
+        </header>
+
+        <script src="script.js"></script>
+
+
+    </body>
+</html>

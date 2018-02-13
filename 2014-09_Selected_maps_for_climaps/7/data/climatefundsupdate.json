@@ -1,0 +1,5392 @@
+[
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Afghanistan",
+        "recipient_income_level": "Low-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Afghanistan",
+        "recipient_income_level": "Low-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Afghanistan",
+        "recipient_income_level": "Low-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Albania",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2013",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Angola",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2008",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Angola",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "AFDB",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Angola",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Argentina",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2013",
+        "implementor": "GCCA Support Facility",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Argentina",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2012",
+        "implementor": "WB",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Azerbaijan",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Bangladesh",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Bangladesh",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "ADB",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Concessional Loan",
+        "recipient": "Bangladesh",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "ADB",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Bangladesh",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "ADB",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Bangladesh",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2013",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Bangladesh",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2008",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Bangladesh",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2013",
+        "implementor": "IFC",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Bangladesh",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Bangladesh",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2003",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Benin",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "AFDB",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Benin",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Benin",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Benin",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Bhutan",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Bhutan",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Bhutan",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2008",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Bolivia",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Unknown",
+        "financial_instrument": "Concessional Loan",
+        "recipient": "Bolivia",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Unknown",
+        "financial_instrument": "Grant",
+        "recipient": "Bolivia",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Bolivia",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Burkina Faso",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "FAO",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Burkina Faso",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Burkina Faso",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Burkina Faso",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2008",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Burkina Faso",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Burundi",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Burundi",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Burundi",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "AfDB",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Concessional Loan",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "ADB",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Unknown",
+        "financial_instrument": "Concessional Loan",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "",
+        "implementor": "ADB",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Unknown",
+        "financial_instrument": "Grant",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "",
+        "implementor": "ADB",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Concessional Loan",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "ADB",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2012",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "ADB",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2003",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2008",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Concessional Loan",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "ADB",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "FAO",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2010",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Cambodia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Cameroon",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2013",
+        "implementor": "AFDB",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Cape Verde",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2008",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Cape Verde",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Central African Republic",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Central African Republic",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Chad",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "China",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2008",
+        "implementor": "World Bank",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Colombia",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2011",
+        "implementor": "IADB",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Colombia",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Comoros",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Comoros",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Comoros",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2003",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Cook Islands",
+        "recipient_income_level": "Unknown",
+        "region": "Asia and Pacific",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Democratic Republic of Congo",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Democratic Republic of Congo",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Democratic Republic of Congo",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Djibouti",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Djibouti",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Djibouti",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Djibouti",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Djibouti",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Dominica",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Ecuador",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2007",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Ecuador",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2011",
+        "implementor": "WFP",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Egypt",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Egypt",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2012",
+        "implementor": "WFP",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Equatorial Guinea",
+        "recipient_income_level": "High-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Eritrea",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Eritrea",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2003",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Ethiopia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2007",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Ethiopia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2003",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Ethiopia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2010",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Ethiopia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Gambia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Gambia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Gambia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Gambia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Georgia",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Georgia",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2012",
+        "implementor": "IFAD",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "health"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Ghana",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Ghana",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2011",
+        "implementor": "IFAD",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Global",
+        "recipient_income_level": "Unknown",
+        "region": "Global",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Global",
+        "recipient_income_level": "Unknown",
+        "region": "Global",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2008",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Global",
+        "recipient_income_level": "Unknown",
+        "region": "Global",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2012",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "health"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Global",
+        "recipient_income_level": "Unknown",
+        "region": "Global",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Global",
+        "recipient_income_level": "Unknown",
+        "region": "Global",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Global",
+        "recipient_income_level": "Unknown",
+        "region": "Global",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2003",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Global",
+        "recipient_income_level": "Unknown",
+        "region": "Global",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2009",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Concessional Loan",
+        "recipient": "Grenada",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Unknown",
+        "financial_instrument": "Grant",
+        "recipient": "Grenada",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Grenada",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2010",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Guatemala",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2013",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Guinea",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Guinea",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Guinea",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Guinea",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Guinea-Bissau",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Guinea-Bissau",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2010",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Guyana",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2007",
+        "implementor": "World Bank",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Haiti",
+        "recipient_income_level": "Low-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2003",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Haiti",
+        "recipient_income_level": "Low-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Haiti",
+        "recipient_income_level": "Low-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "FAO",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Haiti",
+        "recipient_income_level": "Low-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Honduras",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2010",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Honduras",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2011",
+        "implementor": "IFAD",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "India",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2011",
+        "implementor": "ADB",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "India",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2012",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Indonesia",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Jamaica",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2011",
+        "implementor": "PIOJ",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Jamaica",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "IDB",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Jamaica",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2010",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Jordan",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2010",
+        "implementor": "IFAD",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Kenya",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2007",
+        "implementor": "World Bank",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Kiribati",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Kiribati",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2010",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Kiribati",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Kyrgyzstan",
+        "recipient_income_level": "Low-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2012",
+        "implementor": "EBRD",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Lao PDR",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Lao PDR",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2010",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Lao PDR",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Lebanon",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2012",
+        "implementor": "IFAD",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Lebanon",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2012",
+        "implementor": "",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Lesotho",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "IFAD",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Lesotho",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Lesotho",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2003",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Lesotho",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Lesotho",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "FAO",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Liberia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Liberia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Liberia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Liberia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Madagascar",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Madagascar",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "AFDB",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Madagascar",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Madagascar",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2012",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Malawi",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Malawi",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Malawi",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Malawi",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2003",
+        "implementor": "AfDB",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Malawi",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "tourism"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Maldives",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Maldives",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Maldives",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Maldives",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mali",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mali",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mali",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "FAO",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mali",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "FAO",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mali",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mauritania",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2012",
+        "implementor": "WFP",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mauritania",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "AFDB",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mauritania",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2003",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mauritania",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "IFAD",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mauritius",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mexico",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2009",
+        "implementor": "World Bank",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Moldova",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2011",
+        "implementor": "IFAD",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mongolia",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mongolia",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2009",
+        "implementor": "IFAD",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Morocco",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2009",
+        "implementor": "World Bank",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mozambique",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Concessional Loan",
+        "recipient": "Mozambique",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "AFDB",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mozambique",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mozambique",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2013",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mozambique",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2007",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mozambique",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2003",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mozambique",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "AfDB",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mozambique",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "AFDB",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Mozambique",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2010",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Myanmar",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Namibia",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2013",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Nepal",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Nepal",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "ADB",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Nepal",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "IFC",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Concessional Loan",
+        "recipient": "Nepal",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "IFC",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Nepal",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Nepal",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Concessional Loan",
+        "recipient": "Nepal",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Nepal",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Nepal",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Nepal",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Nepal",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Nepal",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "FAO",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Nepal",
+        "recipient_income_level": "Low-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Nicaragua",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2011",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Nicaragua",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2010",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Niger",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Concessional Loan",
+        "recipient": "Niger",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Niger",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Niger",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "FAO",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Niger",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Niger",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "AFDB",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Concessional Loan",
+        "recipient": "Niger",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "AFDB",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Niger",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Niger",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "AfDB",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Concessional Loan",
+        "recipient": "Niger",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "AFDB",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Pakistan",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2010",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Papua New Guinea",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Papua New Guinea",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2010",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Philippines",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2008",
+        "implementor": "World Bank",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "insurance"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Philippines",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Regional",
+        "recipient_income_level": "Unknown",
+        "region": "Unknown",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2013",
+        "implementor": "ADB",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "insurance"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Regional - Europe and Central Asia",
+        "recipient_income_level": "Unknown",
+        "region": "Europe and Central Asia",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2011",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Regional - Latin America and Caribean",
+        "recipient_income_level": "Unknown",
+        "region": "Latin America and the Caribbean",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2007",
+        "implementor": "World Bank",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Regional - Pacific",
+        "recipient_income_level": "Unknown",
+        "region": "Sub-Saharan Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2008",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Rwanda",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Rwanda",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Rwanda",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Samoa",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Samoa",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Samoa",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "tourism"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Samoa",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Samoa",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2008",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Samoa",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2010",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Samoa",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2003",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Samoa",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Samoa",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2010",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Sao Tome and Principe",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Sao Tome and Principe",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Sao Tome and Principe",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2010",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Sao Tome and Principe",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Sao Tome and Principe",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Senegal",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2010",
+        "implementor": "Centre de Suivi Ecologique",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Senegal",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Senegal",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "IFAD",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Sierra Leone",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "AfDB",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Sierra Leone",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Sierra Leone",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "IFAD",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Sierra Leone",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Sierra Leone",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Solomon Islands",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Solomon Islands",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2005",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Solomon Islands",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Somalia",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "South Africa",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Sri Lanka",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2012",
+        "implementor": "WFP",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Sri Lanka",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "St Lucia",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2010",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "St Vincent & Grenadine",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2010",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "St Vincent & Grenadine",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Concessional Loan",
+        "recipient": "St Vincent & Grenadine",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "St Vincent & Grenadine",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2010",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "insurance"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Sudan",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Sudan",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2008",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Sudan",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2003",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Sudan",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Swaziland",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tajikistan",
+        "recipient_income_level": "Low-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tajikistan",
+        "recipient_income_level": "Low-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "ADB",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tajikistan",
+        "recipient_income_level": "Low-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "energy"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tajikistan",
+        "recipient_income_level": "Low-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "energy"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tajikistan",
+        "recipient_income_level": "Low-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "EBRD",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tajikistan",
+        "recipient_income_level": "Low-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2013",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tajikistan",
+        "recipient_income_level": "Low-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tajikistan",
+        "recipient_income_level": "Low-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2011",
+        "implementor": "World Bank",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tajikistan",
+        "recipient_income_level": "Low-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2010",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tanzania",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2010",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tanzania",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2012",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tanzania",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2006",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tanzania",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2003",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tanzania",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Thailand",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Timor Leste",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2008",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "infrastructure"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Timor Leste",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Togo",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "IFAD",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Togo",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tonga",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2010",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tunisia",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Turkmenistan",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Europe and Central Asia",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tuvalu",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2011",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tuvalu",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Tuvalu",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2003",
+        "implementor": "UNEP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Uganda",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "AfDB",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Uganda",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Uganda",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Unknown",
+        "recipient_income_level": "Unknown",
+        "region": "Unknown",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Uruguay",
+        "recipient_income_level": "Upper-middle-income economies",
+        "region": "Latin America and the Caribbean",
+        "donor": "Adaptation Fund (AF)",
+        "year": "2011",
+        "implementor": "ANII",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Vanuatu",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Vanuatu",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Vanuatu",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2003",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Vietnam",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Asia and Pacific",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2009",
+        "implementor": "ADB\/UNDP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Yemen",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2012",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Yemen",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2013",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Yemen",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2003",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "coastal zones"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Yemen",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "water resources"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Yemen",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Yemen",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2013",
+        "implementor": "IFAD",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Yemen",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Middle East and North Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2010",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "food security"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Zambia",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2009",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Zambia",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2004",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "early warning systems and disaster management"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Zambia",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Least Developed Countries Fund (LDCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Concessional Loan",
+        "recipient": "Zambia",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2013",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Zambia",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "IBRD",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Zambia",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2011",
+        "implementor": "",
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "cross-sector"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Zambia",
+        "recipient_income_level": "Lower-middle-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Pilot Program for Climate Resilience (PPCR)",
+        "year": "2010",
+        "implementor": "",
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Zimbabwe",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2007",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "climatefundsupdate",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "focus": "Adaptation",
+        "financial_instrument": "Grant",
+        "recipient": "Zimbabwe",
+        "recipient_income_level": "Low-income economies",
+        "region": "Sub-Saharan Africa",
+        "donor": "Special Climate Change Fund (SCCF)",
+        "year": "2012",
+        "implementor": "UNDP",
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    }
+]

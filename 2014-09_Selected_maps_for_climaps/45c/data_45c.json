@@ -1,0 +1,1421 @@
+{
+    "edges": [
+    {
+        "source": "afghanistan",
+        "target": "Food Query",
+        "id": "65",
+        "attributes":
+        {
+            "Weight": "234.0"
+        },
+        "color": "#CCCACA",
+        "size": 234.0
+    },
+    {
+        "source": "mauritania",
+        "target": "Land\u0026Sea Query",
+        "id": "62",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "myanmar",
+        "target": "Water Query",
+        "id": "87",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "egypt",
+        "target": "Infrastructure Query",
+        "id": "14",
+        "attributes":
+        {
+            "Weight": "327.0"
+        },
+        "color": "#CCCACA",
+        "size": 327.0
+    },
+    {
+        "source": "israel",
+        "target": "Human Habitat Query",
+        "id": "27",
+        "attributes":
+        {
+            "Weight": "349.0"
+        },
+        "color": "#CCCACA",
+        "size": 349.0
+    },
+    {
+        "source": "myanmar",
+        "target": "Food Query",
+        "id": "71",
+        "attributes":
+        {
+            "Weight": "171.0"
+        },
+        "color": "#CCCACA",
+        "size": 171.0
+    },
+    {
+        "source": "angola",
+        "target": "Human Habitat Query",
+        "id": "90",
+        "attributes":
+        {
+            "Weight": "292.0"
+        },
+        "color": "#CCCACA",
+        "size": 292.0
+    },
+    {
+        "source": "niger",
+        "target": "Ecosystems Query",
+        "id": "56",
+        "attributes":
+        {
+            "Weight": "47.0"
+        },
+        "color": "#CCCACA",
+        "size": 47.0
+    },
+    {
+        "source": "egypt",
+        "target": "Health Query",
+        "id": "12",
+        "attributes":
+        {
+            "Weight": "156.0"
+        },
+        "color": "#CCCACA",
+        "size": 156.0
+    },
+    {
+        "source": "afghanistan",
+        "target": "Infrastructure Query",
+        "id": "97",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "myanmar",
+        "target": "Infrastructure Query",
+        "id": "103",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "mauritania",
+        "target": "Infrastructure Query",
+        "id": "102",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "laos",
+        "target": "Food Query",
+        "id": "68",
+        "attributes":
+        {
+            "Weight": "77.0"
+        },
+        "color": "#CCCACA",
+        "size": 77.0
+    },
+    {
+        "source": "mauritania",
+        "target": "Human Habitat Query",
+        "id": "94",
+        "attributes":
+        {
+            "Weight": "205.0"
+        },
+        "color": "#CCCACA",
+        "size": 205.0
+    },
+    {
+        "source": "israel",
+        "target": "Health Query",
+        "id": "28",
+        "attributes":
+        {
+            "Weight": "290.0"
+        },
+        "color": "#CCCACA",
+        "size": 290.0
+    },
+    {
+        "source": "egypt",
+        "target": "Water Query",
+        "id": "10",
+        "attributes":
+        {
+            "Weight": "240.0"
+        },
+        "color": "#CCCACA",
+        "size": 240.0
+    },
+    {
+        "source": "cambodia",
+        "target": "Health Query",
+        "id": "43",
+        "attributes":
+        {
+            "Weight": "45.0"
+        },
+        "color": "#CCCACA",
+        "size": 45.0
+    },
+    {
+        "source": "angola",
+        "target": "Ecosystems Query",
+        "id": "50",
+        "attributes":
+        {
+            "Weight": "23.0"
+        },
+        "color": "#CCCACA",
+        "size": 23.0
+    },
+    {
+        "source": "luxembourg",
+        "target": "Health Query",
+        "id": "36",
+        "attributes":
+        {
+            "Weight": "25.0"
+        },
+        "color": "#CCCACA",
+        "size": 25.0
+    },
+    {
+        "source": "cambodia",
+        "target": "Ecosystems Query",
+        "id": "51",
+        "attributes":
+        {
+            "Weight": "67.0"
+        },
+        "color": "#CCCACA",
+        "size": 67.0
+    },
+    {
+        "source": "luxembourg",
+        "target": "Water Query",
+        "id": "34",
+        "attributes":
+        {
+            "Weight": "136.0"
+        },
+        "color": "#CCCACA",
+        "size": 136.0
+    },
+    {
+        "source": "mauritania",
+        "target": "Disaster Query",
+        "id": "78",
+        "attributes":
+        {
+            "Weight": "12.0"
+        },
+        "color": "#CCCACA",
+        "size": 12.0
+    },
+    {
+        "source": "laos",
+        "target": "Disaster Query",
+        "id": "76",
+        "attributes":
+        {
+            "Weight": "23.0"
+        },
+        "color": "#CCCACA",
+        "size": 23.0
+    },
+    {
+        "source": "angola",
+        "target": "Disaster Query",
+        "id": "74",
+        "attributes":
+        {
+            "Weight": "22.0"
+        },
+        "color": "#CCCACA",
+        "size": 22.0
+    },
+    {
+        "source": "laos",
+        "target": "Ecosystems Query",
+        "id": "52",
+        "attributes":
+        {
+            "Weight": "29.0"
+        },
+        "color": "#CCCACA",
+        "size": 29.0
+    },
+    {
+        "source": "luxembourg",
+        "target": "Ecosystems Query",
+        "id": "39",
+        "attributes":
+        {
+            "Weight": "67.0"
+        },
+        "color": "#CCCACA",
+        "size": 67.0
+    },
+    {
+        "source": "laos",
+        "target": "Human Habitat Query",
+        "id": "92",
+        "attributes":
+        {
+            "Weight": "150.0"
+        },
+        "color": "#CCCACA",
+        "size": 150.0
+    },
+    {
+        "source": "cyprus",
+        "target": "Food Query",
+        "id": "5",
+        "attributes":
+        {
+            "Weight": "158.0"
+        },
+        "color": "#CCCACA",
+        "size": 158.0
+    },
+    {
+        "source": "mauritania",
+        "target": "Health Query",
+        "id": "46",
+        "attributes":
+        {
+            "Weight": "8.0"
+        },
+        "color": "#CCCACA",
+        "size": 8.0
+    },
+    {
+        "source": "cyprus",
+        "target": "Disaster Query",
+        "id": "1",
+        "attributes":
+        {
+            "Weight": "101.0"
+        },
+        "color": "#CCCACA",
+        "size": 101.0
+    },
+    {
+        "source": "angola",
+        "target": "Land\u0026Sea Query",
+        "id": "58",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "niger",
+        "target": "Health Query",
+        "id": "48",
+        "attributes":
+        {
+            "Weight": "43.0"
+        },
+        "color": "#CCCACA",
+        "size": 43.0
+    },
+    {
+        "source": "iceland",
+        "target": "Human Habitat Query",
+        "id": "19",
+        "attributes":
+        {
+            "Weight": "166.0"
+        },
+        "color": "#CCCACA",
+        "size": 166.0
+    },
+    {
+        "source": "iceland",
+        "target": "Infrastructure Query",
+        "id": "22",
+        "attributes":
+        {
+            "Weight": "414.0"
+        },
+        "color": "#CCCACA",
+        "size": 414.0
+    },
+    {
+        "source": "israel",
+        "target": "Land\u0026Sea Query",
+        "id": "32",
+        "attributes":
+        {
+            "Weight": "123.0"
+        },
+        "color": "#CCCACA",
+        "size": 123.0
+    },
+    {
+        "source": "egypt",
+        "target": "Ecosystems Query",
+        "id": "15",
+        "attributes":
+        {
+            "Weight": "130.0"
+        },
+        "color": "#CCCACA",
+        "size": 130.0
+    },
+    {
+        "source": "mauritania",
+        "target": "Ecosystems Query",
+        "id": "54",
+        "attributes":
+        {
+            "Weight": "16.0"
+        },
+        "color": "#CCCACA",
+        "size": 16.0
+    },
+    {
+        "source": "israel",
+        "target": "Infrastructure Query",
+        "id": "30",
+        "attributes":
+        {
+            "Weight": "524.0"
+        },
+        "color": "#CCCACA",
+        "size": 524.0
+    },
+    {
+        "source": "afghanistan",
+        "target": "Health Query",
+        "id": "41",
+        "attributes":
+        {
+            "Weight": "246.0"
+        },
+        "color": "#CCCACA",
+        "size": 246.0
+    },
+    {
+        "source": "afghanistan",
+        "target": "Human Habitat Query",
+        "id": "89",
+        "attributes":
+        {
+            "Weight": "426.0"
+        },
+        "color": "#CCCACA",
+        "size": 426.0
+    },
+    {
+        "source": "luxembourg",
+        "target": "Disaster Query",
+        "id": "33",
+        "attributes":
+        {
+            "Weight": "100.0"
+        },
+        "color": "#CCCACA",
+        "size": 100.0
+    },
+    {
+        "source": "laos",
+        "target": "Land\u0026Sea Query",
+        "id": "60",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "israel",
+        "target": "Water Query",
+        "id": "26",
+        "attributes":
+        {
+            "Weight": "218.0"
+        },
+        "color": "#CCCACA",
+        "size": 218.0
+    },
+    {
+        "source": "iceland",
+        "target": "Land\u0026Sea Query",
+        "id": "24",
+        "attributes":
+        {
+            "Weight": "106.0"
+        },
+        "color": "#CCCACA",
+        "size": 106.0
+    },
+    {
+        "source": "luxembourg",
+        "target": "Human Habitat Query",
+        "id": "35",
+        "attributes":
+        {
+            "Weight": "194.0"
+        },
+        "color": "#CCCACA",
+        "size": 194.0
+    },
+    {
+        "source": "israel",
+        "target": "Food Query",
+        "id": "29",
+        "attributes":
+        {
+            "Weight": "246.0"
+        },
+        "color": "#CCCACA",
+        "size": 246.0
+    },
+    {
+        "source": "cambodia",
+        "target": "Water Query",
+        "id": "83",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "madagascar",
+        "target": "Infrastructure Query",
+        "id": "101",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "myanmar",
+        "target": "Disaster Query",
+        "id": "79",
+        "attributes":
+        {
+            "Weight": "43.0"
+        },
+        "color": "#CCCACA",
+        "size": 43.0
+    },
+    {
+        "source": "cyprus",
+        "target": "Health Query",
+        "id": "4",
+        "attributes":
+        {
+            "Weight": "26.0"
+        },
+        "color": "#CCCACA",
+        "size": 26.0
+    },
+    {
+        "source": "myanmar",
+        "target": "Health Query",
+        "id": "47",
+        "attributes":
+        {
+            "Weight": "35.0"
+        },
+        "color": "#CCCACA",
+        "size": 35.0
+    },
+    {
+        "source": "cambodia",
+        "target": "Food Query",
+        "id": "67",
+        "attributes":
+        {
+            "Weight": "180.0"
+        },
+        "color": "#CCCACA",
+        "size": 180.0
+    },
+    {
+        "source": "cyprus",
+        "target": "Water Query",
+        "id": "2",
+        "attributes":
+        {
+            "Weight": "172.0"
+        },
+        "color": "#CCCACA",
+        "size": 172.0
+    },
+    {
+        "source": "niger",
+        "target": "Water Query",
+        "id": "88",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "egypt",
+        "target": "Food Query",
+        "id": "13",
+        "attributes":
+        {
+            "Weight": "271.0"
+        },
+        "color": "#CCCACA",
+        "size": 271.0
+    },
+    {
+        "source": "niger",
+        "target": "Infrastructure Query",
+        "id": "104",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "madagascar",
+        "target": "Human Habitat Query",
+        "id": "93",
+        "attributes":
+        {
+            "Weight": "178.0"
+        },
+        "color": "#CCCACA",
+        "size": 178.0
+    },
+    {
+        "source": "afghanistan",
+        "target": "Disaster Query",
+        "id": "73",
+        "attributes":
+        {
+            "Weight": "165.0"
+        },
+        "color": "#CCCACA",
+        "size": 165.0
+    },
+    {
+        "source": "myanmar",
+        "target": "Land\u0026Sea Query",
+        "id": "63",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "cambodia",
+        "target": "Infrastructure Query",
+        "id": "99",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "myanmar",
+        "target": "Ecosystems Query",
+        "id": "55",
+        "attributes":
+        {
+            "Weight": "51.0"
+        },
+        "color": "#CCCACA",
+        "size": 51.0
+    },
+    {
+        "source": "iceland",
+        "target": "Disaster Query",
+        "id": "17",
+        "attributes":
+        {
+            "Weight": "107.0"
+        },
+        "color": "#CCCACA",
+        "size": 107.0
+    },
+    {
+        "source": "laos",
+        "target": "Infrastructure Query",
+        "id": "100",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "egypt",
+        "target": "Disaster Query",
+        "id": "9",
+        "attributes":
+        {
+            "Weight": "110.0"
+        },
+        "color": "#CCCACA",
+        "size": 110.0
+    },
+    {
+        "source": "iceland",
+        "target": "Water Query",
+        "id": "18",
+        "attributes":
+        {
+            "Weight": "164.0"
+        },
+        "color": "#CCCACA",
+        "size": 164.0
+    },
+    {
+        "source": "cyprus",
+        "target": "Ecosystems Query",
+        "id": "7",
+        "attributes":
+        {
+            "Weight": "20.0"
+        },
+        "color": "#CCCACA",
+        "size": 20.0
+    },
+    {
+        "source": "afghanistan",
+        "target": "Water Query",
+        "id": "81",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "niger",
+        "target": "Food Query",
+        "id": "72",
+        "attributes":
+        {
+            "Weight": "285.0"
+        },
+        "color": "#CCCACA",
+        "size": 285.0
+    },
+    {
+        "source": "angola",
+        "target": "Food Query",
+        "id": "66",
+        "attributes":
+        {
+            "Weight": "113.0"
+        },
+        "color": "#CCCACA",
+        "size": 113.0
+    },
+    {
+        "source": "egypt",
+        "target": "Human Habitat Query",
+        "id": "11",
+        "attributes":
+        {
+            "Weight": "407.0"
+        },
+        "color": "#CCCACA",
+        "size": 407.0
+    },
+    {
+        "source": "madagascar",
+        "target": "Land\u0026Sea Query",
+        "id": "61",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "afghanistan",
+        "target": "Ecosystems Query",
+        "id": "49",
+        "attributes":
+        {
+            "Weight": "146.0"
+        },
+        "color": "#CCCACA",
+        "size": 146.0
+    },
+    {
+        "source": "luxembourg",
+        "target": "Land\u0026Sea Query",
+        "id": "40",
+        "attributes":
+        {
+            "Weight": "100.0"
+        },
+        "color": "#CCCACA",
+        "size": 100.0
+    },
+    {
+        "source": "mauritania",
+        "target": "Water Query",
+        "id": "86",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "madagascar",
+        "target": "Water Query",
+        "id": "85",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "madagascar",
+        "target": "Disaster Query",
+        "id": "77",
+        "attributes":
+        {
+            "Weight": "85.0"
+        },
+        "color": "#CCCACA",
+        "size": 85.0
+    },
+    {
+        "source": "niger",
+        "target": "Land\u0026Sea Query",
+        "id": "64",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "israel",
+        "target": "Disaster Query",
+        "id": "25",
+        "attributes":
+        {
+            "Weight": "124.0"
+        },
+        "color": "#CCCACA",
+        "size": 124.0
+    },
+    {
+        "source": "angola",
+        "target": "Water Query",
+        "id": "82",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "cambodia",
+        "target": "Land\u0026Sea Query",
+        "id": "59",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "egypt",
+        "target": "Land\u0026Sea Query",
+        "id": "16",
+        "attributes":
+        {
+            "Weight": "109.0"
+        },
+        "color": "#CCCACA",
+        "size": 109.0
+    },
+    {
+        "source": "myanmar",
+        "target": "Human Habitat Query",
+        "id": "95",
+        "attributes":
+        {
+            "Weight": "351.0"
+        },
+        "color": "#CCCACA",
+        "size": 351.0
+    },
+    {
+        "source": "luxembourg",
+        "target": "Infrastructure Query",
+        "id": "38",
+        "attributes":
+        {
+            "Weight": "350.0"
+        },
+        "color": "#CCCACA",
+        "size": 350.0
+    },
+    {
+        "source": "cyprus",
+        "target": "Human Habitat Query",
+        "id": "3",
+        "attributes":
+        {
+            "Weight": "229.0"
+        },
+        "color": "#CCCACA",
+        "size": 229.0
+    },
+    {
+        "source": "mauritania",
+        "target": "Food Query",
+        "id": "70",
+        "attributes":
+        {
+            "Weight": "113.0"
+        },
+        "color": "#CCCACA",
+        "size": 113.0
+    },
+    {
+        "source": "niger",
+        "target": "Disaster Query",
+        "id": "80",
+        "attributes":
+        {
+            "Weight": "48.0"
+        },
+        "color": "#CCCACA",
+        "size": 48.0
+    },
+    {
+        "source": "cyprus",
+        "target": "Infrastructure Query",
+        "id": "6",
+        "attributes":
+        {
+            "Weight": "234.0"
+        },
+        "color": "#CCCACA",
+        "size": 234.0
+    },
+    {
+        "source": "cambodia",
+        "target": "Disaster Query",
+        "id": "75",
+        "attributes":
+        {
+            "Weight": "44.0"
+        },
+        "color": "#CCCACA",
+        "size": 44.0
+    },
+    {
+        "source": "laos",
+        "target": "Water Query",
+        "id": "84",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "cyprus",
+        "target": "Land\u0026Sea Query",
+        "id": "8",
+        "attributes":
+        {
+            "Weight": "101.0"
+        },
+        "color": "#CCCACA",
+        "size": 101.0
+    },
+    {
+        "source": "madagascar",
+        "target": "Ecosystems Query",
+        "id": "53",
+        "attributes":
+        {
+            "Weight": "95.0"
+        },
+        "color": "#CCCACA",
+        "size": 95.0
+    },
+    {
+        "source": "israel",
+        "target": "Ecosystems Query",
+        "id": "31",
+        "attributes":
+        {
+            "Weight": "118.0"
+        },
+        "color": "#CCCACA",
+        "size": 118.0
+    },
+    {
+        "source": "afghanistan",
+        "target": "Land\u0026Sea Query",
+        "id": "57",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "luxembourg",
+        "target": "Food Query",
+        "id": "37",
+        "attributes":
+        {
+            "Weight": "125.0"
+        },
+        "color": "#CCCACA",
+        "size": 125.0
+    },
+    {
+        "source": "iceland",
+        "target": "Health Query",
+        "id": "20",
+        "attributes":
+        {
+            "Weight": "153.0"
+        },
+        "color": "#CCCACA",
+        "size": 153.0
+    },
+    {
+        "source": "iceland",
+        "target": "Ecosystems Query",
+        "id": "23",
+        "attributes":
+        {
+            "Weight": "240.0"
+        },
+        "color": "#CCCACA",
+        "size": 240.0
+    },
+    {
+        "source": "laos",
+        "target": "Health Query",
+        "id": "44",
+        "attributes":
+        {
+            "Weight": "14.0"
+        },
+        "color": "#CCCACA",
+        "size": 14.0
+    },
+    {
+        "source": "madagascar",
+        "target": "Health Query",
+        "id": "45",
+        "attributes":
+        {
+            "Weight": "112.0"
+        },
+        "color": "#CCCACA",
+        "size": 112.0
+    },
+    {
+        "source": "angola",
+        "target": "Health Query",
+        "id": "42",
+        "attributes":
+        {
+            "Weight": "14.0"
+        },
+        "color": "#CCCACA",
+        "size": 14.0
+    },
+    {
+        "source": "madagascar",
+        "target": "Food Query",
+        "id": "69",
+        "attributes":
+        {
+            "Weight": "208.0"
+        },
+        "color": "#CCCACA",
+        "size": 208.0
+    },
+    {
+        "source": "angola",
+        "target": "Infrastructure Query",
+        "id": "98",
+        "attributes":
+        {
+            "Weight": "1.0"
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "niger",
+        "target": "Human Habitat Query",
+        "id": "96",
+        "attributes":
+        {
+            "Weight": "362.0"
+        },
+        "color": "#CCCACA",
+        "size": 362.0
+    },
+    {
+        "source": "iceland",
+        "target": "Food Query",
+        "id": "21",
+        "attributes":
+        {
+            "Weight": "202.0"
+        },
+        "color": "#CCCACA",
+        "size": 202.0
+    },
+    {
+        "source": "cambodia",
+        "target": "Human Habitat Query",
+        "id": "91",
+        "attributes":
+        {
+            "Weight": "349.0"
+        },
+        "color": "#CCCACA",
+        "size": 349.0
+    }],
+    "nodes": [
+    {
+        "label": "Madagascar",
+        "x": 213.50294494628906,
+        "y": -383.38330078125,
+        "id": "madagascar",
+        "attributes":
+        {
+            "Type": "vulnerable",
+            "Resonance (query results)": "681"
+        },
+        "color": "#FF5A52",
+        "size": 15.878941535949707
+    },
+    {
+        "label": "Food Query",
+        "x": 16.808563232421875,
+        "y": -263.6042785644531,
+        "id": "Food Query",
+        "attributes":
+        {
+            "Type": "query",
+            "Resonance (query results)": "2383"
+        },
+        "color": "#7F7E7E",
+        "size": 63.97233963012695
+    },
+    {
+        "label": "Niger",
+        "x": -71.00338745117188,
+        "y": -473.8789978027344,
+        "id": "niger",
+        "attributes":
+        {
+            "Type": "vulnerable",
+            "Resonance (query results)": "788"
+        },
+        "color": "#FF5A52",
+        "size": 18.90243911743164
+    },
+    {
+        "label": "Water Query",
+        "x": 248.68182373046875,
+        "y": 766.3411865234375,
+        "id": "Water Query",
+        "attributes":
+        {
+            "Type": "query",
+            "Resonance (query results)": "938"
+        },
+        "color": "#7F7E7E",
+        "size": 23.140987396240234
+    },
+    {
+        "label": "Iceland",
+        "x": 237.3848876953125,
+        "y": 325.5061950683594,
+        "id": "iceland",
+        "attributes":
+        {
+            "Type": "resilient",
+            "Resonance (query results)": "1552"
+        },
+        "color": "#EFC164",
+        "size": 40.490779876708984
+    },
+    {
+        "label": "Afghanistan",
+        "x": -99.30056762695312,
+        "y": -49.76324462890625,
+        "id": "afghanistan",
+        "attributes":
+        {
+            "Type": "vulnerable",
+            "Resonance (query results)": "1220"
+        },
+        "color": "#FF5A52",
+        "size": 31.109460830688477
+    },
+    {
+        "label": "cyprus",
+        "x": 403.6772766113281,
+        "y": 558.2171630859375,
+        "id": "cyprus",
+        "attributes":
+        {
+            "Type": "resilient",
+            "Resonance (query results)": "1041"
+        },
+        "color": "#EFC164",
+        "size": 26.05145835876465
+    },
+    {
+        "label": "Land\u0026Sea Query",
+        "x": 871.9945068359375,
+        "y": 621.8541870117188,
+        "id": "Land\u0026Sea Query",
+        "attributes":
+        {
+            "Type": "query",
+            "Resonance (query results)": "547"
+        },
+        "color": "#7F7E7E",
+        "size": 12.092504501342773
+    },
+    {
+        "label": "Angola",
+        "x": -656.468505859375,
+        "y": -177.42970275878906,
+        "id": "angola",
+        "attributes":
+        {
+            "Type": "vulnerable",
+            "Resonance (query results)": "467"
+        },
+        "color": "#FF5A52",
+        "size": 9.831945419311523
+    },
+    {
+        "label": "Cambodia",
+        "x": -376.06243896484375,
+        "y": -54.1494026184082,
+        "id": "cambodia",
+        "attributes":
+        {
+            "Type": "vulnerable",
+            "Resonance (query results)": "688"
+        },
+        "color": "#FF5A52",
+        "size": 16.076740264892578
+    },
+    {
+        "label": "Laos",
+        "x": 250.57022094726562,
+        "y": -853.671875,
+        "id": "laos",
+        "attributes":
+        {
+            "Type": "vulnerable",
+            "Resonance (query results)": "296"
+        },
+        "color": "#FF5A52",
+        "size": 5.0
+    },
+    {
+        "label": "Infrastructure Query",
+        "x": 433.8404235839844,
+        "y": 380.55615234375,
+        "id": "Infrastructure Query",
+        "attributes":
+        {
+            "Type": "query",
+            "Resonance (query results)": "1857"
+        },
+        "color": "#7F7E7E",
+        "size": 49.109161376953125
+    },
+    {
+        "label": "Myanmar",
+        "x": -334.3441467285156,
+        "y": -390.7408142089844,
+        "id": "myanmar",
+        "attributes":
+        {
+            "Type": "vulnerable",
+            "Resonance (query results)": "654"
+        },
+        "color": "#FF5A52",
+        "size": 15.116002082824707
+    },
+    {
+        "label": "Health Query",
+        "x": -186.43753051757812,
+        "y": 242.30001831054688,
+        "id": "Health Query",
+        "attributes":
+        {
+            "Type": "query",
+            "Resonance (query results)": "1167"
+        },
+        "color": "#7F7E7E",
+        "size": 29.61183738708496
+    },
+    {
+        "label": "Egypt",
+        "x": 278.9503479003906,
+        "y": 136.0614471435547,
+        "id": "egypt",
+        "attributes":
+        {
+            "Type": "resilient",
+            "Resonance (query results)": "1750"
+        },
+        "color": "#EFC164",
+        "size": 46.085662841796875
+    },
+    {
+        "label": "Mauritania",
+        "x": -469.1846923828125,
+        "y": -771.9146728515625,
+        "id": "mauritania",
+        "attributes":
+        {
+            "Type": "vulnerable",
+            "Resonance (query results)": "357"
+        },
+        "color": "#FF5A52",
+        "size": 6.7236762046813965
+    },
+    {
+        "label": "Ecosystems Query",
+        "x": 112.14574432373047,
+        "y": 18.702171325683594,
+        "id": "Ecosystems Query",
+        "attributes":
+        {
+            "Type": "query",
+            "Resonance (query results)": "1049"
+        },
+        "color": "#7F7E7E",
+        "size": 26.27751350402832
+    },
+    {
+        "label": "Disaster Query",
+        "x": 423.22198486328125,
+        "y": -173.09695434570312,
+        "id": "Disaster Query",
+        "attributes":
+        {
+            "Type": "query",
+            "Resonance (query results)": "984"
+        },
+        "color": "#7F7E7E",
+        "size": 24.44080924987793
+    },
+    {
+        "label": "Human Habitat Query",
+        "x": -196.27969360351562,
+        "y": -198.3106231689453,
+        "id": "Human Habitat Query",
+        "attributes":
+        {
+            "Type": "query",
+            "Resonance (query results)": "3658"
+        },
+        "color": "#7F7E7E",
+        "size": 100.0
+    },
+    {
+        "label": "Israel",
+        "x": 73.65373229980469,
+        "y": 291.5039978027344,
+        "id": "israel",
+        "attributes":
+        {
+            "Type": "resilient",
+            "Resonance (query results)": "1992"
+        },
+        "color": "#EFC164",
+        "size": 52.92385482788086
+    },
+    {
+        "label": "Luxembourg",
+        "x": 562.6632690429688,
+        "y": 221.483154296875,
+        "id": "luxembourg",
+        "attributes":
+        {
+            "Type": "resilient",
+            "Resonance (query results)": "1097"
+        },
+        "color": "#EFC164",
+        "size": 27.63385009765625
+    }]
+}

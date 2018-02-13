@@ -1,0 +1,90 @@
+source;sector;map to
+undp_alm;agriculture/food security;agriculture / food security
+undp_alm;coastal zone development;coastal zone development
+undp_alm;disaster risk reduction;disaster risk reduction
+undp_alm;health;health
+undp_alm;infrastructure/climate change risk management;infrastructure / risk management
+undp_alm;natural resource management;natural resource management
+undp_alm;rural development;rural development
+undp_alm;water resources;water resources
+cigrasp;;
+cigrasp;agriculture;agriculture / food security
+cigrasp;city;infrastructure / risk management
+cigrasp;coast;coastal zone development
+cigrasp;forestry;agriculture / food security
+cigrasp;water;water resources
+psi;agriculture/food security;agriculture / food security
+psi;coastal zone development;coastal zone development
+psi;disaster risk reduction;disaster risk reduction
+psi;health;health
+psi;infrastructure/climate change risk management;infrastructure / risk management
+psi;natural resource management;natural resource management
+psi;rural development;rural development
+psi;water resources;water resources
+climatewise;agriculture;agriculture / food security
+climatewise;climate change risk management;infrastructure / risk management
+climatewise;climate risk management;infrastructure / risk management
+climatewise;disaster risk reduction;disaster risk reduction
+climatewise;disaster risk reduction legislation;disaster risk reduction
+climatewise;food security;agriculture / food security
+climatewise;health;health
+climatewise;infrastructure;infrastructure / risk management
+climatewise;natural resource management;natural resource management
+climatewise;other linked disaster risk financing intiatives: following a disaster, loans at a discounted rate may be provided by the development bank of mauritius.;disaster risk reduction
+climatewise;rural development;rural development
+climatewise;water resources;water resources
+oecd_riomarkers;administrative costs of donors;Government / trade / finance
+oecd_riomarkers;i.1.a. education, level unspecified;Education
+oecd_riomarkers;i.1.b. basic education;Education
+oecd_riomarkers;i.1.c. secondary education;Education
+oecd_riomarkers;i.1.d. post-secondary education;Education
+oecd_riomarkers;i.2.a. health, general;health
+oecd_riomarkers;i.2.b. basic health;health
+oecd_riomarkers;i.3. population pol./progr. & reproductive health;health
+oecd_riomarkers;i.4. water supply & sanitation;health
+oecd_riomarkers;i.5.a. government & civil society-general;Government / trade / finance
+oecd_riomarkers;i.5.b. conflict, peace & security;Other
+oecd_riomarkers;i.6. other social infrastructure & services;Other
+oecd_riomarkers;ii.1. transport & storage;infrastructure / risk management
+oecd_riomarkers;ii.2. communications;infrastructure / risk management
+oecd_riomarkers;ii.3. energy;natural resource management
+oecd_riomarkers;ii.4. banking & financial services;Government / trade / finance
+oecd_riomarkers;iii.1.a. agriculture;agriculture / food security
+oecd_riomarkers;iii.1.b. forestry;agriculture / food security
+oecd_riomarkers;iii.1.c. fishing;agriculture / food security
+oecd_riomarkers;iii.2.a. industry;Government / trade / finance
+oecd_riomarkers;iii.3.a. trade policies & regulations;Government / trade / finance
+oecd_riomarkers;iv.1. general environment protection;natural resource management
+oecd_riomarkers;iv.2. other multisector;Other
+oecd_riomarkers;ix. unallocated / unspecified;Other
+oecd_riomarkers;vi.1. general budget support;Government / trade / finance
+oecd_riomarkers;vi.2. dev. food aid/food security ass.;agriculture / food security
+oecd_riomarkers;viii.1. emergency response;disaster risk reduction
+oecd_riomarkers;viii.2. reconstruction relief & rehabilitation;disaster risk reduction
+oecd_riomarkers;viii.3. disaster prevention & preparedness;disaster risk reduction
+climatefundsupdate;capacity building;infrastructure / risk management
+climatefundsupdate;coastal zones;coastal zone development
+climatefundsupdate;cross-sector;Government / trade / finance
+climatefundsupdate;early warning systems and disaster management;disaster risk reduction
+climatefundsupdate;education;Education
+climatefundsupdate;energy;natural resource management
+climatefundsupdate;food security;agriculture / food security
+climatefundsupdate;health;health
+climatefundsupdate;infrastructure;infrastructure / risk management
+climatefundsupdate;insurance;Government / trade / finance
+climatefundsupdate;terrestrial ecosystems;natural resource management
+climatefundsupdate;tourism;Government / trade / finance
+climatefundsupdate;water resources;water resources
+napa;capacity building;infrastructure / risk management
+napa;coastal zones and marine ecosystems;coastal zone development
+napa;cross-sectorial;Government / trade / finance
+napa;early warning system and disaster management;disaster risk reduction
+napa;education;Education
+napa;energy;natural resource management
+napa;food security;agriculture / food security
+napa;health;health
+napa;infrastructure;infrastructure / risk management
+napa;insurance;Government / trade / finance
+napa;terrestrial ecosystems;natural resource management
+napa;tourism;Government / trade / finance
+napa;water resources;water resources

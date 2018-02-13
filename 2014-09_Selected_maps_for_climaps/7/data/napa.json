@@ -1,0 +1,5054 @@
+[
+    {
+        "source": "napa",
+        "recipient": "Afghanistan",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Afghanistan",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bangladesh",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bangladesh",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bangladesh",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bangladesh",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bangladesh",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bangladesh",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bangladesh",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bangladesh",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bangladesh",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bangladesh",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bangladesh",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bangladesh",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bangladesh",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bangladesh",
+        "sector": [
+            "insurance"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bangladesh",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Benin",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Benin",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Benin",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Benin",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Benin",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bhutan",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bhutan",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bhutan",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bhutan",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bhutan",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bhutan",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bhutan",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bhutan",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Bhutan",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burkina Faso",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burkina Faso",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burkina Faso",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burkina Faso",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burkina Faso",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burkina Faso",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burkina Faso",
+        "sector": [
+            "energy"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burkina Faso",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burkina Faso",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burkina Faso",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burkina Faso",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burkina Faso",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burundi",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burundi",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burundi",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burundi",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burundi",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burundi",
+        "sector": [
+            "energy"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burundi",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burundi",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burundi",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burundi",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burundi",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Burundi",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cambodia",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cape Verde",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cape Verde",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Cape Verde",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Central African Republic",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Central African Republic",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Central African Republic",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Central African Republic",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Central African Republic",
+        "sector": [
+            "energy"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Central African Republic",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Central African Republic",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Central African Republic",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Central African Republic",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Central African Republic",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Chad",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Chad",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Chad",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Chad",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Chad",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Chad",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Chad",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Chad",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Chad",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Chad",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Comoros",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Comoros",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Comoros",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Comoros",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Comoros",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Comoros",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Comoros",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Comoros",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Comoros",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Comoros",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Comoros",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Comoros",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Comoros",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Democratic Republic of Congo",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Democratic Republic of Congo",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Democratic Republic of Congo",
+        "sector": [
+            "energy"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Djibouti",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Djibouti",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Djibouti",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Djibouti",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Djibouti",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Djibouti",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Djibouti",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Djibouti",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Eritrea",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Eritrea",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Eritrea",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Eritrea",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Eritrea",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Ethiopia",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Ethiopia",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Ethiopia",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Ethiopia",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Ethiopia",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Ethiopia",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Ethiopia",
+        "sector": [
+            "insurance"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Ethiopia",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Ethiopia",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Ethiopia",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Ethiopia",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Gambia",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Gambia",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Gambia",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Gambia",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Gambia",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Gambia",
+        "sector": [
+            "energy"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Gambia",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Gambia",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Gambia",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Gambia",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "energy"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "energy"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea-Bissau",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea-Bissau",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea-Bissau",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea-Bissau",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea-Bissau",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea-Bissau",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea-Bissau",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea-Bissau",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea-Bissau",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea-Bissau",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea-Bissau",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea-Bissau",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea-Bissau",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Guinea-Bissau",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Haiti",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Haiti",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Haiti",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Haiti",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Haiti",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Haiti",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Haiti",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Haiti",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Haiti",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Haiti",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Haiti",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Haiti",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Haiti",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Haiti",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Kiribati",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Kiribati",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Kiribati",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Kiribati",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Kiribati",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Kiribati",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Kiribati",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Kiribati",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Kiribati",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Kiribati",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lao PDR",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lao PDR",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lao PDR",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lao PDR",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lao PDR",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lao PDR",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lao PDR",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lao PDR",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lao PDR",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lao PDR",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lao PDR",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lao PDR",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lesotho",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lesotho",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lesotho",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lesotho",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lesotho",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lesotho",
+        "sector": [
+            "energy"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lesotho",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lesotho",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lesotho",
+        "sector": [
+            "tourism"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Lesotho",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Liberia",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Liberia",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Liberia",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Madagascar",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Madagascar",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Madagascar",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Madagascar",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Madagascar",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Madagascar",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Madagascar",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Madagascar",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Madagascar",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Madagascar",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Madagascar",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Madagascar",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Madagascar",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Madagascar",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Madagascar",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Malawi",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Malawi",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Malawi",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Malawi",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Malawi",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Maldives",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Maldives",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Maldives",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Maldives",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Maldives",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Maldives",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Maldives",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Maldives",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Maldives",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Maldives",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Maldives",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "energy"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "energy"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "energy"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mali",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mauritania",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mozambique",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mozambique",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mozambique",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Mozambique",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Nepal",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Nepal",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Nepal",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Nepal",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Nepal",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Nepal",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Nepal",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Nepal",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Nepal",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Niger",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Niger",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Niger",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Niger",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Niger",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Niger",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Niger",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Niger",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Niger",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Niger",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Niger",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Niger",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Niger",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Niger",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Rwanda",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Rwanda",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Rwanda",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Rwanda",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Rwanda",
+        "sector": [
+            "energy"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Rwanda",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Rwanda",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Samoa",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Samoa",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Samoa",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Samoa",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Samoa",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Samoa",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Samoa",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Samoa",
+        "sector": [
+            "tourism"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Samoa",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "energy"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "energy"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "energy"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sao Tome e Principe",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Senegal",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Senegal",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Senegal",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Senegal",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Senegal",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Senegal",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Senegal",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Senegal",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Senegal",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Senegal",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Senegal",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Senegal",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "energy"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sierra Leone",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Solomon Islands",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Solomon Islands",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Solomon Islands",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Solomon Islands",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Solomon Islands",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Solomon Islands",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Solomon Islands",
+        "sector": [
+            "tourism"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Somalia",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Somalia",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Somalia",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sudan",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sudan",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sudan",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sudan",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Sudan",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Tanzania",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Tanzania",
+        "sector": [
+            "energy"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Tanzania",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Tanzania",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Tanzania",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Tanzania",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Timor-Leste",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Timor-Leste",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Timor-Leste",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Timor-Leste",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Timor-Leste",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Timor-Leste",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Timor-Leste",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Timor-Leste",
+        "sector": [
+            "infrastructure"
+        ],
+        "sector_mapped": [
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Timor-Leste",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Togo",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Togo",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Togo",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Togo",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Togo",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Togo",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Togo",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Tuvalu",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Tuvalu",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Tuvalu",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Tuvalu",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Tuvalu",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Tuvalu",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Tuvalu",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Uganda",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Uganda",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Uganda",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Uganda",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Uganda",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Uganda",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Uganda",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Uganda",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Uganda",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Vanuatu",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Vanuatu",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Vanuatu",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Vanuatu",
+        "sector": [
+            "tourism"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Vanuatu",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Yemen",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Yemen",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Yemen",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Yemen",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Yemen",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Yemen",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Yemen",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Yemen",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Yemen",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Yemen",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Yemen",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Yemen",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Zambia",
+        "sector": [
+            "cross-sectorial"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Zambia",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Zambia",
+        "sector": [
+            "food security"
+        ],
+        "sector_mapped": [
+            "agriculture \/ food security"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Zambia",
+        "sector": [
+            "early warning system and disaster management"
+        ],
+        "sector_mapped": [
+            "disaster risk reduction"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Zambia",
+        "sector": [
+            "education",
+            "capacity building"
+        ],
+        "sector_mapped": [
+            "Education",
+            "infrastructure \/ risk management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Zambia",
+        "sector": [
+            "health"
+        ],
+        "sector_mapped": [
+            "health"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Zambia",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Zambia",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Zambia",
+        "sector": [
+            "terrestrial ecosystems"
+        ],
+        "sector_mapped": [
+            "natural resource management"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "Zambia",
+        "sector": [
+            "water resources"
+        ],
+        "sector_mapped": [
+            "water resources"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "",
+        "sector": [
+            "coastal zones and marine ecosystems"
+        ],
+        "sector_mapped": [
+            "coastal zone development"
+        ]
+    },
+    {
+        "source": "napa",
+        "recipient": "",
+        "sector": [
+            "tourism"
+        ],
+        "sector_mapped": [
+            "Government \/ trade \/ finance"
+        ]
+    }
+]

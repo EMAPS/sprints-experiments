@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data_26a.json",
+  "logo": {
+    "text": "",
+    "file": "",
+    "link": ""
+  },
+  "text": {
+    "title": "The specialization of OECD donor countries by negotiating groups in the United Nations Framework Convention on Climate Change (UNFCCC).",
+    "more": "",
+    "intro": "Blue nodes: donor countries<br>Yellow nodes: Recipient UNFCCC Groups<br>Size: Number of countries in the group"
+  },
+  "legend": {
+    "edgeLabel": "Projects",
+    "colorLabel": "Type of node",
+    "nodeLabel": "Countries and Projects"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "imageAttribute": "Label",
+    "groupByEdgeDirection": false
+  },
+  "sigma": {
+    "graphProperties": {
+      "minEdgeSize": 1,
+      "maxEdgeSize": 5,
+      "minNodeSize": 1,
+      "maxNodeSize": 10
+    },
+    "drawingProperties": {
+      "labelThreshold": 10,
+      "hoverFontStyle": "bold",
+      "defaultEdgeType": "curve",
+      "defaultLabelColor": "#000",
+      "defaultLabelHoverColor": "#fff",
+      "defaultLabelSize": 14,
+      "activeFontStyle": "bold",
+      "fontStyle": "bold",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd"
+    },
+    "mouseProperties": {
+      "minRatio": 0.75,
+      "maxRatio": 20
+    }
+  }
+}

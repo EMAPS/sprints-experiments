@@ -1,0 +1,82 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>The HTML5 Herald</title>
+  <meta name="description" content="Venn diagrams">
+  <meta name="author" content="Django">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/css/jquery.ui.slider.min.css">
+  <link href='http://fonts.googleapis.com/css?family=Lato:400,700,900' rel='stylesheet' type='text/css'>
+  <style>
+  .link {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: .2;
+}
+
+.link:hover {
+  stroke-opacity: .5;
+}
+
+  #slider{
+  	width:800px;
+  	margin-left:20px;
+  	margin-top:20px;
+  	margin-bottom:10px;
+  }
+
+  .ui-slider-horizontal .ui-slider-handle {
+  	background-color:#999;
+  	width:5px;
+  	margin-left:0px;
+  	height:17px;
+  	margin-top:3px;
+
+  }
+
+  .ui-slider-horizontal{
+  	background-color:#eee;
+  }
+
+  h1{
+  	font-family:"Lato";
+  	font-size:20px;
+  	font-weight:bold;
+  	margin-left:20px;
+
+  }
+  #venn,#alluvial{
+    float:left;
+  }
+  #alluvial{
+    margin-left:10px;
+  }
+
+  </style>
+
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+
+<h1>Participations to climate change related conferences</h1>
+
+<div id="slider"></div>
+<div id="venn"></div>
+<div id="alluvial"></div>
+
+
+<!--<div class="simple_example"></div>-->
+
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="sankey.js" charset="utf-8"></script>
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+<script src="static2.js" charset="utf-8"></script>
+
+</body>
+</html>

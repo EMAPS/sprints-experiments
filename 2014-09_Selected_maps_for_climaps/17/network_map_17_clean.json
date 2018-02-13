@@ -1,0 +1,2284 @@
+{
+    "edges": [
+    {
+        "source": "MERGE",
+        "target": "Climate Policy",
+        "id": "67",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "SVI",
+        "target": "Br Geriatrics Soc",
+        "id": "65",
+        "attributes":
+        {
+            "Weight": 6,
+            "mentions": "6"
+        },
+        "color": "#CCCACA",
+        "size": 6.0
+    },
+    {
+        "source": "CCPI",
+        "target": "The 4th Biennial Conference of International Association for Ecology \u0026 Health",
+        "id": "16",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "HPI",
+        "target": "Ecological Economics",
+        "id": "84",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    },
+    {
+        "source": "GDI",
+        "target": "Journal of Human Development",
+        "id": "92",
+        "attributes":
+        {
+            "Weight": 5,
+            "mentions": "5"
+        },
+        "color": "#CCCACA",
+        "size": 5.0
+    },
+    {
+        "source": "CCPI",
+        "target": "Climate Policy",
+        "id": "11",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "CCVI",
+        "target": "ÌïúÍµ≠ÌôòÍ≤ΩÏòÅÌñ•ÌèâÍ∞ÄÌïôÌöå",
+        "id": "21",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "HDI",
+        "target": "Energy Policy",
+        "id": "76",
+        "attributes":
+        {
+            "Weight": 5,
+            "mentions": "5"
+        },
+        "color": "#CCCACA",
+        "size": 5.0
+    },
+    {
+        "source": "CRI",
+        "target": "Climate Change and Disaster Risk Management",
+        "id": "29",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "CCPI",
+        "target": "Nature Middle East",
+        "id": "9",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    },
+    {
+        "source": "EVI",
+        "target": "Ecological Indicators",
+        "id": "42",
+        "attributes":
+        {
+            "Weight": 8,
+            "mentions": "8"
+        },
+        "color": "#CCCACA",
+        "size": 8.0
+    },
+    {
+        "source": "CCPI",
+        "target": "International Journal of Climate Change Strategies and Management",
+        "id": "14",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "GII",
+        "target": "Journal of Cross-Cultural Psychology",
+        "id": "97",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    },
+    {
+        "source": "CRI",
+        "target": "Climate Policy",
+        "id": "27",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "CVM",
+        "target": "Quelle Transition Pour Nos Soci√©t√©s",
+        "id": "7",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "MERGE",
+        "target": "Applied Energy",
+        "id": "72",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "CCVI",
+        "target": "Citeseer",
+        "id": "22",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "FUND",
+        "target": "Energy Policy",
+        "id": "55",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    },
+    {
+        "source": "GAIN",
+        "target": "Open Development: Networked Innovations in International Development",
+        "id": "60",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "ECVI",
+        "target": "Development",
+        "id": "50",
+        "attributes":
+        {
+            "Weight": 4,
+            "mentions": "4"
+        },
+        "color": "#CCCACA",
+        "size": 4.0
+    },
+    {
+        "source": "CRI",
+        "target": "International Journal of Disaster Risk Reduction",
+        "id": "28",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    },
+    {
+        "source": "MERGE",
+        "target": "Resource and Energy Economics",
+        "id": "70",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "RICE",
+        "target": "Climate Savvy",
+        "id": "37",
+        "attributes":
+        {
+            "Weight": 15,
+            "mentions": "15"
+        },
+        "color": "#CCCACA",
+        "size": 15.0
+    },
+    {
+        "source": "RICE",
+        "target": "Environmental and Resource Economics",
+        "id": "39",
+        "attributes":
+        {
+            "Weight": 11,
+            "mentions": "11"
+        },
+        "color": "#CCCACA",
+        "size": 11.0
+    },
+    {
+        "source": "HDI",
+        "target": "Intereconomics",
+        "id": "79",
+        "attributes":
+        {
+            "Weight": 6,
+            "mentions": "6"
+        },
+        "color": "#CCCACA",
+        "size": 6.0
+    },
+    {
+        "source": "ECVI",
+        "target": "ferdi.fr",
+        "id": "51",
+        "attributes":
+        {
+            "Weight": 4,
+            "mentions": "4"
+        },
+        "color": "#CCCACA",
+        "size": 4.0
+    },
+    {
+        "source": "RICE",
+        "target": "Climatic Change",
+        "id": "36",
+        "attributes":
+        {
+            "Weight": 16,
+            "mentions": "16"
+        },
+        "color": "#CCCACA",
+        "size": 16.0
+    },
+    {
+        "source": "CVM",
+        "target": "Industrial health",
+        "id": "4",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "MERGE",
+        "target": "Energy Economics",
+        "id": "69",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "SVI",
+        "target": "Encyclopedia of Natural Hazards",
+        "id": "66",
+        "attributes":
+        {
+            "Weight": 6,
+            "mentions": "6"
+        },
+        "color": "#CCCACA",
+        "size": 6.0
+    },
+    {
+        "source": "RICE",
+        "target": "Energy Economics",
+        "id": "38",
+        "attributes":
+        {
+            "Weight": 12,
+            "mentions": "12"
+        },
+        "color": "#CCCACA",
+        "size": 12.0
+    },
+    {
+        "source": "HPI",
+        "target": "observatoriogeograficoamericalatina.org.mx",
+        "id": "88",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    },
+    {
+        "source": "EVI",
+        "target": "projects.inweh.unu.edu",
+        "id": "44",
+        "attributes":
+        {
+            "Weight": 5,
+            "mentions": "5"
+        },
+        "color": "#CCCACA",
+        "size": 5.0
+    },
+    {
+        "source": "EVI",
+        "target": "Annals of the Association of American Geographers",
+        "id": "43",
+        "attributes":
+        {
+            "Weight": 6,
+            "mentions": "6"
+        },
+        "color": "#CCCACA",
+        "size": 6.0
+    },
+    {
+        "source": "RICE",
+        "target": "Resource and Energy Economics",
+        "id": "40",
+        "attributes":
+        {
+            "Weight": 10,
+            "mentions": "10"
+        },
+        "color": "#CCCACA",
+        "size": 10.0
+    },
+    {
+        "source": "EVI",
+        "target": "A Climate Risk Management Approach to Disaster Reduction and Adaptation to Climate Change",
+        "id": "45",
+        "attributes":
+        {
+            "Weight": 4,
+            "mentions": "4"
+        },
+        "color": "#CCCACA",
+        "size": 4.0
+    },
+    {
+        "source": "CRI",
+        "target": "Global Environmental Change",
+        "id": "25",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "RICE",
+        "target": "Energy Policy",
+        "id": "34",
+        "attributes":
+        {
+            "Weight": 21,
+            "mentions": "21"
+        },
+        "color": "#CCCACA",
+        "size": 21.0
+    },
+    {
+        "source": "GII",
+        "target": "iosrjournals.org",
+        "id": "96",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    },
+    {
+        "source": "CRI",
+        "target": "How the World‚Äôs Religions are Responding to Climate Change",
+        "id": "30",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "CVM",
+        "target": "Global Environmental Change",
+        "id": "3",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "ECVI",
+        "target": "Citeseer",
+        "id": "47",
+        "attributes":
+        {
+            "Weight": 4,
+            "mentions": "4"
+        },
+        "color": "#CCCACA",
+        "size": 4.0
+    },
+    {
+        "source": "EVI",
+        "target": "earthzine.org",
+        "id": "46",
+        "attributes":
+        {
+            "Weight": 4,
+            "mentions": "4"
+        },
+        "color": "#CCCACA",
+        "size": 4.0
+    },
+    {
+        "source": "EVI",
+        "target": "Global Environmental Change",
+        "id": "41",
+        "attributes":
+        {
+            "Weight": 12,
+            "mentions": "12"
+        },
+        "color": "#CCCACA",
+        "size": 12.0
+    },
+    {
+        "source": "FUND",
+        "target": "Ecological Economics",
+        "id": "56",
+        "attributes":
+        {
+            "Weight": 4,
+            "mentions": "4"
+        },
+        "color": "#CCCACA",
+        "size": 4.0
+    },
+    {
+        "source": "MERGE",
+        "target": "International Journal of Greenhouse Gas Control",
+        "id": "74",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "HPI",
+        "target": "cricyt.edu.ar",
+        "id": "87",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    },
+    {
+        "source": "HPI",
+        "target": "biblioteca.usac.edu.gt",
+        "id": "86",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    },
+    {
+        "source": "CCPI",
+        "target": "Journal of Contemporary European Research",
+        "id": "8",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    },
+    {
+        "source": "GDI",
+        "target": "Encyclopedia of Quality of Life and Well-Being Research",
+        "id": "90",
+        "attributes":
+        {
+            "Weight": 58,
+            "mentions": "58"
+        },
+        "color": "#CCCACA",
+        "size": 58.0
+    },
+    {
+        "source": "CRI",
+        "target": "Response options to rodent outbreaks following extreme weather events: cyclone Nargis",
+        "id": "32",
+        "attributes":
+        {
+            "Weight": 1
+        },
+        "color": "#CCCACA",
+        "size": 1.0
+    },
+    {
+        "source": "SVI",
+        "target": "Citeseer",
+        "id": "62",
+        "attributes":
+        {
+            "Weight": 7,
+            "mentions": "7"
+        },
+        "color": "#CCCACA",
+        "size": 7.0
+    },
+    {
+        "source": "CCVI",
+        "target": "Federal Register",
+        "id": "19",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    },
+    {
+        "source": "ECVI",
+        "target": "thema.univ-fcomte.fr",
+        "id": "53",
+        "attributes":
+        {
+            "Weight": 4,
+            "mentions": "4"
+        },
+        "color": "#CCCACA",
+        "size": 4.0
+    },
+    {
+        "source": "GII",
+        "target": "Encyclopedia of Quality of Life and Well-Being Research",
+        "id": "95",
+        "attributes":
+        {
+            "Weight": 98,
+            "mentions": "98"
+        },
+        "color": "#CCCACA",
+        "size": 98.0
+    },
+    {
+        "source": "HPI",
+        "target": "sinat.semarnat.gob.mx",
+        "id": "85",
+        "attributes":
+        {
+            "Weight": 6,
+            "mentions": "6"
+        },
+        "color": "#CCCACA",
+        "size": 6.0
+    },
+    {
+        "source": "FUND",
+        "target": "Climate Change Economics",
+        "id": "59",
+        "attributes":
+        {
+            "Weight": 4,
+            "mentions": "4"
+        },
+        "color": "#CCCACA",
+        "size": 4.0
+    },
+    {
+        "source": "CRI",
+        "target": "klimacampus.de",
+        "id": "26",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "ECVI",
+        "target": "un.org",
+        "id": "49",
+        "attributes":
+        {
+            "Weight": 5,
+            "mentions": "5"
+        },
+        "color": "#CCCACA",
+        "size": 5.0
+    },
+    {
+        "source": "HDI",
+        "target": "International Journal of Gynecology \u0026 Obstetrics",
+        "id": "78",
+        "attributes":
+        {
+            "Weight": 7,
+            "mentions": "7"
+        },
+        "color": "#CCCACA",
+        "size": 7.0
+    },
+    {
+        "source": "RICE",
+        "target": "Ecological Economics",
+        "id": "35",
+        "attributes":
+        {
+            "Weight": 17,
+            "mentions": "17"
+        },
+        "color": "#CCCACA",
+        "size": 17.0
+    },
+    {
+        "source": "CCVI",
+        "target": "PloS one",
+        "id": "24",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "GII",
+        "target": "Mimeograph",
+        "id": "98",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    },
+    {
+        "source": "CCPI",
+        "target": "jesc.ac.cn",
+        "id": "15",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "FUND",
+        "target": "Climatic Change",
+        "id": "57",
+        "attributes":
+        {
+            "Weight": 4,
+            "mentions": "4"
+        },
+        "color": "#CCCACA",
+        "size": 4.0
+    },
+    {
+        "source": "CCPI",
+        "target": "Emissions Trading",
+        "id": "13",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "ECVI",
+        "target": "Natural hazards",
+        "id": "52",
+        "attributes":
+        {
+            "Weight": 4,
+            "mentions": "4"
+        },
+        "color": "#CCCACA",
+        "size": 4.0
+    },
+    {
+        "source": "GDI",
+        "target": "International Encyclopedia of Statistical Science",
+        "id": "91",
+        "attributes":
+        {
+            "Weight": 9,
+            "mentions": "9"
+        },
+        "color": "#CCCACA",
+        "size": 9.0
+    },
+    {
+        "source": "FUND",
+        "target": "Energy Economics",
+        "id": "58",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    },
+    {
+        "source": "CRI",
+        "target": "Mezin¬∑rodn√å vztahy",
+        "id": "31",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "FUND",
+        "target": "Climate Policy",
+        "id": "54",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    },
+    {
+        "source": "CCVI",
+        "target": "Global Environmental Change",
+        "id": "17",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "GDI",
+        "target": "Social indicators research",
+        "id": "93",
+        "attributes":
+        {
+            "Weight": 5,
+            "mentions": "5"
+        },
+        "color": "#CCCACA",
+        "size": 5.0
+    },
+    {
+        "source": "HDI",
+        "target": "Global Environmental Change",
+        "id": "75",
+        "attributes":
+        {
+            "Weight": 8,
+            "mentions": "8"
+        },
+        "color": "#CCCACA",
+        "size": 8.0
+    },
+    {
+        "source": "CCPI",
+        "target": "–£ –ù–û–ú–ï–†–Ü: –ï–ö–û–ù–û–ú–Ü–ß–ù–ò–ô –§–û–†–£–ú ‚Ññ 1/2014 –ó–ú–Ü–°–¢",
+        "id": "10",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "GII",
+        "target": "Citeseer",
+        "id": "94",
+        "attributes":
+        {
+            "Weight": 6,
+            "mentions": "6"
+        },
+        "color": "#CCCACA",
+        "size": 6.0
+    },
+    {
+        "source": "CRI",
+        "target": "Proceedings of international conference on environmental aspects of Bangladesh",
+        "id": "33",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "HDI",
+        "target": "Ecological Economics",
+        "id": "77",
+        "attributes":
+        {
+            "Weight": 5,
+            "mentions": "5"
+        },
+        "color": "#CCCACA",
+        "size": 5.0
+    },
+    {
+        "source": "CVM",
+        "target": "Proceedings of the 15th International Conference on Environmental Ergonomics",
+        "id": "2",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "CCVI",
+        "target": "International Journal of Climate Change Strategies and Management",
+        "id": "18",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "CVM",
+        "target": "Can Med Assoc",
+        "id": "1",
+        "attributes":
+        {
+            "Weight": 23,
+            "mentions": "23"
+        },
+        "color": "#CCCACA",
+        "size": 23.0
+    },
+    {
+        "source": "SVI",
+        "target": "Applied Geography",
+        "id": "64",
+        "attributes":
+        {
+            "Weight": 9,
+            "mentions": "9"
+        },
+        "color": "#CCCACA",
+        "size": 9.0
+    },
+    {
+        "source": "SVI",
+        "target": "Natural hazards",
+        "id": "63",
+        "attributes":
+        {
+            "Weight": 27,
+            "mentions": "27"
+        },
+        "color": "#CCCACA",
+        "size": 27.0
+    },
+    {
+        "source": "HPI",
+        "target": "Citeseer",
+        "id": "83",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    },
+    {
+        "source": "MERGE",
+        "target": "armisusandi.com",
+        "id": "71",
+        "attributes":
+        {
+            "Weight": 5,
+            "mentions": "5"
+        },
+        "color": "#CCCACA",
+        "size": 5.0
+    },
+    {
+        "source": "GDI",
+        "target": "Citeseer",
+        "id": "89",
+        "attributes":
+        {
+            "Weight": 5,
+            "mentions": "5"
+        },
+        "color": "#CCCACA",
+        "size": 5.0
+    },
+    {
+        "source": "CCVI",
+        "target": "Water SA",
+        "id": "20",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    },
+    {
+        "source": "ECVI",
+        "target": "um.edu.mt",
+        "id": "48",
+        "attributes":
+        {
+            "Weight": 5,
+            "mentions": "5"
+        },
+        "color": "#CCCACA",
+        "size": 5.0
+    },
+    {
+        "source": "MPI",
+        "target": "Encyclopedia of Quality of Life and Well-Being Research",
+        "id": "81",
+        "attributes":
+        {
+            "Weight": 112,
+            "mentions": "112"
+        },
+        "color": "#CCCACA",
+        "size": 112.0
+    },
+    {
+        "source": "MPI",
+        "target": "Development Co-operation Report",
+        "id": "82",
+        "attributes":
+        {
+            "Weight": 5,
+            "mentions": "5"
+        },
+        "color": "#CCCACA",
+        "size": 5.0
+    },
+    {
+        "source": "CCVI",
+        "target": "gisweb.ciat.cgiar.org",
+        "id": "23",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "SVI",
+        "target": "Global Environmental Change",
+        "id": "61",
+        "attributes":
+        {
+            "Weight": 11,
+            "mentions": "11"
+        },
+        "color": "#CCCACA",
+        "size": 11.0
+    },
+    {
+        "source": "CCPI",
+        "target": "Democratization",
+        "id": "12",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "MERGE",
+        "target": "Energy",
+        "id": "73",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "CVM",
+        "target": "Journal of Sustainable Development",
+        "id": "5",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "MERGE",
+        "target": "Citeseer",
+        "id": "68",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    },
+    {
+        "source": "CVM",
+        "target": "klimacampus.de",
+        "id": "6",
+        "attributes":
+        {
+            "Weight": 2,
+            "mentions": "2"
+        },
+        "color": "#CCCACA",
+        "size": 2.0
+    },
+    {
+        "source": "MPI",
+        "target": "Citeseer",
+        "id": "80",
+        "attributes":
+        {
+            "Weight": 3,
+            "mentions": "3"
+        },
+        "color": "#CCCACA",
+        "size": 3.0
+    }],
+    "nodes": [
+    {
+        "label": "International Journal of Greenhouse Gas Control",
+        "x": -645.4860229492188,
+        "y": -191.02316284179688,
+        "id": "International Journal of Greenhouse Gas Control",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "Proceedings of the 15th International Conference on Environmental Ergonomics",
+        "x": 1061.8560791015625,
+        "y": 298.91632080078125,
+        "id": "Proceedings of the 15th International Conference on Environmental Ergonomics",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "GII",
+        "x": -743.7718505859375,
+        "y": 946.0791015625,
+        "id": "GII",
+        "attributes":
+        {
+            "Total citations": 113,
+            "Type": "index"
+        },
+        "color": "#286275",
+        "size": 44.2696647644043
+    },
+    {
+        "label": "GDI",
+        "x": -908.2560424804688,
+        "y": 832.9729614257812,
+        "id": "GDI",
+        "attributes":
+        {
+            "Total citations": 82,
+            "Type": "index"
+        },
+        "color": "#286275",
+        "size": 33.12359619140625
+    },
+    {
+        "label": "ECVI",
+        "x": -625.0573120117188,
+        "y": 513.370849609375,
+        "id": "ECVI",
+        "attributes":
+        {
+            "Total citations": 30,
+            "Type": "index"
+        },
+        "color": "#286275",
+        "size": 14.426965713500977
+    },
+    {
+        "label": "Natural hazards",
+        "x": -285.51495361328125,
+        "y": 440.2516174316406,
+        "id": "Natural hazards",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 31
+        },
+        "color": "#FF5A52",
+        "size": 14.786517143249512
+    },
+    {
+        "label": "Journal of Sustainable Development",
+        "x": 1110.9764404296875,
+        "y": 192.0493927001953,
+        "id": "Journal of Sustainable Development",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "klimacampus.de",
+        "x": 875.1067504882812,
+        "y": -100.27754974365234,
+        "id": "klimacampus.de",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 4
+        },
+        "color": "#FF5A52",
+        "size": 5.078652858734131
+    },
+    {
+        "label": "Climate Change Economics",
+        "x": -68.93767547607422,
+        "y": -740.5277099609375,
+        "id": "Climate Change Economics",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 4
+        },
+        "color": "#FF5A52",
+        "size": 5.078652858734131
+    },
+    {
+        "label": "Climatic Change",
+        "x": -209.2760009765625,
+        "y": -583.4260864257812,
+        "id": "Climatic Change",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 20
+        },
+        "color": "#FF5A52",
+        "size": 10.831460952758789
+    },
+    {
+        "label": "PloS one",
+        "x": 415.8619689941406,
+        "y": -7.564868927001953,
+        "id": "PloS one",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "Democratization",
+        "x": 717.013427734375,
+        "y": -1288.2593994140625,
+        "id": "Democratization",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "Can Med Assoc",
+        "x": 996.5494995117188,
+        "y": 201.82530212402344,
+        "id": "Can Med Assoc",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 23
+        },
+        "color": "#FF5A52",
+        "size": 11.910114288330078
+    },
+    {
+        "label": "Proceedings of international conference on environmental aspects of Bangladesh",
+        "x": 744.6131591796875,
+        "y": -536.7728881835938,
+        "id": "Proceedings of international conference on environmental aspects of Bangladesh",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "MPI",
+        "x": -780.0416259765625,
+        "y": 1183.219970703125,
+        "id": "MPI",
+        "attributes":
+        {
+            "Total citations": 120,
+            "Type": "index"
+        },
+        "color": "#286275",
+        "size": 46.78651809692383
+    },
+    {
+        "label": "Applied Energy",
+        "x": -679.74462890625,
+        "y": -300.0758972167969,
+        "id": "Applied Energy",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "CCVI",
+        "x": 259.8056335449219,
+        "y": -67.90922546386719,
+        "id": "CCVI",
+        "attributes":
+        {
+            "Total citations": 18,
+            "Type": "index"
+        },
+        "color": "#286275",
+        "size": 10.112360000610352
+    },
+    {
+        "label": "Energy",
+        "x": -599.0094604492188,
+        "y": -380.11962890625,
+        "id": "Energy",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "Mimeograph",
+        "x": -689.1083374023438,
+        "y": 819.61083984375,
+        "id": "Mimeograph",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 3
+        },
+        "color": "#FF5A52",
+        "size": 4.7191009521484375
+    },
+    {
+        "label": "gisweb.ciat.cgiar.org",
+        "x": 378.7307434082031,
+        "y": -220.0251007080078,
+        "id": "gisweb.ciat.cgiar.org",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "ÌïúÍµ≠ÌôòÍ≤ΩÏòÅÌñ•ÌèâÍ∞ÄÌïôÌöå",
+        "x": 467.7193908691406,
+        "y": -124.2518310546875,
+        "id": "ÌïúÍµ≠ÌôòÍ≤ΩÏòÅÌñ•ÌèâÍ∞ÄÌïôÌöå",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "thema.univ-fcomte.fr",
+        "x": -618.2002563476562,
+        "y": 648.7074584960938,
+        "id": "thema.univ-fcomte.fr",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 4
+        },
+        "color": "#FF5A52",
+        "size": 5.078652858734131
+    },
+    {
+        "label": "observatoriogeograficoamericalatina.org.mx",
+        "x": -597.2764282226562,
+        "y": 8.221489906311035,
+        "id": "observatoriogeograficoamericalatina.org.mx",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 3
+        },
+        "color": "#FF5A52",
+        "size": 4.7191009521484375
+    },
+    {
+        "label": "Mezin¬∑rodn√å vztahy",
+        "x": 865.39794921875,
+        "y": -531.225830078125,
+        "id": "Mezin¬∑rodn√å vztahy",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "ferdi.fr",
+        "x": -756.3726196289062,
+        "y": 522.1387939453125,
+        "id": "ferdi.fr",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 4
+        },
+        "color": "#FF5A52",
+        "size": 5.078652858734131
+    },
+    {
+        "label": "Response options to rodent outbreaks following extreme weather events: cyclone Nargis",
+        "x": 1015.2882080078125,
+        "y": -504.0153503417969,
+        "id": "Response options to rodent outbreaks following extreme weather events: cyclone Nargis",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 1
+        },
+        "color": "#FF5A52",
+        "size": 4.0
+    },
+    {
+        "label": "Climate Change and Disaster Risk Management",
+        "x": 861.6149291992188,
+        "y": -318.3357849121094,
+        "id": "Climate Change and Disaster Risk Management",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "Development",
+        "x": -719.2863159179688,
+        "y": 430.70733642578125,
+        "id": "Development",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 4
+        },
+        "color": "#FF5A52",
+        "size": 5.078652858734131
+    },
+    {
+        "label": "International Encyclopedia of Statistical Science",
+        "x": -980.94140625,
+        "y": 740.2135009765625,
+        "id": "International Encyclopedia of Statistical Science",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 9
+        },
+        "color": "#FF5A52",
+        "size": 6.87640380859375
+    },
+    {
+        "label": "cricyt.edu.ar",
+        "x": -623.0947265625,
+        "y": 217.66433715820312,
+        "id": "cricyt.edu.ar",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 3
+        },
+        "color": "#FF5A52",
+        "size": 4.7191009521484375
+    },
+    {
+        "label": "HDI",
+        "x": -40.476524353027344,
+        "y": -118.6325454711914,
+        "id": "HDI",
+        "attributes":
+        {
+            "Total citations": 36,
+            "Type": "index"
+        },
+        "color": "#286275",
+        "size": 16.584270477294922
+    },
+    {
+        "label": "Open Development: Networked Innovations in International Development",
+        "x": 409.9847717285156,
+        "y": 933.5728759765625,
+        "id": "Open Development: Networked Innovations in International Development",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "CCPI",
+        "x": 531.5859985351562,
+        "y": -1153.54296875,
+        "id": "CCPI",
+        "attributes":
+        {
+            "Total citations": 20,
+            "Type": "index"
+        },
+        "color": "#286275",
+        "size": 10.831460952758789
+    },
+    {
+        "label": "MERGE",
+        "x": -477.8759460449219,
+        "y": -210.4510040283203,
+        "id": "MERGE",
+        "attributes":
+        {
+            "Total citations": 20,
+            "Type": "index"
+        },
+        "color": "#286275",
+        "size": 10.831460952758789
+    },
+    {
+        "label": "Journal of Contemporary European Research",
+        "x": 629.087646484375,
+        "y": -1237.9720458984375,
+        "id": "Journal of Contemporary European Research",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 3
+        },
+        "color": "#FF5A52",
+        "size": 4.7191009521484375
+    },
+    {
+        "label": "SVI",
+        "x": -163.60362243652344,
+        "y": 405.7835998535156,
+        "id": "SVI",
+        "attributes":
+        {
+            "Total citations": 77,
+            "Type": "index"
+        },
+        "color": "#286275",
+        "size": 31.325841903686523
+    },
+    {
+        "label": "Energy Economics",
+        "x": -311.23370361328125,
+        "y": -600.4505615234375,
+        "id": "Energy Economics",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 17
+        },
+        "color": "#FF5A52",
+        "size": 9.7528076171875
+    },
+    {
+        "label": "International Journal of Disaster Risk Reduction",
+        "x": 809.6710815429688,
+        "y": -445.9588928222656,
+        "id": "International Journal of Disaster Risk Reduction",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 3
+        },
+        "color": "#FF5A52",
+        "size": 4.7191009521484375
+    },
+    {
+        "label": "armisusandi.com",
+        "x": -569.3504638671875,
+        "y": -275.738525390625,
+        "id": "armisusandi.com",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 5
+        },
+        "color": "#FF5A52",
+        "size": 5.438201904296875
+    },
+    {
+        "label": "Encyclopedia of Quality of Life and Well-Being Research",
+        "x": -937.6742553710938,
+        "y": 1032.6488037109375,
+        "id": "Encyclopedia of Quality of Life and Well-Being Research",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 268
+        },
+        "color": "#FF5A52",
+        "size": 100.0
+    },
+    {
+        "label": "Applied Geography",
+        "x": -151.17039489746094,
+        "y": 285.5417785644531,
+        "id": "Applied Geography",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 9
+        },
+        "color": "#FF5A52",
+        "size": 6.87640380859375
+    },
+    {
+        "label": "Encyclopedia of Natural Hazards",
+        "x": -71.16167449951172,
+        "y": 504.4815979003906,
+        "id": "Encyclopedia of Natural Hazards",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 6
+        },
+        "color": "#FF5A52",
+        "size": 5.797753810882568
+    },
+    {
+        "label": "How the World‚Äôs Religions are Responding to Climate Change",
+        "x": 912.5084228515625,
+        "y": -412.61627197265625,
+        "id": "How the World‚Äôs Religions are Responding to Climate Change",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "Journal of Cross-Cultural Psychology",
+        "x": -589.167236328125,
+        "y": 1005.1917114257812,
+        "id": "Journal of Cross-Cultural Psychology",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 3
+        },
+        "color": "#FF5A52",
+        "size": 4.7191009521484375
+    },
+    {
+        "label": "Journal of Human Development",
+        "x": -1102.7791748046875,
+        "y": 859.1767578125,
+        "id": "Journal of Human Development",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 5
+        },
+        "color": "#FF5A52",
+        "size": 5.438201904296875
+    },
+    {
+        "label": "Federal Register",
+        "x": 371.6549072265625,
+        "y": -110.67828369140625,
+        "id": "Federal Register",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 3
+        },
+        "color": "#FF5A52",
+        "size": 4.7191009521484375
+    },
+    {
+        "label": "RICE",
+        "x": -274.09283447265625,
+        "y": -456.24835205078125,
+        "id": "RICE",
+        "attributes":
+        {
+            "Total citations": 115,
+            "Type": "index"
+        },
+        "color": "#286275",
+        "size": 44.988765716552734
+    },
+    {
+        "label": "Br Geriatrics Soc",
+        "x": -34.16341781616211,
+        "y": 407.51812744140625,
+        "id": "Br Geriatrics Soc",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 6
+        },
+        "color": "#FF5A52",
+        "size": 5.797753810882568
+    },
+    {
+        "label": "Water SA",
+        "x": 272.14166259765625,
+        "y": -195.73179626464844,
+        "id": "Water SA",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 3
+        },
+        "color": "#FF5A52",
+        "size": 4.7191009521484375
+    },
+    {
+        "label": "International Journal of Climate Change Strategies and Management",
+        "x": 437.0587463378906,
+        "y": -671.5509643554688,
+        "id": "International Journal of Climate Change Strategies and Management",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 4
+        },
+        "color": "#FF5A52",
+        "size": 5.078652858734131
+    },
+    {
+        "label": "The 4th Biennial Conference of International Association for Ecology \u0026 Health",
+        "x": 513.3493041992188,
+        "y": -1380.679931640625,
+        "id": "The 4th Biennial Conference of International Association for Ecology \u0026 Health",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "EVI",
+        "x": 262.2920837402344,
+        "y": 279.61163330078125,
+        "id": "EVI",
+        "attributes":
+        {
+            "Total citations": 39,
+            "Type": "index"
+        },
+        "color": "#286275",
+        "size": 17.662921905517578
+    },
+    {
+        "label": "CVM",
+        "x": 898.0712280273438,
+        "y": 179.22097778320312,
+        "id": "CVM",
+        "attributes":
+        {
+            "Total citations": 35,
+            "Type": "index"
+        },
+        "color": "#286275",
+        "size": 16.224720001220703
+    },
+    {
+        "label": "CRI",
+        "x": 710.298095703125,
+        "y": -369.5694274902344,
+        "id": "CRI",
+        "attributes":
+        {
+            "Total citations": 18,
+            "Type": "index"
+        },
+        "color": "#286275",
+        "size": 10.112360000610352
+    },
+    {
+        "label": "projects.inweh.unu.edu",
+        "x": 388.4437255859375,
+        "y": 271.8036804199219,
+        "id": "projects.inweh.unu.edu",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 5
+        },
+        "color": "#FF5A52",
+        "size": 5.438201904296875
+    },
+    {
+        "label": "Citeseer",
+        "x": -496.5400390625,
+        "y": 577.5676879882812,
+        "id": "Citeseer",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 33
+        },
+        "color": "#FF5A52",
+        "size": 15.50561809539795
+    },
+    {
+        "label": "Annals of the Association of American Geographers",
+        "x": 218.87783813476562,
+        "y": 384.4551696777344,
+        "id": "Annals of the Association of American Geographers",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 6
+        },
+        "color": "#FF5A52",
+        "size": 5.797753810882568
+    },
+    {
+        "label": "biblioteca.usac.edu.gt",
+        "x": -698.0951538085938,
+        "y": 41.913448333740234,
+        "id": "biblioteca.usac.edu.gt",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 3
+        },
+        "color": "#FF5A52",
+        "size": 4.7191009521484375
+    },
+    {
+        "label": "Quelle Transition Pour Nos Soci√©t√©s",
+        "x": 1048.68408203125,
+        "y": 92.24791717529297,
+        "id": "Quelle Transition Pour Nos Soci√©t√©s",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "HPI",
+        "x": -546.6609497070312,
+        "y": 117.45735168457031,
+        "id": "HPI",
+        "attributes":
+        {
+            "Total citations": 21,
+            "Type": "index"
+        },
+        "color": "#286275",
+        "size": 11.191009521484375
+    },
+    {
+        "label": "Environmental and Resource Economics",
+        "x": -387.9297790527344,
+        "y": -543.1412963867188,
+        "id": "Environmental and Resource Economics",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 11
+        },
+        "color": "#FF5A52",
+        "size": 7.5955047607421875
+    },
+    {
+        "label": "Industrial health",
+        "x": 951.4287109375,
+        "y": 328.2518005371094,
+        "id": "Industrial health",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "Ecological Indicators",
+        "x": 331.3211364746094,
+        "y": 195.08299255371094,
+        "id": "Ecological Indicators",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 8
+        },
+        "color": "#FF5A52",
+        "size": 6.516855239868164
+    },
+    {
+        "label": "Climate Savvy",
+        "x": -409.075439453125,
+        "y": -456.5113220214844,
+        "id": "Climate Savvy",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 15
+        },
+        "color": "#FF5A52",
+        "size": 9.033706665039062
+    },
+    {
+        "label": "Emissions Trading",
+        "x": 700.689697265625,
+        "y": -1160.4447021484375,
+        "id": "Emissions Trading",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "International Journal of Gynecology \u0026 Obstetrics",
+        "x": 65.42437744140625,
+        "y": -142.3377227783203,
+        "id": "International Journal of Gynecology \u0026 Obstetrics",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 7
+        },
+        "color": "#FF5A52",
+        "size": 6.1573028564453125
+    },
+    {
+        "label": "Climate Policy",
+        "x": 173.41110229492188,
+        "y": -636.7678833007812,
+        "id": "Climate Policy",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 9
+        },
+        "color": "#FF5A52",
+        "size": 6.87640380859375
+    },
+    {
+        "label": "Resource and Energy Economics",
+        "x": -386.1878356933594,
+        "y": -358.6300964355469,
+        "id": "Resource and Energy Economics",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 12
+        },
+        "color": "#FF5A52",
+        "size": 7.955057144165039
+    },
+    {
+        "label": "Development Co-operation Report",
+        "x": -721.3792114257812,
+        "y": 1342.2864990234375,
+        "id": "Development Co-operation Report",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 5
+        },
+        "color": "#FF5A52",
+        "size": 5.438201904296875
+    },
+    {
+        "label": "Nature Middle East",
+        "x": 536.953125,
+        "y": -1282.2142333984375,
+        "id": "Nature Middle East",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 3
+        },
+        "color": "#FF5A52",
+        "size": 4.7191009521484375
+    },
+    {
+        "label": "GAIN",
+        "x": 315.0303955078125,
+        "y": 888.2157592773438,
+        "id": "GAIN",
+        "attributes":
+        {
+            "Total citations": 2,
+            "Type": "index"
+        },
+        "color": "#286275",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "um.edu.mt",
+        "x": -698.7711181640625,
+        "y": 604.8590698242188,
+        "id": "um.edu.mt",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 5
+        },
+        "color": "#FF5A52",
+        "size": 5.438201904296875
+    },
+    {
+        "label": "–£ –ù–û–ú–ï–†–Ü: –ï–ö–û–ù–û–ú–Ü–ß–ù–ò–ô –§–û–†–£–ú ‚Ññ 1/2014 –ó–ú–Ü–°–¢",
+        "x": 430.5152282714844,
+        "y": -1286.1180419921875,
+        "id": "–£ –ù–û–ú–ï–†–Ü: –ï–ö–û–ù–û–ú–Ü–ß–ù–ò–ô –§–û–†–£–ú ‚Ññ 1/2014 –ó–ú–Ü–°–¢",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "Social indicators research",
+        "x": -1030.7879638671875,
+        "y": 819.4016723632812,
+        "id": "Social indicators research",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 5
+        },
+        "color": "#FF5A52",
+        "size": 5.438201904296875
+    },
+    {
+        "label": "Ecological Economics",
+        "x": -237.87796020507812,
+        "y": -301.224609375,
+        "id": "Ecological Economics",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 29
+        },
+        "color": "#FF5A52",
+        "size": 14.067416191101074
+    },
+    {
+        "label": "earthzine.org",
+        "x": 391.8545837402344,
+        "y": 362.917724609375,
+        "id": "earthzine.org",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 4
+        },
+        "color": "#FF5A52",
+        "size": 5.078652858734131
+    },
+    {
+        "label": "Intereconomics",
+        "x": -132.28456115722656,
+        "y": -59.13935089111328,
+        "id": "Intereconomics",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 6
+        },
+        "color": "#FF5A52",
+        "size": 5.797753810882568
+    },
+    {
+        "label": "Energy Policy",
+        "x": -143.17127990722656,
+        "y": -386.0187683105469,
+        "id": "Energy Policy",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 29
+        },
+        "color": "#FF5A52",
+        "size": 14.067416191101074
+    },
+    {
+        "label": "jesc.ac.cn",
+        "x": 625.2161254882812,
+        "y": -1355.3470458984375,
+        "id": "jesc.ac.cn",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 2
+        },
+        "color": "#FF5A52",
+        "size": 4.359551906585693
+    },
+    {
+        "label": "A Climate Risk Management Approach to Disaster Reduction and Adaptation to Climate Change",
+        "x": 312.1506042480469,
+        "y": 408.7486267089844,
+        "id": "A Climate Risk Management Approach to Disaster Reduction and Adaptation to Climate Change",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 4
+        },
+        "color": "#FF5A52",
+        "size": 5.078652858734131
+    },
+    {
+        "label": "sinat.semarnat.gob.mx",
+        "x": -653.6517944335938,
+        "y": 125.38579559326172,
+        "id": "sinat.semarnat.gob.mx",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 6
+        },
+        "color": "#FF5A52",
+        "size": 5.797753810882568
+    },
+    {
+        "label": "iosrjournals.org",
+        "x": -648.2022705078125,
+        "y": 1085.1663818359375,
+        "id": "iosrjournals.org",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 3
+        },
+        "color": "#FF5A52",
+        "size": 4.7191009521484375
+    },
+    {
+        "label": "FUND",
+        "x": -86.33300018310547,
+        "y": -606.3490600585938,
+        "id": "FUND",
+        "attributes":
+        {
+            "Total citations": 24,
+            "Type": "index"
+        },
+        "color": "#286275",
+        "size": 12.269662857055664
+    },
+    {
+        "label": "un.org",
+        "x": -612.8797607421875,
+        "y": 401.3556823730469,
+        "id": "un.org",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 5
+        },
+        "color": "#FF5A52",
+        "size": 5.438201904296875
+    },
+    {
+        "label": "Global Environmental Change",
+        "x": 123.71395111083984,
+        "y": 172.0615692138672,
+        "id": "Global Environmental Change",
+        "attributes":
+        {
+            "Type": "journal",
+            "Cited indexes": 37
+        },
+        "color": "#FF5A52",
+        "size": 16.94382095336914
+    }]
+}

@@ -1,0 +1,4077 @@
+{
+    "1990": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 0
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 0
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 7
+            }, 
+            {
+                "label": "LEG", 
+                "size": 0
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 0
+            }, 
+            {
+                "label": "SBI", 
+                "size": 0
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 0
+            }
+        ]
+    }, 
+    "1996": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 0
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 0
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 0
+            }, 
+            {
+                "label": "LEG", 
+                "size": 0
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 0
+            }, 
+            {
+                "label": "SBI", 
+                "size": 2
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 0
+            }
+        ]
+    }, 
+    "1997": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 0
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 0
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 13
+            }, 
+            {
+                "label": "LEG", 
+                "size": 0
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 0
+            }, 
+            {
+                "label": "SBI", 
+                "size": 0
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 1
+            }
+        ]
+    }, 
+    "1998": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 3
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 0
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 0
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 0
+            }, 
+            {
+                "label": "LEG", 
+                "size": 0
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 0
+            }, 
+            {
+                "label": "SBI", 
+                "size": 6
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 10
+            }
+        ]
+    }, 
+    "1999": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 6
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 0
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 0
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 0
+            }, 
+            {
+                "label": "LEG", 
+                "size": 0
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 0
+            }, 
+            {
+                "label": "SBI", 
+                "size": 7
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 15
+            }
+        ]
+    }, 
+    "2000": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 8
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 0
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 0
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 0
+            }, 
+            {
+                "label": "LEG", 
+                "size": 0
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 0
+            }, 
+            {
+                "label": "SBI", 
+                "size": 9
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 11
+            }
+        ]
+    }, 
+    "2001": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 0
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 0
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 33
+            }, 
+            {
+                "label": "LEG", 
+                "size": 0
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 0
+            }, 
+            {
+                "label": "SBI", 
+                "size": 4
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 28
+            }
+        ]
+    }, 
+    "2002": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 1
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 0
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 0
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 0
+            }, 
+            {
+                "label": "LEG", 
+                "size": 0
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 0
+            }, 
+            {
+                "label": "SBI", 
+                "size": 8
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 16
+            }
+        ]
+    }, 
+    "2003": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 6
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 3
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 3
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 2
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 2
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 9
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 9
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 54
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 0
+            }, 
+            {
+                "label": "LEG", 
+                "size": 0
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 6
+            }, 
+            {
+                "label": "SBI", 
+                "size": 29
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 38
+            }
+        ]
+    }, 
+    "2004": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 3
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 2
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 4
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 13
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 82
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 0
+            }, 
+            {
+                "label": "LEG", 
+                "size": 0
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 6
+            }, 
+            {
+                "label": "SBI", 
+                "size": 30
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 37
+            }
+        ]
+    }, 
+    "2005": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 8
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 2
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 2
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 2
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 2
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 11
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 144
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 0
+            }, 
+            {
+                "label": "LEG", 
+                "size": 1
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 10
+            }, 
+            {
+                "label": "SBI", 
+                "size": 27
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 28
+            }
+        ]
+    }, 
+    "2006": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 8
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 2
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 4
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 2
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 2
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 12
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 114
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 0
+            }, 
+            {
+                "label": "LEG", 
+                "size": 5
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 10
+            }, 
+            {
+                "label": "SBI", 
+                "size": 35
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 17
+            }
+        ]
+    }, 
+    "2007": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 3
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 2
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 3
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4
+                ], 
+                "size": 1
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 13
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 216
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 69
+            }, 
+            {
+                "label": "LEG", 
+                "size": 9
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 7
+            }, 
+            {
+                "label": "SBI", 
+                "size": 24
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 21
+            }
+        ]
+    }, 
+    "2008": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 2
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 8
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 0
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 225
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 0
+            }, 
+            {
+                "label": "LEG", 
+                "size": 9
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 7
+            }, 
+            {
+                "label": "SBI", 
+                "size": 28
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 22
+            }
+        ]
+    }, 
+    "2009": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 6
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 0
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 368
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 0
+            }, 
+            {
+                "label": "LEG", 
+                "size": 8
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 9
+            }, 
+            {
+                "label": "SBI", 
+                "size": 22
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 20
+            }
+        ]
+    }, 
+    "2010": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 16
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 4
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 5
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2
+                ], 
+                "size": 1
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 20
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 308
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 0
+            }, 
+            {
+                "label": "LEG", 
+                "size": 11
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 9
+            }, 
+            {
+                "label": "SBI", 
+                "size": 48
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 15
+            }
+        ]
+    }, 
+    "2011": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 2
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 4
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 19
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 525
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 0
+            }, 
+            {
+                "label": "LEG", 
+                "size": 11
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 7
+            }, 
+            {
+                "label": "SBI", 
+                "size": 22
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 22
+            }
+        ]
+    }, 
+    "2012": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 3
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 2
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 2
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 3
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 6
+            }, 
+            {
+                "sets": [
+                    0, 
+                    7
+                ], 
+                "size": 2
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 16
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 22
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 515
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 0
+            }, 
+            {
+                "label": "LEG", 
+                "size": 12
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 3
+            }, 
+            {
+                "label": "SBI", 
+                "size": 30
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 24
+            }
+        ]
+    }, 
+    "2013": {
+        "overlaps": [
+            {
+                "sets": [
+                    4, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    3
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    0, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    4, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6
+                ], 
+                "size": 2
+            }, 
+            {
+                "sets": [
+                    1, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    1, 
+                    7
+                ], 
+                "size": 2
+            }, 
+            {
+                "sets": [
+                    2, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    5
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    2, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    4
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    3, 
+                    7
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6
+                ], 
+                "size": 2
+            }, 
+            {
+                "sets": [
+                    4, 
+                    6, 
+                    7
+                ], 
+                "size": 1
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    6, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    5, 
+                    7
+                ], 
+                "size": 0
+            }, 
+            {
+                "sets": [
+                    6, 
+                    7
+                ], 
+                "size": 12
+            }, 
+            {
+                "sets": [
+                    4, 
+                    7
+                ], 
+                "size": 1
+            }
+        ], 
+        "sets": [
+            {
+                "label": "Adaption Committee", 
+                "size": 0
+            }, 
+            {
+                "label": "Consultative group of experts", 
+                "size": 20
+            }, 
+            {
+                "label": "Cop Side Event", 
+                "size": 0
+            }, 
+            {
+                "label": "IPCC", 
+                "size": 72
+            }, 
+            {
+                "label": "LEG", 
+                "size": 15
+            }, 
+            {
+                "label": "Officer of the COP", 
+                "size": 0
+            }, 
+            {
+                "label": "SBI", 
+                "size": 31
+            }, 
+            {
+                "label": "SBSTA", 
+                "size": 43
+            }
+        ]
+    }
+}

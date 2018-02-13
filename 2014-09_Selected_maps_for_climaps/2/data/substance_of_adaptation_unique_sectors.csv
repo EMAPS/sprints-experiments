@@ -1,0 +1,90 @@
+source;sector
+undp_alm;agriculture/food security
+undp_alm;coastal zone development
+undp_alm;disaster risk reduction
+undp_alm;health
+undp_alm;infrastructure/climate change risk management
+undp_alm;natural resource management
+undp_alm;rural development
+undp_alm;water resources
+cigrasp;
+cigrasp;agriculture
+cigrasp;city
+cigrasp;coast
+cigrasp;forestry
+cigrasp;water
+psi;agriculture/food security
+psi;coastal zone development
+psi;disaster risk reduction
+psi;health
+psi;infrastructure/climate change risk management
+psi;natural resource management
+psi;rural development
+psi;water resources
+climatewise;agriculture
+climatewise;climate change risk management
+climatewise;climate risk management
+climatewise;disaster risk reduction
+climatewise;disaster risk reduction legislation
+climatewise;food security
+climatewise;health
+climatewise;infrastructure
+climatewise;natural resource management
+climatewise;other linked disaster risk financing intiatives: following a disaster, loans at a discounted rate may be provided by the development bank of mauritius.
+climatewise;rural development
+climatewise;water resources
+oecd_riomarkers;administrative costs of donors
+oecd_riomarkers;i.1.a. education, level unspecified
+oecd_riomarkers;i.1.b. basic education
+oecd_riomarkers;i.1.c. secondary education
+oecd_riomarkers;i.1.d. post-secondary education
+oecd_riomarkers;i.2.a. health, general
+oecd_riomarkers;i.2.b. basic health
+oecd_riomarkers;i.3. population pol./progr. & reproductive health
+oecd_riomarkers;i.4. water supply & sanitation
+oecd_riomarkers;i.5.a. government & civil society-general
+oecd_riomarkers;i.5.b. conflict, peace & security
+oecd_riomarkers;i.6. other social infrastructure & services
+oecd_riomarkers;ii.1. transport & storage
+oecd_riomarkers;ii.2. communications
+oecd_riomarkers;ii.3. energy
+oecd_riomarkers;ii.4. banking & financial services
+oecd_riomarkers;iii.1.a. agriculture
+oecd_riomarkers;iii.1.b. forestry
+oecd_riomarkers;iii.1.c. fishing
+oecd_riomarkers;iii.2.a. industry
+oecd_riomarkers;iii.3.a. trade policies & regulations
+oecd_riomarkers;iv.1. general environment protection
+oecd_riomarkers;iv.2. other multisector
+oecd_riomarkers;ix. unallocated / unspecified
+oecd_riomarkers;vi.1. general budget support
+oecd_riomarkers;vi.2. dev. food aid/food security ass.
+oecd_riomarkers;viii.1. emergency response
+oecd_riomarkers;viii.2. reconstruction relief & rehabilitation
+oecd_riomarkers;viii.3. disaster prevention & preparedness
+climatefundsupdate;capacity building
+climatefundsupdate;coastal zones
+climatefundsupdate;cross-sector
+climatefundsupdate;early warning systems and disaster management
+climatefundsupdate;education
+climatefundsupdate;energy
+climatefundsupdate;food security
+climatefundsupdate;health
+climatefundsupdate;infrastructure
+climatefundsupdate;insurance
+climatefundsupdate;terrestrial ecosystems
+climatefundsupdate;tourism
+climatefundsupdate;water resources
+napa;capacity building
+napa;coastal zones and marine ecosystems
+napa;cross-sectorial
+napa;early warning system and disaster management
+napa;education
+napa;energy
+napa;food security
+napa;health
+napa;infrastructure
+napa;insurance
+napa;terrestrial ecosystems
+napa;tourism
+napa;water resources
