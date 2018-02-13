@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Multi-lateral funded projects country profiling per categories</title>
+  <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:300,800' rel='stylesheet' type='text/css'>
+  <style type="text/css">
+    body {
+      font-family: 'Alegreya Sans', sans-serif;
+    }
+    #container {
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      padding-bottom: 20px;
+      padding-top: 30px;
+    }
+
+    .profiles {
+      width: 100%;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    .profiles .country {
+      width: 250px;
+      height: 280px;
+      display: inline-block;
+    }
+    .profiles .country .label {
+      width: 100%;
+      height: 20px;
+      line-height: 20px;
+      text-align: center;
+      font-family: 'Alegreya Sans', sans-serif;
+      font-size: 12px;
+      color: #333;
+    }
+    .profiles .country .radar {
+      margin-left: 25px;
+      margin-top: 10px;
+      width: 200px;
+      height: 200px;
+      position: relative;
+    }
+    .profiles .country .radar:hover .chart {
+      opacity: 0.9;
+    }
+    .profiles .country .radar .caption {
+      display: none;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      vertical-align: middle;
+      position: absolute;
+      z-index: 1;
+    }
+    .profiles .country .radar:hover .caption {
+      display: block;
+    }
+    .profiles .country .radar .caption .caption-value {
+      color: #666;
+      position: absolute;
+      font-family: 'Alegreya Sans', sans-serif;
+      font-size: 10px;
+      width: 160px;
+      height: 20px;
+      line-height: 20px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .center {
+      text-align: center;
+    }
+    .left {
+      text-align: right;
+    }
+    .right {
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <h1 class="center">Multi-lateral funded projects country profiling per categories</h1>
+
+    <p>This visualisation shows the kinds of projects - in terms of sector – for which funds have been committed through the various MLFs. Using the same categorisations as the NAPA projects database<strong>*</strong> we identified the kinds of projects funded through the various MLFs. These funds are the: Adaptation Fund (AF), the Least Developed Countries Fund (LDCF), the Special Climate Change Fund (SCCF) and the Pilot Programme for Climate Resilience (PPCR).</p>
+
+    <p>Since the amount requested varied significantly from country to country, we divided the countries into three groups: those that requested less that $10M; those that requested more than $10M but less than $100M; and those that requested more than $100M. We did this to make it easier to read the results.</p>
+
+    <p><em><strong>*</strong> NAPA categories = cross-sectoral; food security; coastal zones/marine ecosystems; early warning systems and disaster management; education/capacity building; energy; health; infrastructure; insurance; terrestrial ecosystems; tourism; water resources.</em></p>
+
+    <h2 class="center">Less than 10 M$</h2>
+    <div class="profiles" id="profiles-small"></div>
+
+    <h2 class="center">Between 10 M$ and 20 M$</h2>
+    <div class="profiles" id="profiles-medium"></div>
+
+    <h2 class="center">Over 20 M$</h2>
+    <div class="profiles" id="profiles-big"></div>
+  </div>
+
+  <script type="text/javascript" src="./js/jquery.min.js"></script>
+  <script type="text/javascript" src="./js/raphael.min.js"></script>
+  <script type="text/javascript" src="./js/radars.js"></script>
+  <script type="text/javascript">
+  $(function() {
+    'use strict';
+
+    var _keys = [
+          'coastal zones',
+          'cross-sector',
+          'early warning systems and disaster management',
+          'education/capacity building',
+          'energy',
+          'food security',
+          'health',
+          'infrastructure',
+          'insurance',
+          'terrestrial ecosystems',
+          'tourism',
+          'water resources'
+        ],
+        _locale = {
+          'coastal zones': 'Coastal zones and marine ecosystems',
+          'cross-sector': 'Cross-sectorial',
+          'early warning systems and disaster management': 'Early warning system and disaster MANAGEMENT',
+          'education/capacity building': 'Education / capacity building',
+          'energy': 'Energy',
+          'food security': 'Food security',
+          'health': 'Health',
+          'infrastructure': 'Infrastructure',
+          'insurance': 'Insurance',
+          'terrestrial ecosystems': 'Terrestrial ecosystems',
+          'tourism': 'Tourism',
+          'water resources': 'Water resources',
+        };
+
+    setRadars({
+      catIndex: 1,
+      moneyIndex: 2,
+      countryKey: 'Country',
+      container: $('#profiles-big'),
+      path: './data/radar-mlp-data-focus-01.csv'
+    }, _keys, _locale);
+
+    setRadars({
+      catIndex: 1,
+      moneyIndex: 2,
+      countryKey: 'Country',
+      container: $('#profiles-medium'),
+      path: './data/radar-mlp-data-focus-02.csv'
+    }, _keys, _locale);
+
+    setRadars({
+      catIndex: 1,
+      moneyIndex: 2,
+      countryKey: 'Country',
+      container: $('#profiles-small'),
+      path: './data/radar-mlp-data-focus-03.csv'
+    }, _keys, _locale);
+  });
+  </script>
+</body>
+</html>

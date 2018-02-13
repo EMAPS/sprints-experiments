@@ -1,0 +1,159 @@
+/* 
+    Document   : style.css
+    Created on : Apr 15, 2012, 6:09:40 PM
+    Author     : erik
+    Description:
+        Purpose of the stylesheet follows.
+*/
+.navbox-inner {
+    display: none;
+}
+div#content {
+    color: #555 !important;
+}
+
+a:link, a:hover, a:visited, a:active {
+    color: #555 !important;
+}
+
+#prova a.new{
+	color: #555;
+}
+
+
+div#content a.external {
+    /* color: #ccc; */
+}
+#morecontent {
+    cursor: pointer;
+}
+
+.controversy_element {
+    /* border: 1px solid green; */
+    font-size: large;
+    color: #000;
+}
+
+
+
+.controversy_element a {
+    color: #000 !important;
+}
+
+
+
+#p-logo a {
+    background-size: 120px 120px;
+}
+
+.tooltip {
+    position: absolute;
+    width: 82%;
+    padding: 20px;
+    z-index: 999;
+
+    background-color: #F3F3F3;
+    border: 1px solid #ccc;
+
+    color: #000;
+    font-size: 0.7em;
+    line-height: 1.2em;
+}
+.tooltip a {
+    color: #0645AD;
+}
+
+.tooltip table {
+    border: 1px solid white;
+}
+
+.tooltip td, .tooltip th {
+    border: 1px solid white;
+    padding: 5px;
+}
+
+
+
+/* controveryRatings */
+
+.n0 {
+    background-color: #cfcfcf;
+}
+.n1 {
+    background-color: #d0d0cc;
+}
+.n2 {
+    background-color: #d1d0ca;
+}
+.n3 {
+    background-color: #d2d0c7;
+}
+.n4 {
+    background-color: #d3d0c4;
+}
+.n5 {
+    background-color: #d4d1c1;
+}
+.n6 {
+    background-color: #d4d1bf;
+}
+.n7 {
+    background-color: #d5d1bc;
+}
+.n8 {
+    background-color: #d6d1b9;
+}
+.n9 {
+    background-color: #d7d2b6;
+}
+.n10 {
+    background-color: #d8d2b3;
+}
+.n11 {
+    background-color: #d8d2b0;
+}
+.n12 {
+    background-color: #d9d2ae;
+}
+.n13 {
+    background-color: #dad3ab;
+}
+.n14 {
+    background-color: #dbd3a8;
+}
+.n16 {
+    background-color: #dcd3a2;
+}
+.n21 {
+    background-color: #e0d593;
+}
+.n22 {
+    background-color: #e1d590;
+}
+.n23 {
+    background-color: #e1d58d;
+}
+.n24 {
+    background-color: #e2d68a;
+}
+.n25 {
+    background-color: #e3d687;
+}
+.n26 {
+    background-color: #e4d684;
+}
+.n28 {
+    background-color: #e5d77d;
+}
+.n31 {
+    background-color: #e7d873;
+}
+.n45 {
+    background-color: #f1dc33;
+}
+.n58 {
+    background-color: #f2c519;
+}
+.n100 {
+    background-color: #ef2826;
+}

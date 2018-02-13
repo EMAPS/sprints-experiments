@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NAPA projects countries VS Multi-lateral funded countries profiling per categories</title>
+  <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:300,800' rel='stylesheet' type='text/css'>
+  <style type="text/css">
+    body {
+      font-family: 'Alegreya Sans', sans-serif;
+    }
+    #container {
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      padding-bottom: 20px;
+      padding-top: 30px;
+    }
+
+    .profiles {
+      width: 100%;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    .profiles .country {
+      width: 250px;
+      height: 280px;
+      display: inline-block;
+    }
+    .profiles .country .label {
+      width: 100%;
+      height: 20px;
+      line-height: 20px;
+      text-align: center;
+      font-family: 'Alegreya Sans', sans-serif;
+      font-size: 12px;
+      color: #333;
+    }
+    .profiles .country .radar {
+      margin-left: 25px;
+      margin-top: 10px;
+      width: 200px;
+      height: 200px;
+      position: relative;
+    }
+    .profiles .country .radar > * {
+      position: absolute !important;
+      left: 0 !important;
+      top: 0 !important;
+    }
+    .profiles .country .radar:hover .chart {
+      opacity: 0.9;
+    }
+    .profiles .country .radar .caption {
+      display: none;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      vertical-align: middle;
+      position: absolute;
+      z-index: 1;
+    }
+    .profiles .country .radar:hover .caption {
+      display: block;
+    }
+    .profiles .country .radar .caption .caption-value {
+      color: #666;
+      position: absolute;
+      font-family: 'Alegreya Sans', sans-serif;
+      font-size: 10px;
+      width: 160px;
+      height: 20px;
+      line-height: 20px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .center {
+      text-align: center;
+    }
+    .left {
+      text-align: right;
+    }
+    .right {
+      text-align: left;
+    }
+    .box {
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+    }
+    .box[data-dataset="napa"] {
+      background-color: #329975;
+      border-radius: 2px;
+      vertical-align: middle;
+    }
+    .box[data-dataset="mlf"] {
+      background-color: #ABBB3C;
+      border-radius: 2px;
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <h1 class="center">NAPA projects countries VS Multi-lateral funded countries profiling per categories</h1>
+
+    <div>
+    <p>This visualisation compares the kinds of projects - in terms of sector - requested in the NAPAs and those funded in the MLFs. We used the 12 categories used in the NAPA projects database.<strong>*</strong></p>
+
+    <p>The visualisation on the left about the NAPAs shows that the most common type of project proposed in the NAPAs related to "food security". The next two most popular areas were "terrestrial ecosystems" and "water resources".</p>
+
+    <p>In the visualisation on the right hand side, which refers to the projects funded by the MLFs, the most common project type was "cross sectoral" with education/capacity building the second most common category. The "cross sectoral" category includes projects which involve more than one sector (e.g. water resources, education/capacity building, coastal zones etc) which means that the number of projects that relate to a particular sector are higher than is reflected in the visualisation. This category also includes all those projects which relate to policy development, policy implementation, and policy adaptation (often through the development, design and implementation of National Plans for Adaptation) which often relate to more than one sector.</p>
+
+    <p><em><strong>*</strong> NAPA categories = cross-sectoral; food security; coastal zones/marine ecosystems; early warning systems and disaster management; education/capacity building; energy; health; infrastructure; insurance; terrestrial ecosystems; tourism; water resources.</em></p>
+    </div>
+
+    <br>
+
+    <div>
+      Colors:
+      <div class="box" data-dataset="napa"></div> NAPA dataset /
+      <div class="box" data-dataset="mlf"></div> Multi-lateral funds dataset
+    </div>
+
+    <hr>
+
+    <div class="profiles" id="profiles"></div>
+  </div>
+
+  <script type="text/javascript" src="./js/jquery.min.js"></script>
+  <script type="text/javascript" src="./js/raphael.min.js"></script>
+  <script type="text/javascript" src="./js/radars.js"></script>
+  <script type="text/javascript">
+  $(function() {
+    'use strict';
+
+    var _keys = [
+          'coastal zones',
+          'cross-sector',
+          'early warning systems and disaster management',
+          'education/capacity building',
+          'energy',
+          'food security',
+          'health',
+          'infrastructure',
+          'insurance',
+          'terrestrial ecosystems',
+          'tourism',
+          'water resources'
+        ],
+        _locale = {
+          'coastal zones': 'Coastal zones and marine ecosystems',
+          'cross-sector': 'Cross-sectorial',
+          'early warning systems and disaster management': 'Early warning system and disaster MANAGEMENT',
+          'education/capacity building': 'Education / capacity building',
+          'energy': 'Energy',
+          'food security': 'Food security',
+          'health': 'Health',
+          'infrastructure': 'Infrastructure',
+          'insurance': 'Insurance',
+          'terrestrial ecosystems': 'Terrestrial ecosystems',
+          'tourism': 'Tourism',
+          'water resources': 'Water resources',
+        };
+
+    setRadars({
+      catIndex: 1,
+      moneyIndex: 2,
+      color: '#ABBB3C',
+      countryKey: 'Country',
+      container: $('#profiles'),
+      path: './data/radar-mlp-data.csv'
+    }, _keys, _locale);
+
+    var _keys = [
+          'COASTAL ZONES AND MARINE ECOSYSTEMS',
+          'CROSS-SECTORIAL',
+          'EARLY WARNING SYSTEM AND DISASTER MANAGEMENT',
+          'EDUCATION/ CAPACITY BUILDING',
+          'ENERGY',
+          'FOOD SECURITY',
+          'HEALTH',
+          'INFRASTRUCTURE',
+          'INSURANCE',
+          'TERRESTRIAL ECOSYSTEMS',
+          'TOURISM',
+          'WATER RESOURCES'
+        ],
+        _locale = {
+          'COASTAL ZONES AND MARINE ECOSYSTEMS': 'Coastal zones and marine ecosystems',
+          'CROSS-SECTORIAL': 'Cross-sectorial',
+          'EARLY WARNING SYSTEM AND DISASTER MANAGEMENT': 'Early warning system and disaster MANAGEMENT',
+          'EDUCATION/ CAPACITY BUILDING': 'Education / capacity building',
+          'ENERGY': 'Energy',
+          'FOOD SECURITY': 'Food security',
+          'HEALTH': 'Health',
+          'INFRASTRUCTURE': 'Infrastructure',
+          'INSURANCE': 'Insurance',
+          'TERRESTRIAL ECOSYSTEMS': 'Terrestrial ecosystems',
+          'TOURISM': 'Tourism',
+          'WATER RESOURCES': 'Water resources',
+        };
+
+    setRadars({
+      catIndex: 1,
+      color: '#329975',
+      moneyIndex: 2,
+      countryKey: 'Country',
+      container: $('#profiles'),
+      path: './data/radar-napa-data.csv'
+    }, _keys, _locale);
+  });
+  </script>
+</body>
+</html>

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NAPA countries network</title>
+  <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:300,800' rel='stylesheet' type='text/css'>
+  <style type="text/css">
+    body,
+    #graph {
+      margin: 0;
+      padding: 0;
+    }
+    #graph {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+    }
+    .font-loader {
+      font-family: 'Alegreya Sans', sans-serif;
+      position: absolute;
+      height: 20px;
+      top: -30px;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <div class="font-loader">abc</div>
+  <div id="graph"></div>
+  <script type="text/javascript" src="./js/sigma.min.js"></script>
+  <script type="text/javascript" src="./js/jquery.min.js"></script>
+  <script type="text/javascript">
+  $(function() {
+    sigma.classes.graph.addMethod(
+      'getNeighborhood',
+      function(centerId) {
+        var k1,
+            k2,
+            k3,
+            node,
+            center,
+            // Those two local indexes are here just to avoid duplicates:
+            localNodesIndex = {},
+            localEdgesIndex = {},
+            // And here is the resulted graph, empty at the moment:
+            graph = {
+              nodes: {},
+              edges: {}
+            };
+
+        // Check that the exists:
+        if (!this.nodes(centerId))
+          return graph;
+
+        // Add center. It has to be cloned to add it the "center" attribute
+        // without altering the current graph:
+        node = this.nodes(centerId);
+        center = {};
+        center.center = true;
+        for (k1 in node)
+          center[k1] = node[k1];
+
+        localNodesIndex[centerId] = true;
+        graph.nodes[centerId] = 1;
+
+        // Add neighbors and edges between the center and the neighbors:
+        for (k1 in this.allNeighborsIndex[centerId]) {
+          if (!localNodesIndex[k1]) {
+            localNodesIndex[k1] = true;
+            graph.nodes[k1] = 1;
+          }
+
+          for (k2 in this.allNeighborsIndex[centerId][k1])
+            if (!localEdgesIndex[k2]) {
+              localEdgesIndex[k2] = true;
+              graph.edges[k2] = 1;
+            }
+        }
+
+        // Add edges connecting two neighbors:
+        for (k1 in localNodesIndex)
+          if (k1 !== centerId)
+            for (k2 in localNodesIndex)
+              if (
+                k2 !== centerId &&
+                k1 !== k2 &&
+                this.allNeighborsIndex[k1][k2]
+              )
+                for (k3 in this.allNeighborsIndex[k1][k2])
+                  if (!localEdgesIndex[k3]) {
+                    localEdgesIndex[k3] = true;
+                    graph.edges[k3] = 1;
+                  }
+
+        // Finally, let's return the final graph:
+        return graph;
+      }
+    );
+
+    $.ajax({
+      url: './data/napa-countries-graph.json',
+      dataType: 'json',
+      success: function(data) {
+        // Clean data:
+        data.nodes.forEach(function(node) {
+          node.trueColor = node.color;
+        });
+        data.edges.forEach(function(edge) {
+          edge.weight = edge.size;
+          delete edge.color;
+        });
+
+        var s = new sigma({
+          renderers: [{
+            container: document.getElementById('graph'),
+            type: 'canvas'
+          }],
+          settings: {
+            font: '"Alegreya Sans", sans-serif',
+            defaultEdgeColor: 'rgba(0, 0, 0, 0.1)',
+            edgeColor: 'default',
+            labelThreshold: 6.7
+          }
+        });
+
+        s.bind('overNode', function(e) {
+          var node = e.data.node.id,
+              graph = s.graph.getNeighborhood(node);
+
+          s.graph.edges().forEach(function(edge) {
+            if (graph.edges[edge.id])
+              edge.color = '#888';
+            else
+              edge.color = 'rgba(0, 0, 0, 0.1)';
+          });
+
+          s.graph.nodes().forEach(function(node) {
+            if (graph.nodes[node.id])
+              node.color = node.trueColor;
+            else
+              node.color = '#ccc';
+          });
+          s.refresh();
+        }).bind('outNode', function(e) {
+          s.graph.nodes().forEach(function(node) {
+            node.color = node.trueColor;
+          });
+          s.graph.edges().forEach(function(edge) {
+            delete edge.color;
+          });
+          s.refresh();
+        });
+
+        setTimeout(function() {
+          s.graph.read(data);
+
+          s.refresh();
+        }, 100);
+      }
+    });
+  });
+  </script>
+</body>
+</html>

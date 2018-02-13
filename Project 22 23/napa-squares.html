@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NAPA projects country profiling per funds, GDP and population</title>
+  <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:300,800' rel='stylesheet' type='text/css'>
+  <style type="text/css">
+    body {
+      font-family: 'Alegreya Sans', sans-serif;
+    }
+    #container {
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    #profiles {
+      width: 100%;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+      overflow: hidden;
+    }
+    #profiles .country {
+      width: 210px;
+      height: 180px;
+      display: inline-block;
+    }
+    #profiles .country .label {
+      width: 100%;
+      height: 20px;
+      line-height: 20px;
+      text-align: center;
+      font-family: 'Alegreya Sans', sans-serif;
+      font-size: 12px;
+      color: #333;
+    }
+    #profiles .country .squares {
+      margin-left: 5px;
+      margin-top: 10px;
+      width: 200px;
+      height: 100px;
+      position: relative;
+    }
+    #profiles .country .squares .square {
+      position: absolute;
+    }
+    #profiles .country .squares .square:hover {
+      opacity: 0.9;
+    }
+    #profiles .country .squares .square[data-column="Sum of Requested Fund"] {
+      right: 50%;
+      bottom: 50%;
+      background-color: #329975;
+    }
+    #profiles .country .squares .square[data-column="Sum of Approved Fund MLT"] {
+      left: 50%;
+      bottom: 50%;
+      background-color: #183E49;
+    }
+    #profiles .country .squares .square[data-column="Received Fund BL"] {
+      left: 50%;
+      bottom: 50%;
+      background-color: #4AC0E2;
+    }
+    .center {
+      text-align: center;
+    }
+
+    input[type="radio"] {
+      display: inline;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <h1 class="center">NAPA projects country profiling per funds, GDP and population</h1>
+
+    <p>Using data from the NAPA projects database, Climate Funds Update and the World Bank we created country profiles which show the amount a country requested in a NAPA, the amount they received through MLFs (dark blue; MLT) and through bilateral funds (in light blue; BL). We compared this information to the GDP and population of each of the countries.<strong>*</strong></p>
+
+    <p><em><strong>*</strong> The data for the NAPA, MLF and BLF funds are normalised to the maximum value of the three funds.  The data for GDP is also normalised to the maximum value of GDP. This information then enables us to compare the GDP of each country.  The data for population levels is also normalised to the maximum value of population. This is then used to compare population levels across countries. This means that we are not using the same values or directly comparing either population or GDP to the amount of funds either requested or committed.</em></p>
+
+    <br>
+
+    <div class="center">
+      Normalize by:
+      <input type="radio" name="normalize" id="None" value="" checked> <label for="None">None</label>
+      <input type="radio" name="normalize" id="Population" value="Population"> <label for="Population">Population</label>
+      <input type="radio" name="normalize" id="GDP" value="GDP"> <label for="GDP">GDP</label>
+    </div>
+    <hr>
+
+    <div id="profiles"></div>
+  </div>
+  <script type="text/javascript" src="./js/squares.js"></script>
+  <script type="text/javascript" src="./js/jquery.min.js"></script>
+  <script type="text/javascript">
+  $(function() {
+    'use strict';
+
+    var _keys = [
+          {
+            key: 'Sum of Requested Fund',
+            money: true
+          },
+          {
+            key: 'Sum of Approved Fund MLT',
+            money: true
+          },
+          {
+            key: 'Received Fund BL',
+            money: true
+          }
+        ],
+        _dividors = [
+          'Population',
+          'GDP'
+        ];
+
+    setSquares({
+      container: $('#profiles'),
+      path: './data/square-napa-data.csv'
+    }, _keys, _dividors);
+    $('input:radio').change(function() {
+      normalize($(this).attr('value'));
+    });
+  });
+  </script>
+</body>
+</html>
